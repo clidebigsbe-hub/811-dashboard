@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tango Fiber - 811 Ticket Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #1e1e2e 0%, #2a2a3e 100%);
+            color: #e0e0e0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            backdrop-filter: blur(10px);
+        }
+
+        h1 {
+            color: #fff;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .updated {
+            color: #aaa;
+            font-size: 0.9em;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: rgba(255, 255, 255, 0.08);
+            padding: 20px;
+            border-radius: 12px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .stat-value {
+            font-size: 2.5em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            color: #aaa;
+            text-transform: uppercase;
+            font-size: 0.8em;
+            letter-spacing: 1px;
+        }
+
+        .stat-card.clear .stat-value { color: #4caf50; }
+        .stat-card.attention .stat-value { color: #ff9800; }
+        .stat-card.total .stat-value { color: #2196f3; }
+
+        .controls {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 250px;
+            padding: 12px 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            color: #fff;
+            font-size: 1em;
+        }
+
+        .search-box::placeholder {
+            color: #888;
+        }
+
+        .filter-button {
+            padding: 12px 24px;
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            color: #fff;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 0.95em;
+        }
+
+        .filter-button:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .filter-button.active {
+            background: #2196f3;
+            border-color: #2196f3;
+        }
+
+        .download-button {
+            padding: 12px 24px;
+            background: #4caf50;
+            border: none;
+            border-radius: 8px;
+            color: #fff;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.2s;
+        }
+
+        .download-button:hover {
+            background: #45a049;
+            transform: scale(1.05);
+        }
+
+        table {
+            width: 100%;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            overflow: hidden;
+            border-collapse: collapse;
+        }
+
+        thead {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        th {
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.85em;
+            letter-spacing: 1px;
+            cursor: pointer;
+            user-select: none;
+            position: relative;
+        }
+
+        th:hover {
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        th.sortable::after {
+            content: ' ↕';
+            opacity: 0.3;
+        }
+
+        th.sort-asc::after {
+            content: ' ↑';
+            opacity: 1;
+        }
+
+        th.sort-desc::after {
+            content: ' ↓';
+            opacity: 1;
+        }
+
+        td {
+            padding: 15px;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        tr {
+            transition: background 0.2s;
+        }
+
+        tbody tr:hover {
+            background: rgba(255, 255, 255, 0.08);
+            cursor: pointer;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .badge.clear {
+            background: rgba(76, 175, 80, 0.2);
+            color: #4caf50;
+            border: 1px solid #4caf50;
+        }
+
+        .badge.attention {
+            background: rgba(255, 152, 0, 0.2);
+            color: #ff9800;
+            border: 1px solid #ff9800;
+        }
+
+        .badge.unmarked {
+            background: rgba(244, 67, 54, 0.2);
+            color: #f44336;
+            border: 1px solid #f44336;
+        }
+
+        .badge.unknown {
+            background: rgba(158, 158, 158, 0.2);
+            color: #9e9e9e;
+            border: 1px solid #9e9e9e;
+        }
+
+        .detail-row {
+            display: none;
+            background: rgba(0, 0, 0, 0.3);
+        }
+
+        .detail-row.show {
+            display: table-row;
+        }
+
+        .detail-content {
+            padding: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .detail-section {
+            margin-bottom: 15px;
+        }
+
+        .detail-section h4 {
+            color: #2196f3;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+
+        .utility-response {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 10px 15px;
+            margin-bottom: 10px;
+            border-radius: 6px;
+            border-left: 3px solid #666;
+        }
+
+        .utility-response.clear { border-left-color: #4caf50; }
+        .utility-response.marked { border-left-color: #4caf50; }
+        .utility-response.unmarked { border-left-color: #f44336; }
+        .utility-response.exception { border-left-color: #ff9800; }
+
+        .utility-company {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .utility-type {
+            color: #aaa;
+            font-size: 0.9em;
+            margin-bottom: 5px;
+        }
+
+        .utility-status {
+            font-size: 0.9em;
+            font-weight: 600;
+        }
+
+        .utility-details {
+            font-size: 0.85em;
+            color: #bbb;
+            margin-top: 5px;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #888;
+            font-size: 1.2em;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px;
+            font-size: 1.5em;
+            color: #888;
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 1.8em; }
+            .stats { grid-template-columns: 1fr; }
+            table { font-size: 0.9em; }
+            th, td { padding: 10px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚧 Tango Fiber - 811 Ticket Dashboard</h1>
+            <div class="updated" id="lastUpdated">Loading...</div>
+        </header>
+
+        <div class="stats" id="stats">
+            <div class="stat-card total">
+                <div class="stat-value" id="totalCount">-</div>
+                <div class="stat-label">Total Tickets</div>
+            </div>
+            <div class="stat-card clear">
+                <div class="stat-value" id="clearCount">-</div>
+                <div class="stat-label">Clear to Dig</div>
+            </div>
+            <div class="stat-card attention">
+                <div class="stat-value" id="attentionCount">-</div>
+                <div class="stat-label">Need Attention</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <input type="text" class="search-box" id="searchBox" placeholder="Search tickets (number, street, location...)">
+            <button class="filter-button active" data-filter="all">All</button>
+            <button class="filter-button" data-filter="clear">Clear to Dig</button>
+            <button class="filter-button" data-filter="attention">Needs Attention</button>
+            <a href="811-Ticket-Report.xlsx" download>
+                <button class="download-button">📥 Download Excel Report</button>
+            </a>
+        </div>
+
+        <div id="tableContainer">
+            <div class="loading">Loading ticket data...</div>
+        </div>
+    </div>
+
+    <script>
+        let allTickets = [];
+        let currentFilter = 'all';
+        let currentSort = { column: null, direction: 'asc' };
+
+        async function loadData() {
+            try {
+                const response = await fetch('SUMMARY-DATA.json');
+                const data = await response.json();
+                
+                document.getElementById('lastUpdated').textContent = `Last updated: ${data.generated || 'Unknown'}`;
+                document.getElementById('totalCount').textContent = data.totalTickets || 0;
+                document.getElementById('clearCount').textContent = data.clearToDig || 0;
+                document.getElementById('attentionCount').textContent = data.awaitingLocate || 0;
+
+                allTickets = data.tickets || [];
+                renderTable();
+            } catch (error) {
+                document.getElementById('tableContainer').innerHTML = 
+                    '<div class="no-results">❌ Error loading ticket data. Please try again later.</div>';
+                console.error('Error loading data:', error);
+            }
+        }
+
+        function getStatusBadge(ticket) {
+            if (ticket.allClear) return '<span class="badge clear">Clear to Dig</span>';
+            if (ticket.hasUnmarked) return '<span class="badge unmarked">Unmarked</span>';
+            if (ticket.hasNoResponse) return '<span class="badge attention">No Response</span>';
+            if (ticket.hasExceptions) return '<span class="badge attention">Exceptions</span>';
+            return '<span class="badge unknown">Unknown</span>';
+        }
+
+        function renderTable() {
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            
+            let filtered = allTickets.filter(ticket => {
+                // Filter by status
+                if (currentFilter === 'clear' && !ticket.allClear) return false;
+                if (currentFilter === 'attention' && ticket.allClear) return false;
+
+                // Search filter
+                if (searchTerm) {
+                    const searchable = `${ticket.ticket} ${ticket.street} ${ticket.cross1} ${ticket.location} ${ticket.doneFor}`.toLowerCase();
+                    if (!searchable.includes(searchTerm)) return false;
+                }
+
+                return true;
+            });
+
+            // Sort
+            if (currentSort.column) {
+                filtered.sort((a, b) => {
+                    let valA = a[currentSort.column] || '';
+                    let valB = b[currentSort.column] || '';
+                    
+                    if (currentSort.column === 'summary') {
+                        valA = a.summary?.unmarked || 0;
+                        valB = b.summary?.unmarked || 0;
+                    }
+
+                    if (valA < valB) return currentSort.direction === 'asc' ? -1 : 1;
+                    if (valA > valB) return currentSort.direction === 'asc' ? 1 : -1;
+                    return 0;
+                });
+            }
+
+            if (filtered.length === 0) {
+                document.getElementById('tableContainer').innerHTML = 
+                    '<div class="no-results">No tickets match your search/filter.</div>';
+                return;
+            }
+
+            let html = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="sortable" data-column="ticket">Ticket #</th>
+                            <th class="sortable" data-column="street">Street</th>
+                            <th class="sortable" data-column="cross1">Cross Street</th>
+                            <th>Status</th>
+                            <th class="sortable" data-column="expiresClean">Expires</th>
+                            <th class="sortable" data-column="summary">Unmarked</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            filtered.forEach(ticket => {
+                const summary = ticket.summary || {};
+                html += `
+                    <tr onclick="toggleDetail('${ticket.ticket}')">
+                        <td><strong>${ticket.ticket}</strong></td>
+                        <td>${ticket.street || 'N/A'}</td>
+                        <td>${ticket.cross1 || 'N/A'}</td>
+                        <td>${getStatusBadge(ticket)}</td>
+                        <td>${ticket.expiresClean || ticket.expires || 'N/A'}</td>
+                        <td>${summary.unmarked || 0} / ${summary.total || 0}</td>
+                    </tr>
+                    <tr class="detail-row" id="detail-${ticket.ticket}">
+                        <td colspan="6">
+                            <div class="detail-content">
+                                ${renderDetail(ticket)}
+                            </div>
+                        </td>
+                    </tr>
+                `;
+            });
+
+            html += '</tbody></table>';
+            document.getElementById('tableContainer').innerHTML = html;
+
+            // Update sort indicators
+            document.querySelectorAll('th').forEach(th => {
+                th.classList.remove('sort-asc', 'sort-desc');
+                if (th.dataset.column === currentSort.column) {
+                    th.classList.add(currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
+                }
+            });
+
+            // Add sort listeners
+            document.querySelectorAll('th.sortable').forEach(th => {
+                th.addEventListener('click', () => {
+                    const column = th.dataset.column;
+                    if (currentSort.column === column) {
+                        currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+                    } else {
+                        currentSort.column = column;
+                        currentSort.direction = 'asc';
+                    }
+                    renderTable();
+                });
+            });
+        }
+
+        function renderDetail(ticket) {
+            const summary = ticket.summary || {};
+            let html = `
+                <div class="detail-section">
+                    <h4>📍 Location Details</h4>
+                    <p><strong>Location:</strong> ${ticket.location || 'N/A'}</p>
+                    <p><strong>Done For:</strong> ${ticket.doneFor || 'N/A'}</p>
+                    <p><strong>Work Type:</strong> ${ticket.workType || 'N/A'}</p>
+                    <p><strong>Depth:</strong> ${ticket.depth || 'N/A'}</p>
+                </div>
+
+                <div class="detail-section">
+                    <h4>📊 Summary</h4>
+                    <p>Total Responses: ${summary.total || 0} | 
+                       Marked: ${summary.marked || 0} | 
+                       Clear: ${summary.clear || 0} | 
+                       Unmarked: ${summary.unmarked || 0} | 
+                       Exceptions: ${summary.markedExceptions || 0} | 
+                       No Response: ${summary.noResponse || 0}</p>
+                </div>
+
+                <div class="detail-section">
+                    <h4>🏢 Utility Responses</h4>
+            `;
+
+            if (ticket.responses && ticket.responses.length > 0) {
+                ticket.responses.forEach(resp => {
+                    let statusClass = 'clear';
+                    if (resp.status === 'UNMARKED') statusClass = 'unmarked';
+                    else if (resp.status === 'MARKED WITH EXCEPTIONS') statusClass = 'exception';
+                    
+                    html += `
+                        <div class="utility-response ${statusClass}">
+                            <div class="utility-company">${resp.company}</div>
+                            <div class="utility-type">${resp.utilityTypes}</div>
+                            <div class="utility-status">${resp.status}</div>
+                            ${resp.details ? `<div class="utility-details">${resp.details}</div>` : ''}
+                        </div>
+                    `;
+                });
+            } else {
+                html += '<p>No utility responses recorded.</p>';
+            }
+
+            html += '</div>';
+            return html;
+        }
+
+        function toggleDetail(ticketId) {
+            const detailRow = document.getElementById(`detail-${ticketId}`);
+            if (detailRow) {
+                detailRow.classList.toggle('show');
+            }
+        }
+
+        // Event listeners
+        document.getElementById('searchBox').addEventListener('input', renderTable);
+
+        document.querySelectorAll('.filter-button').forEach(button => {
+            button.addEventListener('click', () => {
+                document.querySelectorAll('.filter-button').forEach(b => b.classList.remove('active'));
+                button.classList.add('active');
+                currentFilter = button.dataset.filter;
+                renderTable();
+            });
+        });
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>
