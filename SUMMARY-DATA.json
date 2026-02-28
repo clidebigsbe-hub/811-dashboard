@@ -1,8 +1,75 @@
 {
-  "generated": "2/27/26, 8:45 PM",
-  "totalTickets": 23,
+  "generated": "2/27/26, 8:50 PM",
+  "totalTickets": 39,
   "clearToDig": 4,
-  "awaitingLocate": 19,
+  "awaitingLocate": 35,
+  "usingFallbackCount": 16,
+  "fallbackTickets": [
+    {
+      "ticket": "26021005960",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021005962",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021005965",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021005968",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021005973",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021005978",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021005983",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021005984",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021100001",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021100002",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021100003",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021100004",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021100005",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021100006",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021100007",
+      "date": "2026-02-25"
+    },
+    {
+      "ticket": "26021100010",
+      "date": "2026-02-25"
+    }
+  ],
   "tickets": [
     {
       "type": "NORMAL NOTICE",
@@ -97,9 +164,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -187,9 +252,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -284,9 +347,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": true,
-      "overallStatus": "CLEAR TO DIG",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "CLEAR TO DIG"
     },
     {
       "type": "NORMAL NOTICE",
@@ -381,9 +442,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -478,9 +537,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": true,
-      "overallStatus": "CLEAR TO DIG",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "CLEAR TO DIG"
     },
     {
       "type": "NORMAL NOTICE",
@@ -582,9 +639,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -679,9 +734,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -776,9 +829,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -873,9 +924,7 @@
       "hasExceptions": false,
       "hasNoResponse": true,
       "allClear": false,
-      "overallStatus": "AWAITING RESPONSE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING RESPONSE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -970,9 +1019,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1067,9 +1114,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1171,9 +1216,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1268,9 +1311,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1365,9 +1406,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1469,9 +1508,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1566,9 +1603,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1670,9 +1705,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1774,9 +1807,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1878,9 +1909,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "AWAITING LOCATE"
     },
     {
       "type": "NORMAL NOTICE",
@@ -1975,9 +2004,1613 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
+      "overallStatus": "AWAITING LOCATE"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021005960",
+      "date": "02/10/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "HILLSIDE DR",
+      "cross1": "FRAME RD",
+      "location": "FROM THE INTERSECTION. LOCATE THE REAR EASEMENT BEHIND PROPERTIES 8922 HILLSIDE DR THROUGH 8766 HILLSIDE DR. (NORTH/EAST SIDE OF ROAD) WORK EXTENDS APPROXIMATELY 1,130 FEET",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/02/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:41 AM",
+      "expiresClean": "03/02/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:53 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:30 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:30 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:59 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:36 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:36 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:36 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:36 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 05:42 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/18/2026 09:22 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 9,
+        "clear": 3,
+        "marked": 1,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
       "overallStatus": "AWAITING LOCATE",
-      "_dataSource": "current",
-      "_dataDate": null
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021005962",
+      "date": "02/10/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "HILLSIDE DR",
+      "cross1": "FRAME RD",
+      "location": "FROM THE INTERSECTION OF FRAME RD AND HILLSIDE DR, TRAVEL EAST APPROXIMATELY 500 FEET, THEN SOUTH 320 FEET TO THE CUL-DE-SAC. LOCATE THE REAR EASEMENT ON BOTH SIDES OF THE ROAD FOR ADDRESSES 8744 THROUGH 8688 (SOUTH) AND 8699 THROUGH 8733 (NORTH).",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/02/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:41 AM",
+      "expiresClean": "03/02/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:53 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:41 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:41 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:59 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:43 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:43 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:43 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:43 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 05:42 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/18/2026 09:22 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 9,
+        "clear": 3,
+        "marked": 1,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021005965",
+      "date": "02/10/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "COUNT FLEET DR",
+      "cross1": "W RUFFIAN LN",
+      "location": "FROM THE INTERSECTION OF RUFFIAN LN AND COUNT FLEET DR, TRAVEL SOUTH ON COUNT FLEET DR TO WHIRLAWAY LN. LOCATE THE REAR  EASEMENTS FOR ALL PROPERTIES ON BOTH SIDES OF COUNT FLEET DR BETWEEN THESE TWO INTERSECTIONS. SPECIFICALLY INCLUDES REAR OF 4000 THROUGH 4144 (EAST SIDE) AND 4015 THROUGH 4155 (WEST SIDE).",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/02/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:41 AM",
+      "expiresClean": "03/02/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:53 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:53 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:53 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:59 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:51 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:51 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:51 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:51 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/11/2026 11:41 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:00 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 9,
+        "clear": 2,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021005968",
+      "date": "02/10/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "S TRIPLE CROWN DR",
+      "cross1": "W RUFFIAN LN",
+      "location": "FROM THE INTERSECTION OF RUFFIAN LN AND TRIPLE CROWN DR, TRAVEL SOUTH ON TRIPLE CROWN DR APPROXIMATELY 115 FEET, LOCATE THE ROAD CROSSING AT THIS POINT, THEN CONTINUE SOUTH THROUGH THE REAR UTILITY EASEMENT LOCATED BETWEEN TRIPLE CROWN DR AND SECRETARIAT DR. LOCATE  BEHIND PROPERTIES 4000 THROUGH 4144 TRIPLE CROWN DR AND 4011 THROUGH 4133 SECRETARIAT DR. FOR APPROXIMATELY 650 FEET",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/02/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:42 AM",
+      "expiresClean": "03/02/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:04 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:04 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:59 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:58 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:58 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:58 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:58 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/11/2026 11:41 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:00 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 9,
+        "clear": 2,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021005973",
+      "date": "02/10/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "S SECRETARIAT DR",
+      "cross1": "W RUFFIAN LN",
+      "location": "FROM THE INTERSECTION, LOCATE THE REAR EASEMENTS FOR ALL PROPERTIES ON THE EAST SIDE OF S SECRETARIAT DR. SPECIFICALLY INCLUDES REAR OF 4000 - 4144 S SECRETARIAT DR.",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/02/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:42 AM",
+      "expiresClean": "03/02/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:18 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:18 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:59 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:07 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:07 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:07 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:07 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/11/2026 11:41 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:00 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 9,
+        "clear": 2,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021005978",
+      "date": "02/10/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "S CITATION DR",
+      "cross1": "W RUFFIAN LN",
+      "location": "FROM THE INTERSECTION, LOCATE THE REAR EASEMENTS FOR ALL PROPERTIES ON THE EAST SIDE OF S CITATION DR. SPECIFICALLY INCLUDES REAR OF 4000 - 4166 S CITATION DR",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/02/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:42 AM",
+      "expiresClean": "03/02/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "MARATHON PETROLEUM COMPANY, LLC",
+          "utilityTypes": "PIPELINE",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:36 AM Respondent:HANNAH MCMILLEN RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:33 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:33 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:59 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:14 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:14 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:14 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:14 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/11/2026 11:41 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:00 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 10,
+        "clear": 3,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021005983",
+      "date": "02/10/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "W WHIRLAWAY DR",
+      "cross1": "S CITATION DR",
+      "location": "FROM THE INTERSECTION, LOCATE WEST APPROXIMATELY 890 IN THE REAR EASEMENTS FOR ALL PROPERTIES ON THE SOUTH SIDE OF W WHIRLAWAY DR. SPECIFICALLY INCLUDES REAR OF 8711-8877 W WHIRLAWAY DR.",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/02/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:42 AM",
+      "expiresClean": "03/02/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "MARATHON PETROLEUM COMPANY, LLC",
+          "utilityTypes": "PIPELINE",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:40 AM Respondent:HANNAH MCMILLEN RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:44 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:44 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:59 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:21 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:21 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:21 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:21 CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/11/2026 11:41 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:01 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 9,
+        "clear": 2,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021005984",
+      "date": "02/10/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "COUNT FLEET DR",
+      "cross1": "W WHIRLAWAY DR",
+      "location": "FROM THE INTERSECTION, TRAVEL 150 FEET SOUTH, LOCATE APPROXIMATELY 250 FEET WEST  TO INCLUDE THE ENTIRE EASEMENT",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/02/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:43 AM",
+      "expiresClean": "03/02/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:55 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:55 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:59 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:31 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:31 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:31 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:31 CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/11/2026 11:41 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:01 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 8,
+        "clear": 1,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021100001",
+      "date": "02/11/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "FOXMOOR DR",
+      "cross1": "BRANDYWINE DR",
+      "location": "FROM THE INTERSECTION OF BRANDYWINE DR AND FOXMOOR DR, LOCATE A ROAD CROSSING TO 4288 FOXMOOR DR. LOCATE A SECOND ROAD CROSSING FURTHER SOUTH BETWEEN 4388 AND 4399 FOXMOOR DR. ADDITIONALLY, LOCATE THE REAR UTILITY EASEMENTS ON BOTH SIDES OF FOXMOOR DR FROM BRANDYWINE DR SOUTH TO 4488 AND 4499.",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/03/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:43 AM",
+      "expiresClean": "03/03/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "MARATHON PETROLEUM COMPANY, LLC",
+          "utilityTypes": "PIPELINE",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 04:44 AM Respondent:HANNAH MCMILLEN RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:33 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:33 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/12/2026 11:22 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:39 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:39 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:39 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:39 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 05:59 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:01 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 10,
+        "clear": 3,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021100002",
+      "date": "02/11/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "BRANDYWINE DR",
+      "cross1": "GLENNBROOKE DR",
+      "location": "FROM THE INTERSECTION, LOCATE SOUTH 450 FEET ON THE WEST SIDE OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/03/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:43 AM",
+      "expiresClean": "03/03/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:46 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:46 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/12/2026 12:33 PM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:46 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:46 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:46 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:46 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 05:55 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:01 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 9,
+        "clear": 2,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021100003",
+      "date": "02/11/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "GLENNBROOKE DR",
+      "cross1": "BRANDYWINE DR",
+      "location": "FROM THE INTERSECTION, LOCATE WEST 650 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/03/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:44 AM",
+      "expiresClean": "03/03/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:57 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:57 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/12/2026 12:33 PM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:53 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:53 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:53 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:53 CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 05:55 AM NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 7,
+        "clear": 1,
+        "marked": 1,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021100004",
+      "date": "02/11/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "STONEGARDEN LN",
+      "cross1": "GLENNBROOKE DR",
+      "location": "FROM THE INTERSECTION, LOCATE SOUTH 250 FEET ON BOTH SIDES OF THE ROAD INCLUDING THE ENTIRE CUL-DE-SAC.. TO INCLUDE THE ENTIRE EASEMENT",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/03/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:44 AM",
+      "expiresClean": "03/03/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:08 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:08 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/12/2026 12:33 PM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:00 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:00 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:00 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:00 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 05:55 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:01 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 9,
+        "clear": 2,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021100005",
+      "date": "02/11/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "STONEGARDEN LN",
+      "cross1": "HAWTHORNE DR",
+      "location": "LOCATE THE REAR EASEMENT RUNNING NORTH-TO-SOUTH BETWEEN STONEGARDEN LN AND HAWTHORNE DR, COVERING PROPERTIES 4300 THROUGH 4400 STONEGARDEN LN.",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/03/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:44 AM",
+      "expiresClean": "03/03/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:22 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:22 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/12/2026 12:33 PM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:08 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:08 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:08 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:08 CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 05:55 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:01 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 8,
+        "clear": 1,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021100006",
+      "date": "02/11/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "HAWTHORNE DR",
+      "cross1": "W GLENNBROOKE DR",
+      "location": "LOCATE THE REAR EASEMENT BETWEEN HAWTHORNE DR AND S BRANDYWINE DR, COVERING PROPERTIES 4288 THROUGH 4400 HAWTHORNE DR.",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/03/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:44 AM",
+      "expiresClean": "03/03/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:34 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:34 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/12/2026 12:33 PM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:14 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:14 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:14 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:14 CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 05:55 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:01 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 8,
+        "clear": 1,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021100007",
+      "date": "02/11/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "RUFFIAN LN",
+      "cross1": "COUNT FLEET DR",
+      "location": "FROM THE INTERSECTION LOCATE EAST 130 FEET ON THE SOUTH SIDE OF THE ROAD",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/03/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:45 AM",
+      "expiresClean": "03/03/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/16/2026 12:30 PM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:22 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:22 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:22 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:22 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/11/2026 11:41 AM NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 7,
+        "clear": 2,
+        "marked": 1,
+        "markedExceptions": 0,
+        "unmarked": 4,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
+    },
+    {
+      "type": "NORMAL NOTICE",
+      "ticket": "26021100010",
+      "date": "02/11/2026",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "city": "NEWBURGH",
+      "subdivision": "Address :",
+      "street": "COUNT FLEET DR",
+      "cross1": "RUFFIAN LN",
+      "location": "FROM  THE INTERSECTION, TRAVEL SOUTH 120 FEET, STARTING AT 4000 COUNT FLEET DR, LOCATE EAST APPROXIMATELY 800 FEET TO 4011 CITATION DR. LOCATE THE ENTIRE 30FT WIDE BORE PATH, INCLUDING THE ROAD CROSSINGS AT TRIPLE CROWN DR AND SECRETARIAT DR. ALSO LOCATE THE REAR EASEMENTS BEHIND PROPERTIES ALONG THIS PATH.",
+      "boringWhere": "UNDER EASEMENT",
+      "workType": "DIRECTIONAL DRILLING - CONDUIT",
+      "doneFor": "MAINSTREAM",
+      "startDate": "02/13/2026",
+      "depth": "4 FT",
+      "company": "M&R  CONSTRUCTION ENTERPRISES INC",
+      "caller": "RAFAEL RIVAS",
+      "callerPhone": "(470)262-2280",
+      "email": "M.R.CONSTRUCTION.LOCATES@GMAIL.COM",
+      "expires": "03/03/2026 23:59",
+      "responsesAsOf": "02/25/2026 09:45 AM",
+      "expiresClean": "03/03/2026",
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:59 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 02/20/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT - 2026/02/12 04:15 PROJECT WORKING WITH RAF TO GET AREAS MARKED DAILY FOR EACH CREW 2026/02/12 04:15 RESCHEDULE APPROVED BY: RAFFE 8901233456 2026/02/22 18:26 NO ME"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/12/2026 08:58 AM Attempted to contact: RAFAEL RIVAS, Comments : RAFAEL - CHANGED FROM: 2026-02-13 06:00:00 TO 2026-03-02 06:00:55 - EXCAVATION DATE CHANGED FROM: 2026-02-13 07:00:00 TO: 2026-03-02 07:00:55 CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:02 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:30 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:30 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/19/2026 01:03 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : NATHAN. PRIORITIES LIST ALREADY GIVEN BY CONTRACTOR - CHANGED FROM: 2026-02-20 06:00:45 TO 2026-02-27 06:00:30 - EXCAVATION DATE CHANGED FROM: 2026-02-20 07:00:45 TO: 2026-02-27 07:00:30 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "details": "Date:02/11/2026 06:30 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/11/2026 11:41 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "details": "Date:02/23/2026 05:01 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "details": "Date:02/20/2026 07:55 AM Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 02/20/2026 at 09:54 AM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/02/2026 at 09:54 AM, Comments : NO MESSAGE LEFT ONGOING PROJECT"
+        }
+      ],
+      "summary": {
+        "total": 8,
+        "clear": 1,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "overallStatus": "AWAITING LOCATE",
+      "_fallbackDate": "2026-02-25"
     },
     {
       "type": "NORMAL NOTICE",
@@ -2058,9 +3691,7 @@
       "hasExceptions": true,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "EXCEPTIONS",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "EXCEPTIONS"
     },
     {
       "type": "NORMAL NOTICE",
@@ -2148,9 +3779,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": true,
-      "overallStatus": "CLEAR TO DIG",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "CLEAR TO DIG"
     },
     {
       "type": "NORMAL NOTICE",
@@ -2238,9 +3867,7 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": true,
-      "overallStatus": "CLEAR TO DIG",
-      "_dataSource": "current",
-      "_dataDate": null
+      "overallStatus": "CLEAR TO DIG"
     }
   ]
 }
