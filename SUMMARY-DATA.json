@@ -1,5 +1,5 @@
 {
-  "generated": "2/27/26, 1:13 PM",
+  "generated": "2/27/26, 8:45 PM",
   "totalTickets": 23,
   "clearToDig": 4,
   "awaitingLocate": 19,
@@ -97,7 +97,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -185,7 +187,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -280,7 +284,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": true,
-      "overallStatus": "CLEAR TO DIG"
+      "overallStatus": "CLEAR TO DIG",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -375,7 +381,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -470,7 +478,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": true,
-      "overallStatus": "CLEAR TO DIG"
+      "overallStatus": "CLEAR TO DIG",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -572,7 +582,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -667,7 +679,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -762,7 +776,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -857,7 +873,9 @@
       "hasExceptions": false,
       "hasNoResponse": true,
       "allClear": false,
-      "overallStatus": "AWAITING RESPONSE"
+      "overallStatus": "AWAITING RESPONSE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -952,7 +970,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1047,7 +1067,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1149,7 +1171,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1244,7 +1268,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1339,7 +1365,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1441,7 +1469,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1536,7 +1566,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1638,7 +1670,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1740,7 +1774,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1842,7 +1878,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -1937,7 +1975,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "AWAITING LOCATE"
+      "overallStatus": "AWAITING LOCATE",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -2018,7 +2058,9 @@
       "hasExceptions": true,
       "hasNoResponse": false,
       "allClear": false,
-      "overallStatus": "EXCEPTIONS"
+      "overallStatus": "EXCEPTIONS",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -2106,7 +2148,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": true,
-      "overallStatus": "CLEAR TO DIG"
+      "overallStatus": "CLEAR TO DIG",
+      "_dataSource": "current",
+      "_dataDate": null
     },
     {
       "type": "NORMAL NOTICE",
@@ -2194,7 +2238,9 @@
       "hasExceptions": false,
       "hasNoResponse": false,
       "allClear": true,
-      "overallStatus": "CLEAR TO DIG"
+      "overallStatus": "CLEAR TO DIG",
+      "_dataSource": "current",
+      "_dataDate": null
     }
   ]
 }
