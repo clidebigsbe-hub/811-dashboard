@@ -439,6 +439,7 @@
 
             filtered.forEach(ticket => {
                 const summary = ticket.responseSummary || {};
+                const unmarkedDisplay = ticket.allClear ? '-' : `${summary.unmarked || 0} / ${summary.total || 0}`;
                 html += `
                     <tr onclick="toggleDetail('${ticket.ticket}')">
                         <td><strong>${ticket.ticket}</strong></td>
@@ -446,7 +447,7 @@
                         <td>${ticket.cross1 || 'N/A'}</td>
                         <td>${getStatusBadge(ticket)}</td>
                         <td>${ticket.expiresClean || ticket.expires || 'N/A'}</td>
-                        <td>${summary.unmarked || 0} / ${summary.total || 0}</td>
+                        <td>${unmarkedDisplay}</td>
                     </tr>
                     <tr class="detail-row" id="detail-${ticket.ticket}">
                         <td colspan="6">
