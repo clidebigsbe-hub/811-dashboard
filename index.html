@@ -406,8 +406,8 @@
                     let valB = b[currentSort.column] || '';
                     
                     if (currentSort.column === 'summary') {
-                        valA = a.summary?.unmarked || 0;
-                        valB = b.summary?.unmarked || 0;
+                        valA = a.responseSummary?.unmarked || 0;
+                        valB = b.responseSummary?.unmarked || 0;
                     }
 
                     if (valA < valB) return currentSort.direction === 'asc' ? -1 : 1;
@@ -438,7 +438,7 @@
             `;
 
             filtered.forEach(ticket => {
-                const summary = ticket.summary || {};
+                const summary = ticket.responseSummary || {};
                 html += `
                     <tr onclick="toggleDetail('${ticket.ticket}')">
                         <td><strong>${ticket.ticket}</strong></td>
@@ -485,7 +485,7 @@
         }
 
         function renderDetail(ticket) {
-            const summary = ticket.summary || {};
+            const summary = ticket.responseSummary || {};
             let html = `
                 <div class="detail-section">
                     <h4>📍 Location Details</h4>
