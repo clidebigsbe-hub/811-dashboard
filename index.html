@@ -362,8 +362,8 @@
                 
                 document.getElementById('lastUpdated').textContent = `Last updated: ${data.generated || 'Unknown'}`;
                 document.getElementById('totalCount').textContent = data.totalTickets || 0;
-                document.getElementById('clearCount').textContent = data.clearToDig || 0;
-                document.getElementById('attentionCount').textContent = data.awaitingLocate || 0;
+                document.getElementById('clearCount').textContent = data.allClearCount || 0;
+                document.getElementById('attentionCount').textContent = data.attentionCount || 0;
 
                 allTickets = data.tickets || [];
                 renderTable();
