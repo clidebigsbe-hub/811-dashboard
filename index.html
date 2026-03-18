@@ -392,7 +392,7 @@
 
                 // Search filter
                 if (searchTerm) {
-                    const searchable = `${ticket.ticket} ${ticket.street} ${ticket.cross1} ${ticket.location} ${ticket.doneFor}`.toLowerCase();
+                    const searchable = `${ticket.ticket} ${ticket.city} ${ticket.street} ${ticket.cross1} ${ticket.location} ${ticket.doneFor}`.toLowerCase();
                     if (!searchable.includes(searchTerm)) return false;
                 }
 
@@ -431,6 +431,7 @@
                     <thead>
                         <tr>
                             <th class="sortable" data-column="ticket">Ticket #</th>
+                            <th class="sortable" data-column="city">City</th>
                             <th class="sortable" data-column="street">Street</th>
                             <th class="sortable" data-column="cross1">Cross Street</th>
                             <th>Status</th>
@@ -450,6 +451,7 @@
                 html += `
                     <tr onclick="toggleDetail('${ticket.ticket}')">
                         <td><strong>${ticket.ticket}</strong></td>
+                        <td>${ticket.city || 'N/A'}</td>
                         <td>${ticket.street || 'N/A'}</td>
                         <td>${ticket.cross1 || 'N/A'}</td>
                         <td>${getStatusBadge(ticket)}</td>
@@ -458,7 +460,7 @@
                         <td style="${scrapedStyle}">${lastScraped}</td>
                     </tr>
                     <tr class="detail-row" id="detail-${ticket.ticket}">
-                        <td colspan="7">
+                        <td colspan="8">
                             <div class="detail-content">
                                 ${renderDetail(ticket)}
                             </div>
