@@ -408,6 +408,10 @@
                     if (currentSort.column === 'summary') {
                         valA = a.responseSummary?.unmarked || 0;
                         valB = b.responseSummary?.unmarked || 0;
+                    } else if (currentSort.column === 'lastScrapedDisplay') {
+                        // Sort by ISO timestamp, not human-readable display text
+                        valA = a.lastScraped || '1970-01-01T00:00:00Z';
+                        valB = b.lastScraped || '1970-01-01T00:00:00Z';
                     }
 
                     if (valA < valB) return currentSort.direction === 'asc' ? -1 : 1;
