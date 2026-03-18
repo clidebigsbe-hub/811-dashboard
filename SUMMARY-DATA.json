@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-18T19:04:46.404Z",
+  "generated": "2026-03-18T19:15:58.912Z",
   "totalTickets": 127,
   "attentionCount": 55,
-  "allClearCount": 66,
+  "allClearCount": 72,
   "tickets": [
     {
       "ticket": "26021005726",
@@ -20,6 +20,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971737,
+        "s": 37.968844,
+        "w": -87.41927,
+        "e": -87.415437
+      },
       "location": "FROM THE INTERSECTION, LOCATE CLINT CIR FROM APPROXIMATELY 4500 CLINT CIR TO 4710 CLINT CIR, INCLUDING THE ENTIRE CUL-DE-SAC. WORK WILL BE PERFORMED IN THE REAR EASEMENT OF ALL HOMES WITHIN THESE LIMITS. MARK ALL UNDERGROUND UTILITIES IN THE REAR EASEMENT AND ADJACENT RIGHT-OF-WAY.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -131,6 +137,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971489,
+        "s": 37.970226,
+        "w": -87.418268,
+        "e": -87.416876
+      },
       "location": "FROM THE INTERSECTION, TRAVEL NORTH 500 FEET TO  WEST 225 FEET.... LOCATE A 50 FOOT-WIDE PATH FROM THE SOUTH SIDE OF THE ROAD GOING NORTH APPROXIMATELY 60 FEET.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -233,6 +245,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.969909,
+        "s": 37.968241,
+        "w": -87.418094,
+        "e": -87.416696
+      },
       "location": "FROM THE INTERSECTION, LOCATE SOUTH 208 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -344,6 +362,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.969336,
+        "s": 37.966778,
+        "w": -87.418779,
+        "e": -87.416695
+      },
       "location": "FROM THE INTERSECTION, LOCATE WEST 200 FEET TO SOUTH 530 FEET, ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -455,6 +479,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.967888,
+        "s": 37.966785,
+        "w": -87.418744,
+        "e": -87.414057
+      },
       "location": "FROM THE INTERSECTION, TRAVEL WEST 200 FEET TO SOUTH 530 FEET.. LOCATE EAST 950 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -566,6 +596,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.969339,
+        "s": 37.966799,
+        "w": -87.418087,
+        "e": -87.41406
+      },
       "location": "FROM THE INTERSECTION, LOCATE EAST 760 FEET TO SOUTH 520 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -686,6 +722,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.969294,
+        "s": 37.96681,
+        "w": -87.417076,
+        "e": -87.414497
+      },
       "location": "FROM THE NORTHERNMOST INTERSECTION, LOCATE 500 FEET SOUTH IN THE REAR EASEMENT OF BOTH SIDES OF THE ROAD.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -797,6 +839,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.969339,
+        "s": 37.968241,
+        "w": -87.418084,
+        "e": -87.416696
+      },
       "location": "LOCATE A 100 FOOT RADIUS OF THE INTERSECTION",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -908,6 +956,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.969944,
+        "s": 37.968807,
+        "w": -87.419797,
+        "e": -87.415529
+      },
       "location": "FROM THE INTERSECTION LOCATE EAST 830 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -1019,6 +1073,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.972655,
+        "s": 37.968809,
+        "w": -87.419792,
+        "e": -87.418402
+      },
       "location": "FROM THE INTERSECTION, LOCATE NORTH 1,000 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -1130,6 +1190,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973034,
+        "s": 37.971109,
+        "w": -87.421189,
+        "e": -87.418388
+      },
       "location": "FROM THE INTERSECTION, TRAVEL NORTH 300 FEET.. LOCATE WEST 400 FEET TO NORTH 290 FEET TO EAST 245 FEET TO SOUTHEAST 215 FEET.. ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -1241,6 +1307,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.970559,
+        "s": 37.969461,
+        "w": -87.421114,
+        "e": -87.418386
+      },
       "location": "FROM THE INTERSECTION, LOCATE WEST 386 FEET ON BOTH SIDES OF THE ROAD, INCLUDING THE ENTIRE CUL-DE-SAC. LOCATING  THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -1361,6 +1433,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971389,
+        "s": 37.970275,
+        "w": -87.421093,
+        "e": -87.418386
+      },
       "location": "FROM THE INTERSECTION, LOCATE WEST 380 FEET ON BOTH SIDES OF THE ROAD, INCLUDING THE ENTIRE CUL-DE-SAC. LOCATING THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -1472,6 +1550,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.972606,
+        "s": 37.971494,
+        "w": -87.421122,
+        "e": -87.41851
+      },
       "location": "LOCATE THE REAR OF 4207 HUNTINGTON RIDGE CIR, 4217 HUNTINGTON RIDGE CIR, 4227 HUNTINGTON RIDGE CIR, AND 4267 HUNTINGTON RIDGE CIR. TO INCLUDE THE ENTIRE REAR EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -1583,6 +1667,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973368,
+        "s": 37.971978,
+        "w": -87.418566,
+        "e": -87.413316
+      },
       "location": "FROM THE INTERSECTION, LOCATE WEST APPROXIMATELY 1,125 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -1703,6 +1793,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973309,
+        "s": 37.971087,
+        "w": -87.418552,
+        "e": -87.414927
+      },
       "location": "FROM THE INTERSECTION, TRAVEL WEST APPROXIMATELY 1,125 FEET.. LOCATE SOUTH APPROXIMATELY 320 FEET TO EAST 440 FEET TO NORTHEAST 480 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -1814,6 +1910,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973364,
+        "s": 37.970343,
+        "w": -87.414709,
+        "e": -87.413311
+      },
       "location": "FROM THE INTERSECTION, LOCATE SOUTH APPROXIMATELY 700 ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -1934,6 +2036,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971733,
+        "s": 37.970623,
+        "w": -87.414669,
+        "e": -87.41106
+      },
       "location": "FROM THE INTERSECTION, LOCATE EAST APPROXIMATELY 640 FEET ON THE SOUTH SIDE OF THE ROAD IN THE REAR OF PROPERTIES TO INCLUDE THE ENTIRE REAR EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -2054,6 +2162,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973559,
+        "s": 37.971501,
+        "w": -87.414667,
+        "e": -87.411002
+      },
       "location": "FROM THE INTERSECTION. LOCATE EAST 655 FEET ON BOTH SIDES OF THE ROAD LOCATE THE REAR EASEMENT OF ALL PROPERTIES",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -2174,6 +2288,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973078,
+        "s": 37.971007,
+        "w": -87.412976,
+        "e": -87.411576
+      },
       "location": "FROM THE INTERSECTION. LOCATE SOUTH APPROXIMATELY 355 FEET ON THE EAST SIDE OF THE ROAD IN THE REAR EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -2285,6 +2405,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.975258,
+        "s": 37.972428,
+        "w": -87.414226,
+        "e": -87.411095
+      },
       "location": "FROM THE INTERSECTION. LOCATE THE REAR EASEMENT BEHIND PROPERTIES 8922 HILLSIDE DR THROUGH 8766 HILLSIDE DR. (NORTH/EAST SIDE OF ROAD) WORK EXTENDS APPROXIMATELY 1,130 FEET",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -2405,6 +2531,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.974378,
+        "s": 37.972448,
+        "w": -87.414135,
+        "e": -87.411402
+      },
       "location": "FROM THE INTERSECTION OF FRAME RD AND HILLSIDE DR, TRAVEL EAST APPROXIMATELY 500 FEET, THEN SOUTH 320 FEET TO THE CUL-DE-SAC. LOCATE THE REAR EASEMENT ON BOTH SIDES OF THE ROAD FOR ADDRESSES 8744 THROUGH 8688 (SOUTH) AND 8699 THROUGH 8733 (NORTH).",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -2525,6 +2657,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976165,
+        "s": 37.972831,
+        "w": -87.412368,
+        "e": -87.409738
+      },
       "location": "FROM THE INTERSECTION OF RUFFIAN LN AND COUNT FLEET DR, TRAVEL SOUTH ON COUNT FLEET DR TO WHIRLAWAY LN. LOCATE THE REAR  EASEMENTS FOR ALL PROPERTIES ON BOTH SIDES OF COUNT FLEET DR BETWEEN THESE TWO INTERSECTIONS. SPECIFICALLY INCLUDES REAR OF 4000 THROUGH 4144 (EAST SIDE) AND 4015 THROUGH 4155 (WEST SIDE).",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -2645,6 +2783,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976119,
+        "s": 37.972825,
+        "w": -87.410759,
+        "e": -87.408418
+      },
       "location": "FROM THE INTERSECTION OF RUFFIAN LN AND TRIPLE CROWN DR, TRAVEL SOUTH ON TRIPLE CROWN DR APPROXIMATELY 115 FEET, LOCATE THE ROAD CROSSING AT THIS POINT, THEN CONTINUE SOUTH THROUGH THE REAR UTILITY EASEMENT LOCATED BETWEEN TRIPLE CROWN DR AND SECRETARIAT DR. LOCATE  BEHIND PROPERTIES 4000 THROUGH 4144 TRIPLE CROWN DR AND 4011 THROUGH 4133 SECRETARIAT DR. FOR APPROXIMATELY 650 FEET",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -2765,6 +2909,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976111,
+        "s": 37.972837,
+        "w": -87.409542,
+        "e": -87.407178
+      },
       "location": "FROM THE INTERSECTION, LOCATE THE REAR EASEMENTS FOR ALL PROPERTIES ON THE EAST SIDE OF S SECRETARIAT DR. SPECIFICALLY INCLUDES REAR OF 4000 - 4144 S SECRETARIAT DR.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -2885,6 +3035,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976077,
+        "s": 37.972428,
+        "w": -87.407951,
+        "e": -87.406516
+      },
       "location": "FROM THE INTERSECTION, LOCATE THE REAR EASEMENTS FOR ALL PROPERTIES ON THE EAST SIDE OF S CITATION DR. SPECIFICALLY INCLUDES REAR OF 4000 - 4166 S CITATION DR",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -3014,6 +3170,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973956,
+        "s": 37.972379,
+        "w": -87.411655,
+        "e": -87.406653
+      },
       "location": "FROM THE INTERSECTION, LOCATE WEST APPROXIMATELY 890 IN THE REAR EASEMENTS FOR ALL PROPERTIES ON THE SOUTH SIDE OF W WHIRLAWAY DR. SPECIFICALLY INCLUDES REAR OF 8711-8877 W WHIRLAWAY DR.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -3134,6 +3296,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973517,
+        "s": 37.972418,
+        "w": -87.412542,
+        "e": -87.410272
+      },
       "location": "FROM THE INTERSECTION, TRAVEL 150 FEET SOUTH, LOCATE APPROXIMATELY 250 FEET WEST  TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -3245,6 +3413,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973499,
+        "s": 37.968869,
+        "w": -87.409073,
+        "e": -87.406403
+      },
       "location": "FROM THE INTERSECTION OF BRANDYWINE DR AND FOXMOOR DR, LOCATE A ROAD CROSSING TO 4288 FOXMOOR DR. LOCATE A SECOND ROAD CROSSING FURTHER SOUTH BETWEEN 4388 AND 4399 FOXMOOR DR. ADDITIONALLY, LOCATE THE REAR UTILITY EASEMENTS ON BOTH SIDES OF FOXMOOR DR FROM BRANDYWINE DR SOUTH TO 4488 AND 4499.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -3374,6 +3548,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971203,
+        "s": 37.968868,
+        "w": -87.409595,
+        "e": -87.4082
+      },
       "location": "FROM THE INTERSECTION, LOCATE SOUTH 450 FEET ON THE WEST SIDE OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -3494,6 +3674,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971219,
+        "s": 37.970101,
+        "w": -87.411844,
+        "e": -87.408196
+      },
       "location": "FROM THE INTERSECTION, LOCATE WEST 650 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -3596,6 +3782,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971216,
+        "s": 37.969458,
+        "w": -87.411846,
+        "e": -87.410308
+      },
       "location": "FROM THE INTERSECTION, LOCATE SOUTH 250 FEET ON BOTH SIDES OF THE ROAD INCLUDING THE ENTIRE CUL-DE-SAC.. TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -3716,6 +3908,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973122,
+        "s": 37.970092,
+        "w": -87.41183,
+        "e": -87.409292
+      },
       "location": "LOCATE THE REAR EASEMENT RUNNING NORTH-TO-SOUTH BETWEEN STONEGARDEN LN AND HAWTHORNE DR, COVERING PROPERTIES 4300 THROUGH 4400 STONEGARDEN LN.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -3827,6 +4025,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.97306,
+        "s": 37.970073,
+        "w": -87.410776,
+        "e": -87.408208
+      },
       "location": "LOCATE THE REAR EASEMENT BETWEEN HAWTHORNE DR AND S BRANDYWINE DR, COVERING PROPERTIES 4288 THROUGH 4400 HAWTHORNE DR.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -3938,6 +4142,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976155,
+        "s": 37.975048,
+        "w": -87.411655,
+        "e": -87.409815
+      },
       "location": "FROM THE INTERSECTION LOCATE EAST 130 FEET ON THE SOUTH SIDE OF THE ROAD",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -4040,6 +4250,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.975822,
+        "s": 37.974712,
+        "w": -87.411649,
+        "e": -87.407485
+      },
       "location": "FROM  THE INTERSECTION, TRAVEL SOUTH 120 FEET, STARTING AT 4000 COUNT FLEET DR, LOCATE EAST APPROXIMATELY 800 FEET TO 4011 CITATION DR. LOCATE THE ENTIRE 30FT WIDE BORE PATH, INCLUDING THE ROAD CROSSINGS AT TRIPLE CROWN DR AND SECRETARIAT DR. ALSO LOCATE THE REAR EASEMENTS BEHIND PROPERTIES ALONG THIS PATH.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -4151,6 +4367,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.981019,
+        "s": 37.979871,
+        "w": -87.450254,
+        "e": -87.440616
+      },
       "location": "STARTING AT THE INTERSECTION OF EPWORTH AND STAHL, LOCATE WEST ON THE NORTH SIDE OF STAHL ROAD FOR 825 FEET",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -4280,6 +4502,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.980944,
+        "s": 37.977175,
+        "w": -87.445257,
+        "e": -87.443812
+      },
       "location": "LOCATE FRONT EASEMENT OF THE STREET OF THE INDIANA VALLEY APPT COMPLEX UNDER CONSTRUCTION",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -4382,6 +4610,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.983824,
+        "s": 37.97586,
+        "w": -87.846514,
+        "e": -87.844817
+      },
       "location": "STARTING AT ADDRESS 3775 SAILER RD LOCATE SOUTH FOR APPOX 2500FT STOPPING AT POLE #00048277 ON THE WEST SIDE OF ROAD",
       "company": "BROADBAND OF INDIANA",
       "caller": "MICHAEL BOONE",
@@ -4475,6 +4709,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.988123,
+        "s": 37.98247,
+        "w": -87.846461,
+        "e": -87.844524
+      },
       "location": "LOCATE FROM ADDRESS 3775 SAILER RD NORTH FOR APPOX 1650FT STOPPING AT INTERSECTION ON WEST SIDE OF ROAD.",
       "company": "BROADBAND OF INDIANA",
       "caller": "MICHAEL BOONE",
@@ -4577,6 +4817,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.98898,
+        "s": 37.987165,
+        "w": -87.846405,
+        "e": -87.843941
+      },
       "location": "LOCATE FOR ADDRESS WEST ON SOUTH SIDE OF ROAD FOR APPOX 500FT STOPPING AT INTERSECTION ON THE WEST SIDE OF SAILER RD",
       "company": "BROADBAND OF INDIANA",
       "caller": "MICHAEL BOONE",
@@ -4679,6 +4925,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.027309,
+        "s": 39.023531,
+        "w": -86.937193,
+        "e": -86.935726
+      },
       "location": "STARTING AT INTERSECTION OF E SOUTH ST AND N JUDGE STREET, LOCATE N ON S JUDGE FOR 290 FEET STOPPING AT INTERSECTION OF E MECHANIC",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -4763,6 +5015,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.024629,
+        "s": 39.023531,
+        "w": -86.937194,
+        "e": -86.934306
+      },
       "location": "LOCATE REAR OF PROPERTY TO INCLUDE THE ALLEY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -4838,6 +5096,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.024629,
+        "s": 39.023531,
+        "w": -86.937194,
+        "e": -86.934306
+      },
       "location": "LOCATE REAR OF PROPERTY TO INCLUDE THE ALLEY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -4913,6 +5177,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.024629,
+        "s": 39.023531,
+        "w": -86.937194,
+        "e": -86.934306
+      },
       "location": "LOCATE REAR OF PROPERTY TO INCLUDE THE ALLEY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -4988,6 +5258,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.024629,
+        "s": 39.023531,
+        "w": -86.937194,
+        "e": -86.934306
+      },
       "location": "LOCATE REAR OF PROPERTY TO INCLUDE THE ALLEY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5063,6 +5339,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.024629,
+        "s": 39.023531,
+        "w": -86.937194,
+        "e": -86.934306
+      },
       "location": "LOCATE REAR OF PROPERTY TO INCLUDE THE ALLEY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5138,6 +5420,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.024629,
+        "s": 39.023531,
+        "w": -86.937194,
+        "e": -86.934306
+      },
       "location": "LOCATE REAR OF PROPERTY TO INCLUDE THE ALLEY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5213,6 +5501,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.024629,
+        "s": 39.023491,
+        "w": -86.939214,
+        "e": -86.934306
+      },
       "location": "LOCATE REAR OF PROPERTY TO INCLUDE THE ALLEY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5297,6 +5591,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025509,
+        "s": 39.024391,
+        "w": -86.939234,
+        "e": -86.933836
+      },
       "location": "STARTING AT THE INTERSECTION OF S WASHINGTON ST AND E MECHANIC ST LOCATE EAST FOR 815 FEET ON THE NORTH SIDE OF E MECHANIC ST STOPPING ON THE EAST SIDE OF COLD SPRINGS RD",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5381,6 +5681,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.027302,
+        "s": 39.024404,
+        "w": -86.938139,
+        "e": -86.936518
+      },
       "location": "STARTING AT THE INTERSECTION OF S WASHINGTON ST AND E MECHANIC ST LOCATE NORTH FOR 620 FEET ON THE EAST SIDE OF S WASHINGTON ST STOPPING IN FRONT OF 23 S WASHINGTON ST",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5465,6 +5771,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.026476,
+        "s": 39.025316,
+        "w": -86.938026,
+        "e": -86.933789
+      },
       "location": "STARTING AT THE INTERSECTION OF S WASHINGTON ST AND E SPRING ST LOCATE EAST FOR 800 FEET ON THE NORTH SIDE OF E SPRING ST",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5549,6 +5861,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.026329,
+        "s": 39.02523,
+        "w": -86.938332,
+        "e": -86.936923
+      },
       "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET FROM RIGHT OF WAY TO RIGHT OF WAY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5633,6 +5951,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025983,
+        "s": 39.024867,
+        "w": -86.93711,
+        "e": -86.933867
+      },
       "location": "LOCATE REAR OF PROPERTY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5717,6 +6041,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025983,
+        "s": 39.024867,
+        "w": -86.93711,
+        "e": -86.933867
+      },
       "location": "LOCATE REAR OF PROPERTY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5801,6 +6131,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025983,
+        "s": 39.024867,
+        "w": -86.93711,
+        "e": -86.933867
+      },
       "location": "LOCATE REAR OF PROPERTY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5885,6 +6221,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025983,
+        "s": 39.024867,
+        "w": -86.93711,
+        "e": -86.933867
+      },
       "location": "LOCATE REAR OF PROPERTY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -5969,6 +6311,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025983,
+        "s": 39.024867,
+        "w": -86.93711,
+        "e": -86.933867
+      },
       "location": "LOCATE REAR OF PROPERTY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6053,6 +6401,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025983,
+        "s": 39.024867,
+        "w": -86.93711,
+        "e": -86.933867
+      },
       "location": "LOCATE REAR OF PROPERTY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6137,6 +6491,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025983,
+        "s": 39.024867,
+        "w": -86.93711,
+        "e": -86.933867
+      },
       "location": "LOCATE REAR OF PROPERTY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6212,6 +6572,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025957,
+        "s": 39.024851,
+        "w": -86.935101,
+        "e": -86.933275
+      },
       "location": "LOCATE ENTIRE PROPERTY, INCLUDING ALL EASEMENTS AND RIGHT OF WAYS",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6287,6 +6653,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025957,
+        "s": 39.024851,
+        "w": -86.935101,
+        "e": -86.933275
+      },
       "location": "LOCATE ENTIRE PROPERTY, INCLUDING ALL EASEMENTS AND RIGHT OF WAYS",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6362,6 +6734,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025957,
+        "s": 39.024851,
+        "w": -86.935101,
+        "e": -86.933275
+      },
       "location": "LOCATE ENTIRE PROPERTY, INCLUDING ALL EASEMENTS AND RIGHT OF WAYS",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6437,6 +6815,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025957,
+        "s": 39.024851,
+        "w": -86.935101,
+        "e": -86.933275
+      },
       "location": "LOCATE ENTIRE PROPERTY, INCLUDING ALL EASEMENTS AND RIGHT OF WAYS",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6512,6 +6896,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025957,
+        "s": 39.024851,
+        "w": -86.935101,
+        "e": -86.933275
+      },
       "location": "LOCATE ENTIRE PROPERTY, INCLUDING ALL EASEMENTS AND RIGHT OF WAYS",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6587,6 +6977,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025957,
+        "s": 39.024851,
+        "w": -86.935101,
+        "e": -86.933275
+      },
       "location": "LOCATE ENTIRE PROPERTY, INCLUDING ALL EASEMENTS AND RIGHT OF WAYS",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6662,6 +7058,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.026353,
+        "s": 39.024488,
+        "w": -86.936252,
+        "e": -86.934817
+      },
       "location": "LOCATE ENTIRE PROPERTY, INCLUDING ALL EASEMENTS AND RIGHT OF WAYS",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6746,6 +7148,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.026353,
+        "s": 39.024488,
+        "w": -86.936252,
+        "e": -86.934817
+      },
       "location": "LOCATE ENTIRE PROPERTY, INCLUDING ALL EASEMENTS AND RIGHT OF WAYS",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6821,6 +7229,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.026636,
+        "s": 39.025526,
+        "w": -86.93664,
+        "e": -86.934326
+      },
       "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET FROM RIGHT OF WAY TO RIGHT OF WAY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6905,6 +7319,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.026636,
+        "s": 39.025526,
+        "w": -86.93664,
+        "e": -86.934326
+      },
       "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET FROM RIGHT OF WAY TO RIGHT OF WAY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -6989,6 +7409,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.026636,
+        "s": 39.025526,
+        "w": -86.93664,
+        "e": -86.934326
+      },
       "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET FROM RIGHT OF WAY TO RIGHT OF WAY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7073,6 +7499,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.026447,
+        "s": 39.024304,
+        "w": -86.935085,
+        "e": -86.931105
+      },
       "location": "STARTING AT THE INTERSECTION OF COLD SPRINGS RD AND E SPRING ST LOCATE EAST ON BOTH SIDES OF E SPRING ST FOR 860 FEET",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7157,6 +7589,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.027573,
+        "s": 39.026175,
+        "w": -86.938064,
+        "e": -86.931165
+      },
       "location": "STARTING AT THE INTERSECTION OF S WASHINGTON  AND E MAIN ST LOCATE EAST ON BOTH SIDES OF E MAIN ST FOR 1500 FEET",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7232,6 +7670,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.028661,
+        "s": 39.026621,
+        "w": -86.932976,
+        "e": -86.924559
+      },
       "location": "STARTING AT THE INTERSECTION OF NANCY AVE  AND E MAIN ST LOCATE EAST ON BOTH SIDES OF E MAIN ST FOR 1500 FEET",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7325,6 +7769,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.027037,
+        "s": 39.025937,
+        "w": -86.931367,
+        "e": -86.929414
+      },
       "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET FROM RIGHT OF WAY TO RIGHT OF WAY",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7400,6 +7850,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.024822,
+        "s": 39.023228,
+        "w": -86.931478,
+        "e": -86.929073
+      },
       "location": "STARTING AT THE INTERSECTION OF S LESTER AND E SPRING ST LOCATE EAST ON BOTH SIDES OF E SPRING ST FOR 400 FEET",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7484,6 +7940,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.028346,
+        "s": 39.024638,
+        "w": -86.927709,
+        "e": -86.926247
+      },
       "location": "STARTING AT THE INTERSECTION OF IN 54 AND 70 E LOCATE EAST ON BOTH SIDES OF 70 E ST FOR 1000 FEET",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7568,6 +8030,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025708,
+        "s": 39.024576,
+        "w": -86.927738,
+        "e": -86.924722
+      },
       "location": "STARTING AT THE INTERSECTION OF 14TH ST AND 70 E LOCATE EAST ON THE NORTH SIDE OF 14TH ST FOR 800 FEET",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7652,6 +8120,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025604,
+        "s": 39.023534,
+        "w": -86.924974,
+        "e": -86.923565
+      },
       "location": "STARTING AT THE INTERSECTION OF 14TH ST AND 12TH ST LOCATE SOUTH ON BOTH SIDES OF 12TH ST FOR 300 FEET",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7727,6 +8201,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.027295,
+        "s": 39.024558,
+        "w": -86.924879,
+        "e": -86.923422
+      },
       "location": "STARTING AT THE INTERSECTION OF 14TH ST AND 12TH ST LOCATE NORTH ON BOTH SIDES OF 12TH ST FOR 700 FEET",
       "company": "BROADBAND OF INDIANA",
       "caller": "JOSH FREY",
@@ -7802,6 +8282,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.02381,
+        "s": 39.022684,
+        "w": -86.948107,
+        "e": -86.944939
+      },
       "location": "FROM THE INTERSECTION LOCATE HEADING WEST FOR APPROX 500 FEET ON BOTH SIDES OF THE ROAD ENDING AT GREEN ST - EXTENDING NORTH AND SOUTH INTO THE PROPERTIES FOR 10 FEET FOR THE ENTIRE DISTANCE",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -7877,6 +8363,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.023809,
+        "s": 39.020587,
+        "w": -86.943977,
+        "e": -86.942539
+      },
       "location": "FROM THE MOST EASTERN INTERSECTION LOCATE HEADING SOUTH FOR APPROX 775 FEET ON BOTH SIDES OF THE ROAD ENDING AT W POST ST - EXTENDING EAST AND WEST INTO THE PROPERTIES FOR 10 FEET FOR THE ENTIRE DISTANCE - NO DIGGING ON ANY OTHER ROADS",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -7952,6 +8444,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976155,
+        "s": 37.975048,
+        "w": -87.411655,
+        "e": -87.409815
+      },
       "location": "FROM THE INTERSECTION LOCATE EAST 130 FEET ON THE SOUTH SIDE OF THE ROAD",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -8063,6 +8561,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973364,
+        "s": 37.970343,
+        "w": -87.414709,
+        "e": -87.413311
+      },
       "location": "FROM THE INTERSECTION, LOCATE SOUTH APPROXIMATELY 700 ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -8183,6 +8687,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971733,
+        "s": 37.970623,
+        "w": -87.414669,
+        "e": -87.41106
+      },
       "location": "FROM THE INTERSECTION, LOCATE EAST APPROXIMATELY 640 FEET ON THE SOUTH SIDE OF THE ROAD IN THE REAR OF PROPERTIES TO INCLUDE THE ENTIRE REAR EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -8303,6 +8813,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973559,
+        "s": 37.971501,
+        "w": -87.414667,
+        "e": -87.411002
+      },
       "location": "FROM THE INTERSECTION. LOCATE EAST 655 FEET TO INCLUDE BOTH SIDES OF THE ROAD.. LOCATE THE REAR EASEMENT OF ALL PROPERTIES",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -8369,6 +8885,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971733,
+        "s": 37.970623,
+        "w": -87.414669,
+        "e": -87.41106
+      },
       "location": "FROM THE INTERSECTION, LOCATE EAST APPROXIMATELY 640 FEET ON THE SOUTH SIDE OF THE ROAD IN THE REAR OF PROPERTIES TO INCLUDE THE ENTIRE REAR EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -8435,6 +8957,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973559,
+        "s": 37.971501,
+        "w": -87.414667,
+        "e": -87.411002
+      },
       "location": "FROM THE INTERSECTION. LOCATE EAST 655 FEET TO INCLUDE BOTH SIDES OF THE ROAD.. LOCATE THE REAR EASEMENT OF ALL PROPERTIES",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -8555,6 +9083,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971203,
+        "s": 37.968868,
+        "w": -87.409595,
+        "e": -87.4082
+      },
       "location": "FROM THE INTERSECTION, LOCATE SOUTH 450 FEET ON THE WEST SIDE OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -8675,6 +9209,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973078,
+        "s": 37.971007,
+        "w": -87.412976,
+        "e": -87.411576
+      },
       "location": "FROM THE INTERSECTION. LOCATE SOUTH APPROXIMATELY 355 FEET ON THE EAST SIDE OF THE ROAD IN THE REAR EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -8786,6 +9326,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.975258,
+        "s": 37.972428,
+        "w": -87.414226,
+        "e": -87.411095
+      },
       "location": "FROM THE INTERSECTION. LOCATE THE REAR EASEMENT BEHIND PROPERTIES 8922 HILLSIDE DR THROUGH 8766 HILLSIDE DR. (NORTH/EAST SIDE OF ROAD) WORK EXTENDS APPROXIMATELY 1,130 FEET",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -8906,6 +9452,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.974378,
+        "s": 37.972448,
+        "w": -87.414135,
+        "e": -87.411402
+      },
       "location": "FROM THE INTERSECTION OF FRAME RD AND HILLSIDE DR, TRAVEL EAST APPROXIMATELY 500 FEET, THEN SOUTH 320 FEET TO THE CUL-DE-SAC. LOCATE THE REAR EASEMENT TO INCLUDE BOTH SIDES OF THE ROAD FOR ADDRESSES 8744 THROUGH 8688 (SOUTH) AND 8699 THROUGH 8733 (NORTH).",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -9026,6 +9578,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976165,
+        "s": 37.972831,
+        "w": -87.412368,
+        "e": -87.409738
+      },
       "location": "FROM THE INTERSECTION OF RUFFIAN LN AND COUNT FLEET DR, TRAVEL SOUTH ON COUNT FLEET DR TO WHIRLAWAY LN. LOCATE THE REAR  EASEMENTS FOR ALL PROPERTIES ON BOTH SIDES OF COUNT FLEET DR BETWEEN THESE TWO INTERSECTIONS. SPECIFICALLY INCLUDES REAR OF 4000 THROUGH 4144 (EAST SIDE) AND 4015 THROUGH 4155 (WEST SIDE).",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -9146,6 +9704,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976119,
+        "s": 37.972825,
+        "w": -87.410759,
+        "e": -87.408418
+      },
       "location": "FROM THE INTERSECTION OF RUFFIAN LN AND TRIPLE CROWN DR, TRAVEL SOUTH ON TRIPLE CROWN DR APPROXIMATELY 115 FEET, LOCATE THE ROAD CROSSING AT THIS POINT, THEN CONTINUE SOUTH THROUGH THE REAR UTILITY EASEMENT LOCATED BETWEEN TRIPLE CROWN DR AND SECRETARIAT DR. LOCATE  BEHIND PROPERTIES 4000 THROUGH 4144 TRIPLE CROWN DR AND 4011 THROUGH 4133 SECRETARIAT DR. FOR APPROXIMATELY 650 FEET",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -9266,6 +9830,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976111,
+        "s": 37.972837,
+        "w": -87.409542,
+        "e": -87.407178
+      },
       "location": "FROM THE INTERSECTION, LOCATE THE REAR EASEMENTS FOR ALL PROPERTIES ON THE EAST SIDE OF S SECRETARIAT DR. SPECIFICALLY INCLUDES REAR OF 4000 - 4144 S SECRETARIAT DR.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -9386,6 +9956,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.976077,
+        "s": 37.972428,
+        "w": -87.407951,
+        "e": -87.406516
+      },
       "location": "FROM THE INTERSECTION, LOCATE THE REAR EASEMENTS FOR ALL PROPERTIES ON THE EAST SIDE OF S CITATION DR. SPECIFICALLY INCLUDES REAR OF 4000 - 4166 S CITATION DR",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -9515,6 +10091,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973956,
+        "s": 37.972379,
+        "w": -87.411655,
+        "e": -87.406653
+      },
       "location": "FROM THE INTERSECTION, LOCATE WEST APPROXIMATELY 890 IN THE REAR EASEMENTS FOR ALL PROPERTIES ON THE SOUTH SIDE OF W WHIRLAWAY DR. SPECIFICALLY INCLUDES REAR OF 8711-8877 W WHIRLAWAY DR.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -9635,6 +10217,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973517,
+        "s": 37.972418,
+        "w": -87.412542,
+        "e": -87.410272
+      },
       "location": "FROM THE INTERSECTION, TRAVEL 150 FEET SOUTH, LOCATE APPROXIMATELY 250 FEET WEST  TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -9746,6 +10334,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.975822,
+        "s": 37.974712,
+        "w": -87.411649,
+        "e": -87.407485
+      },
       "location": "FROM  THE INTERSECTION, TRAVEL SOUTH 120 FEET, STARTING AT 4000 COUNT FLEET DR, LOCATE EAST APPROXIMATELY 800 FEET TO 4011 CITATION DR. LOCATE THE ENTIRE 30FT WIDE BORE PATH, INCLUDING THE ROAD CROSSINGS AT TRIPLE CROWN DR AND SECRETARIAT DR. ALSO LOCATE THE REAR EASEMENTS BEHIND PROPERTIES ALONG THIS PATH.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -9857,6 +10451,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973499,
+        "s": 37.968869,
+        "w": -87.409073,
+        "e": -87.406403
+      },
       "location": "FROM THE INTERSECTION OF BRANDYWINE DR AND FOXMOOR DR, LOCATE A ROAD CROSSING TO 4288 FOXMOOR DR. LOCATE A SECOND ROAD CROSSING FURTHER SOUTH BETWEEN 4388 AND 4399 FOXMOOR DR. ADDITIONALLY, LOCATE THE REAR UTILITY EASEMENTS ON BOTH SIDES OF FOXMOOR DR FROM BRANDYWINE DR SOUTH TO 4488 AND 4499.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -9986,6 +10586,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971219,
+        "s": 37.970101,
+        "w": -87.411844,
+        "e": -87.408196
+      },
       "location": "FROM THE INTERSECTION, LOCATE WEST 650 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -10097,6 +10703,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971216,
+        "s": 37.969458,
+        "w": -87.411846,
+        "e": -87.410308
+      },
       "location": "FROM THE INTERSECTION, LOCATE SOUTH 250 FEET ON BOTH SIDES OF THE ROAD INCLUDING THE ENTIRE CUL-DE-SAC.. TO INCLUDE THE ENTIRE EASEMENT",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -10217,6 +10829,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.973122,
+        "s": 37.970092,
+        "w": -87.41183,
+        "e": -87.409292
+      },
       "location": "LOCATE THE REAR EASEMENT RUNNING NORTH-TO-SOUTH BETWEEN STONEGARDEN LN AND HAWTHORNE DR, COVERING PROPERTIES 4300 THROUGH 4400 STONEGARDEN LN.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -10328,6 +10946,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.97306,
+        "s": 37.970073,
+        "w": -87.410776,
+        "e": -87.408208
+      },
       "location": "LOCATE THE REAR EASEMENT BETWEEN HAWTHORNE DR AND S BRANDYWINE DR, COVERING PROPERTIES 4288 THROUGH 4400 HAWTHORNE DR.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -10439,6 +11063,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971737,
+        "s": 37.968844,
+        "w": -87.41927,
+        "e": -87.415437
+      },
       "location": "FROM THE INTERSECTION, LOCATE CLINT CIR FROM APPROXIMATELY 4500 CLINT CIR TO 4710 CLINT CIR, INCLUDING THE ENTIRE CUL-DE-SAC. WORK WILL BE PERFORMED IN THE REAR EASEMENT OF ALL HOMES WITHIN THESE LIMITS. MARK ALL UNDERGROUND UTILITIES IN THE REAR EASEMENT AND ADJACENT RIGHT-OF-WAY.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -10550,6 +11180,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 37.971489,
+        "s": 37.970226,
+        "w": -87.418268,
+        "e": -87.416876
+      },
       "location": "FROM THE INTERSECTION, TRAVEL NORTH 500 FEET TO  WEST 225 FEET.... LOCATE A 50 FOOT-WIDE PATH FROM THE SOUTH SIDE OF THE ROAD GOING NORTH APPROXIMATELY 60 FEET.",
       "company": "M&R  CONSTRUCTION ENTERPRISES INC",
       "caller": "RAFAEL RIVAS",
@@ -10652,6 +11288,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.025524,
+        "s": 39.024404,
+        "w": -86.941565,
+        "e": -86.936647
+      },
       "location": "FROM THE INTERSECTION - LOCATE EAST FOR APPROX 1000 FEET ON BOTH SIDE OF THE ROAD - TO INCLUDE EXTENDING 20 FEET OFF BOTH SIDES OF THE ROAD - ENDING 100 FEET EAST OF S FRANKLIN STREET",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -10709,6 +11351,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.027479,
+        "s": 39.026214,
+        "w": -86.945719,
+        "e": -86.938954
+      },
       "location": "FROM THE INTERSECTION - LOCATE WEST FOR 1500 FEET ON THE SOUTH SIDE OF THE ROAD - TO INCLUDE EXTENDING 20 FEET OFF THE SOUTH SIDE OF THE ROAD",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -10766,6 +11414,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.027341,
+        "s": 39.025268,
+        "w": -86.940402,
+        "e": -86.938983
+      },
       "location": "FROM THE INTERSECTION - LOCATE SOUTH FOR 300 FEET ON THE WEST SIDE OF THE ROAD - TO INCLUDE EXTENDING 12 FEET OFF THE WEST SIDE OF THE ROAD",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -10832,6 +11486,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.028373,
+        "s": 39.027235,
+        "w": -86.941486,
+        "e": -86.936585
+      },
       "location": "FROM THE INTERSECTION - TARVEL WEST FOR 200 FEET - LOCATE EAST FOR APPROX 1500 FEET ON BOTH SIDES OF THE ROAD - TO INCLUDE EXTENDING 20 FEET OFF BOTH SIDES OF THE ROAD - ENDING AT WASHINGTON STREET",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -10907,6 +11567,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.028381,
+        "s": 39.024419,
+        "w": -86.940387,
+        "e": -86.938976
+      },
       "location": "FROM THE INTERSECTION -LOCATE SOUTH FOR APPROX 1000 FEET ON THE EAST SIDE OF THE ROAD - TO INCLUDE EXTENDING 12 FEET OFF THE EAST SIDE OF THE ROAD - ENDING 600 FEET SOUTH OF E MAIN STREET",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -10973,6 +11639,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.030445,
+        "s": 39.027159,
+        "w": -86.939214,
+        "e": -86.936448
+      },
       "location": "FROM THE INTERSECTION -LOCATE NORTH FOR 1500 FEET ON THE WEST SIDE OF THE ROAD - TO INCLUDE EXTENDING 12 FEET OFF THE WEST SIDE OF THE ROAD",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11030,6 +11702,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.028375,
+        "s": 39.026138,
+        "w": -86.939216,
+        "e": -86.937797
+      },
       "location": "FROM THE INTERSECTION -LOCATE SOUTH FOR APPROX 400 FEET ON BOTH SIDES OF THE ROAD - TO INCLUDE EXTENDING 15 FEET OFF BOTH SIDES OF THE ROAD",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11105,6 +11783,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.022466,
+        "s": 39.019976,
+        "w": -86.940428,
+        "e": -86.939009
+      },
       "location": "STARTING ON THE NORTH SIDE OF DUNCAN STREET -LOCATE SOUTH FOR APPROX 400 FEET ON BOTH SIDES OF THE ROAD - TO INCLUDE EXTENDING 20 FEET OFF BOTH SIDES OF THE ROAD - ENDING AT W MILL STREET",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11162,6 +11846,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.021104,
+        "s": 39.019167,
+        "w": -86.941886,
+        "e": -86.936616
+      },
       "location": "FROM THE INTERSECTION - TRAVEL WEST FOR 600 FEET - LOCATE EAST FOR APPROX 1500 FEET ON BOTH SIDES OF THE ROAD - TO INCLUDE EXTENDING 20 FEET OFF BOTH SIDES OF THE ROAD - ENDING AT S WASHINGTON STREET",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11219,6 +11909,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.021085,
+        "s": 39.018937,
+        "w": -86.938109,
+        "e": -86.93661
+      },
       "location": "FROM THE INTERSECTION - LOCATE SOUTH FOR APPROX 400 FEET ON BOTH SIDES OF THE ROAD - TO INCLUDE EXTENDING 20 FEET OFF BOTH SIDES OF THE ROAD - ENDING ON THE SOUTH PROPERTY LINE OF ADDRESS 636 S WASHINGTON STREET",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11267,6 +11963,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.022997,
+        "s": 39.019952,
+        "w": -86.939222,
+        "e": -86.937793
+      },
       "location": "FROM THE INTERSECTION - LOCATE NORTH FOR APPROX 800 FEET ON BOTH SIDES OF THE ROAD - TO INCLUDE EXTENDING 20 FEET OFF BOTH SIDES OF THE ROAD - ENDING AT NORTH STREET",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11324,6 +12026,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.022987,
+        "s": 39.02108,
+        "w": -86.939874,
+        "e": -86.938444
+      },
       "location": "FROM THE INTERSECTION - TRAVEL EAST FOR APPROX 150 FEET TO THE ALLEY ON SOUTH SIDE OF THE ROAD - LOCATE SOUTH IN THE ALLEY FOR 300 FEET ON BOTH SIDES OF THE ALLEY",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11399,6 +12107,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.022978,
+        "s": 39.021876,
+        "w": -86.940421,
+        "e": -86.93662
+      },
       "location": "FROM THE INTERSECTION - LOCATE WEST FOR APPROX 1500 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE EXTENDING OFF BOTH SIDES OF THE ROAD FOR 20 FEET FOR THE LOCATE DISTANCE - ENDING S US RT 231",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11474,6 +12188,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.024614,
+        "s": 39.021848,
+        "w": -86.939228,
+        "e": -86.937798
+      },
       "location": "FROM THE INTERSECTION - LOCATE NORTH FOR APPROX 800 FEET ON BOTH SIDES OF THE ROAD TO INCLUDE EXTENDING OFF BOTH SIDES OF THE ROAD FOR 20 FEET FOR THE LOCATE DISTANCE - ENDING AT W SOUTH STREET",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11540,6 +12260,12 @@
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
+      "boundary": {
+        "n": 39.023768,
+        "s": 39.022657,
+        "w": -86.940403,
+        "e": -86.937755
+      },
       "location": "FROM THE INTERSECTION - LOCATE WEST FOR APPROX 250 FEET ON THE SOUTH SIDE OF THE ROAD - TO INCLUDE EXTENDING OFF THE SOUTH SIDE OF THE ROAD FOR 20 FEET FOR THE LOCATE DISTANCE",
       "company": "JP EXCAVATING SOLUTIONS LLC",
       "caller": "ELI DUQUE",
@@ -11601,32 +12327,38 @@
     },
     {
       "ticket": "26031601784",
-      "date": "",
-      "expires": "",
-      "expiresClean": "",
+      "date": "03/16/2026",
+      "expires": "04/05/2026 23:59",
+      "expiresClean": "04/05/2026",
       "street": "",
-      "cross1": "",
+      "cross1": "S LEWIS ST",
       "fullAddress": "",
-      "city": "",
-      "county": "",
-      "township": "",
+      "city": "BLOOMFIELD",
+      "county": "GREENE",
+      "township": "RICHLAND",
       "subdivision": "",
       "workType": "",
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
-      "location": "",
-      "company": "",
-      "caller": "",
-      "callerPhone": "",
-      "startDate": "",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "1970-01-01T00:00:00.000Z",
-      "lastScrapedDisplay": "never",
+      "boundary": {
+        "n": 39.024661,
+        "s": 39.023513,
+        "w": -86.944633,
+        "e": -86.93657
+      },
+      "location": "FROM THE INTERSECTION - TRAVEL WEST FOR 100 FEET - LOCATE EAST FOR APPROX 1200 FEET ON BOTH SIDES OF THE ROAD - TO INCLUDE EXTENDING OFF BOTH SIDES OF THE ROAD FOR 20 FEET FOR THE LOCATE DISTANCE - ENDING AT S WASHINGTON STREET",
+      "company": "JP EXCAVATING SOLUTIONS LLC",
+      "caller": "ELI DUQUE",
+      "callerPhone": "(865)438-8731",
+      "startDate": "03/19/2026",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-18T19:13:23.529Z",
+      "lastScrapedDisplay": "Mar 18, 3:13 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 4,
+        "clear": 1,
+        "marked": 3,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -11634,37 +12366,80 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "COMCAST CABLE (SOUTH)",
+          "utilityTypes": "CABLE TV",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 11:11 AM Respondent:RON EADS ( (CEN) - ON THE SPOT (IN) ) MIDWEST NATURAL GAS CORPORATION GAS"
+        },
+        {
+          "company": "MIDWEST NATURAL GAS CORPORATION",
+          "utilityTypes": "GAS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 12:43 PM Respondent:ZEV HAMM ZAYO BANDWIDTH FIBER OPTIC"
+        },
+        {
+          "company": "ZAYO BANDWIDTH",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/18/2026 06:25 AM Respondent:ADAM HOLLEY LOCATED EASTERN HEIGHTS UTILITIES, INC. WATER"
+        },
+        {
+          "company": "EASTERN HEIGHTS UTILITIES, INC.",
+          "utilityTypes": "WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 12:13 PM AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
     },
     {
       "ticket": "26031601820",
-      "date": "",
-      "expires": "",
-      "expiresClean": "",
+      "date": "03/16/2026",
+      "expires": "04/05/2026 23:59",
+      "expiresClean": "04/05/2026",
       "street": "",
-      "cross1": "",
+      "cross1": "S WASHINGTON ST",
       "fullAddress": "",
-      "city": "",
-      "county": "",
-      "township": "",
+      "city": "BLOOMFIELD",
+      "county": "GREENE",
+      "township": "RICHLAND",
       "subdivision": "",
       "workType": "",
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
-      "location": "",
-      "company": "",
-      "caller": "",
-      "callerPhone": "",
-      "startDate": "",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "1970-01-01T00:00:00.000Z",
-      "lastScrapedDisplay": "never",
+      "boundary": {
+        "n": 39.024618,
+        "s": 39.023507,
+        "w": -86.938078,
+        "e": -86.933567
+      },
+      "location": "FROM THE INTERSECTION - LOCATE EAST FOR APPROX 800 FEET ON BOTH SIDES OF THE ROAD - TO INCLUDE EXTENDING OFF BOTH SIDES OF THE ROAD FOR 20 FEET FOR THE LOCATE DISTANCE - ENDING IN FRONT OF ADDRESS 264 E SOUTH STREET",
+      "company": "JP EXCAVATING SOLUTIONS LLC",
+      "caller": "ELI DUQUE",
+      "callerPhone": "(865)438-8731",
+      "startDate": "03/19/2026",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-18T19:13:50.033Z",
+      "lastScrapedDisplay": "Mar 18, 3:13 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 3,
+        "clear": 1,
+        "marked": 2,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -11672,37 +12447,71 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MIDWEST NATURAL GAS CORPORATION",
+          "utilityTypes": "GAS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 10:53 AM Respondent:HEATH HINKLE EASTERN HEIGHTS UTILITIES, INC. WATER"
+        },
+        {
+          "company": "EASTERN HEIGHTS UTILITIES, INC.",
+          "utilityTypes": "WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 12:12 PM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/16/2026 07:47 AM ATT-RESPONSE FOR THIS TICKET"
+        }
+      ]
     },
     {
       "ticket": "26031601856",
-      "date": "",
-      "expires": "",
-      "expiresClean": "",
+      "date": "03/16/2026",
+      "expires": "04/05/2026 23:59",
+      "expiresClean": "04/05/2026",
       "street": "",
-      "cross1": "",
+      "cross1": "E SOUTH ST",
       "fullAddress": "",
-      "city": "",
-      "county": "",
-      "township": "",
+      "city": "BLOOMFIELD",
+      "county": "GREENE",
+      "township": "RICHLAND",
       "subdivision": "",
       "workType": "",
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
-      "location": "",
-      "company": "",
-      "caller": "",
-      "callerPhone": "",
-      "startDate": "",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "1970-01-01T00:00:00.000Z",
-      "lastScrapedDisplay": "never",
+      "boundary": {
+        "n": 39.024643,
+        "s": 39.022466,
+        "w": -86.937546,
+        "e": -86.936111
+      },
+      "location": "FROM THE INTERSECTION - LOCATE SOUTH FOR APPROX 300 FEET ON THE WEST SIDE OF THE ROAD - TO INCLUDE EXTENDING OFF THE WEST SIDE OF THE ROAD FOR 20 FEET FOR THE LOCATE DISTANCE - ENDING AT THE DEAD END OF THE ROAD",
+      "company": "JP EXCAVATING SOLUTIONS LLC",
+      "caller": "ELI DUQUE",
+      "callerPhone": "(865)438-8731",
+      "startDate": "03/19/2026",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-18T19:14:15.909Z",
+      "lastScrapedDisplay": "Mar 18, 3:14 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 3,
+        "clear": 1,
+        "marked": 2,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -11710,37 +12519,71 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MIDWEST NATURAL GAS CORPORATION",
+          "utilityTypes": "GAS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 10:51 AM Respondent:HEATH HINKLE EASTERN HEIGHTS UTILITIES, INC. WATER"
+        },
+        {
+          "company": "EASTERN HEIGHTS UTILITIES, INC.",
+          "utilityTypes": "WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 12:12 PM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/16/2026 07:47 AM ATT-RESPONSE FOR THIS TICKET"
+        }
+      ]
     },
     {
       "ticket": "26031601890",
-      "date": "",
-      "expires": "",
-      "expiresClean": "",
+      "date": "03/16/2026",
+      "expires": "04/05/2026 23:59",
+      "expiresClean": "04/05/2026",
       "street": "",
-      "cross1": "",
+      "cross1": "W SOUTH ST",
       "fullAddress": "",
-      "city": "",
-      "county": "",
-      "township": "",
+      "city": "BLOOMFIELD",
+      "county": "GREENE",
+      "township": "RICHLAND",
       "subdivision": "",
       "workType": "",
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
-      "location": "",
-      "company": "",
-      "caller": "",
-      "callerPhone": "",
-      "startDate": "",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "1970-01-01T00:00:00.000Z",
-      "lastScrapedDisplay": "never",
+      "boundary": {
+        "n": 39.024917,
+        "s": 39.022642,
+        "w": -86.941796,
+        "e": -86.940139
+      },
+      "location": "STARTING ON THE NORTH SIDE OF THE INTERSECTION - LOCATE SOUTH FOR APPROX 400 FEET ON THE EAST SIDE OF THE ROAD - TO INCLUDE EXTENDING OFF THE EAST SIDE OF THE ROAD FOR 20 FEET FOR THE LOCATE DISTANCE - ENDING AT W DAVIS STREET",
+      "company": "JP EXCAVATING SOLUTIONS LLC",
+      "caller": "ELI DUQUE",
+      "callerPhone": "(865)438-8731",
+      "startDate": "03/19/2026",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-18T19:14:41.362Z",
+      "lastScrapedDisplay": "Mar 18, 3:14 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 3,
+        "clear": 1,
+        "marked": 2,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -11748,37 +12591,71 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MIDWEST NATURAL GAS CORPORATION",
+          "utilityTypes": "GAS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 09:36 AM Respondent:ZEV HAMM EASTERN HEIGHTS UTILITIES, INC. WATER"
+        },
+        {
+          "company": "EASTERN HEIGHTS UTILITIES, INC.",
+          "utilityTypes": "WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 12:11 PM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/16/2026 07:47 AM ATT-RESPONSE FOR THIS TICKET"
+        }
+      ]
     },
     {
       "ticket": "26031601915",
-      "date": "",
-      "expires": "",
-      "expiresClean": "",
+      "date": "03/16/2026",
+      "expires": "04/05/2026 23:59",
+      "expiresClean": "04/05/2026",
       "street": "",
-      "cross1": "",
+      "cross1": "W SOUTH ST",
       "fullAddress": "",
-      "city": "",
-      "county": "",
-      "township": "",
+      "city": "BLOOMFIELD",
+      "county": "GREENE",
+      "township": "RICHLAND",
       "subdivision": "",
       "workType": "",
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
-      "location": "",
-      "company": "",
-      "caller": "",
-      "callerPhone": "",
-      "startDate": "",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "1970-01-01T00:00:00.000Z",
-      "lastScrapedDisplay": "never",
+      "boundary": {
+        "n": 39.025533,
+        "s": 39.023536,
+        "w": -86.943332,
+        "e": -86.941913
+      },
+      "location": "FROM THE INTERSECTION - LOCATE NORTH FOR 150 FEET ON THE WEST SIDE OF THE ROAD - TO INCLUDE EXTENDING OFF THE WEST SIDE OF THE ROAD FOR 20 FEET FOR THE LOCATE DISTANCE",
+      "company": "JP EXCAVATING SOLUTIONS LLC",
+      "caller": "ELI DUQUE",
+      "callerPhone": "(865)438-8731",
+      "startDate": "03/19/2026",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-18T19:15:06.727Z",
+      "lastScrapedDisplay": "Mar 18, 3:15 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 3,
+        "clear": 1,
+        "marked": 2,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -11786,37 +12663,71 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MIDWEST NATURAL GAS CORPORATION",
+          "utilityTypes": "GAS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 09:28 AM Respondent:ZEV HAMM EASTERN HEIGHTS UTILITIES, INC. WATER"
+        },
+        {
+          "company": "EASTERN HEIGHTS UTILITIES, INC.",
+          "utilityTypes": "WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 12:11 PM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/16/2026 07:47 AM ATT-RESPONSE FOR THIS TICKET"
+        }
+      ]
     },
     {
       "ticket": "26031601943",
-      "date": "",
-      "expires": "",
-      "expiresClean": "",
+      "date": "03/16/2026",
+      "expires": "04/05/2026 23:59",
+      "expiresClean": "04/05/2026",
       "street": "",
-      "cross1": "",
+      "cross1": "S SEMINARY ST",
       "fullAddress": "",
-      "city": "",
-      "county": "",
-      "township": "",
+      "city": "BLOOMFIELD",
+      "county": "GREENE",
+      "township": "RICHLAND",
       "subdivision": "",
       "workType": "",
       "doneFor": "",
       "depth": "",
       "boringWhere": "",
-      "location": "",
-      "company": "",
-      "caller": "",
-      "callerPhone": "",
-      "startDate": "",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "1970-01-01T00:00:00.000Z",
-      "lastScrapedDisplay": "never",
+      "boundary": {
+        "n": 39.025533,
+        "s": 39.024413,
+        "w": -86.943377,
+        "e": -86.940111
+      },
+      "location": "FROM THE INTERSECTION - LOCATE WEST FOR APPROX 400 FEET ON THE SOUTH SIDE OF THE ROAD - TO INCLUDE EXTENDING OFF THE SOUTH SIDE OF THE ROAD FOR 20 FEET FOR THE LOCATE DISTANCE - ENDING AT S LEWIS STREET",
+      "company": "JP EXCAVATING SOLUTIONS LLC",
+      "caller": "ELI DUQUE",
+      "callerPhone": "(865)438-8731",
+      "startDate": "03/19/2026",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-18T19:15:32.100Z",
+      "lastScrapedDisplay": "Mar 18, 3:15 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 3,
+        "clear": 1,
+        "marked": 2,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -11824,8 +12735,36 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MIDWEST NATURAL GAS CORPORATION",
+          "utilityTypes": "GAS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 09:23 AM Respondent:ZEV HAMM EASTERN HEIGHTS UTILITIES, INC. WATER"
+        },
+        {
+          "company": "EASTERN HEIGHTS UTILITIES, INC.",
+          "utilityTypes": "WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/17/2026 12:11 PM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/16/2026 07:47 AM ATT-RESPONSE FOR THIS TICKET"
+        }
+      ]
     }
   ]
 }
