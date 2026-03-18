@@ -432,9 +432,9 @@
                         <tr>
                             <th class="sortable" data-column="ticket">Ticket #</th>
                             <th class="sortable" data-column="city">City</th>
-                            <th class="sortable" data-column="street">Street</th>
                             <th class="sortable" data-column="cross1">Cross Street</th>
                             <th>Status</th>
+                            <th>Pending Utilities</th>
                             <th class="sortable" data-column="expiresClean">Expires</th>
                             <th class="sortable" data-column="summary">Unmarked</th>
                             <th class="sortable" data-column="lastScrapedDisplay">Last Scraped</th>
@@ -448,13 +448,39 @@
                 const unmarkedDisplay = ticket.allClear ? '-' : `${summary.unmarked || 0} / ${summary.total || 0}`;
                 const lastScraped = ticket.lastScrapedDisplay || 'never';
                 const scrapedStyle = (lastScraped === 'never' || !ticket.lastScrapedDisplay) ? 'color: #f44336; font-weight: bold;' : '';
+                
+                // Get list of pending/unmarked utilities
+                const pendingUtilities = (ticket.responses || [])
+                    .filter(r => r.status === 'UNMARKED' || r.status === 'NO RESPONSE')
+                    .map(r => {
+                        const name = r.utilityName || '';
+                        // Shorten common utility names
+                        return name
+                            .replace('INSIGHT COMMUNICATIONS (NEW ALBANY)', 'Insight')
+                            .replace('AT&T - DISTRIBUTION', 'AT&T')
+                            .replace('CENTERPOINT ENERGY (SOUTH)', 'CenterPoint Gas')
+                            .replace('CENTERPOINT ENERGY (SOUTH ELECTRIC)', 'CenterPoint Elec')
+                            .replace('MAINSTREAM FIBER NETWORKS, LLC', 'Mainstream')
+                            .replace('RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND', 'RCN/Astound')
+                            .replace('IN AMERICAN WATER', 'American Water')
+                            .replace('CHANDLER UTILITIES', 'Chandler')
+                            .replace('NEWBURGH, TOWN OF', 'Newburgh')
+                            .replace('MIDWEST NATURAL GAS CORPORATION', 'Midwest Gas')
+                            .replace('EASTERN HEIGHTS UTILITIES, INC.', 'Eastern Heights')
+                            .replace('COMCAST CABLE (SOUTH)', 'Comcast')
+                            .replace('DUKE ENERGY', 'Duke')
+                            .replace('GERMAN TOWNSHIP WATER DISTRICT', 'German Twp Water');
+                    })
+                    .filter(n => n);
+                const pendingDisplay = pendingUtilities.length > 0 ? pendingUtilities.join(', ') : '-';
+                
                 html += `
                     <tr onclick="toggleDetail('${ticket.ticket}')">
                         <td><strong>${ticket.ticket}</strong></td>
                         <td>${ticket.city || 'N/A'}</td>
-                        <td>${ticket.street || 'N/A'}</td>
                         <td>${ticket.cross1 || 'N/A'}</td>
                         <td>${getStatusBadge(ticket)}</td>
+                        <td style="font-size: 0.85em; color: #d97706;">${pendingDisplay}</td>
                         <td>${ticket.expiresClean || ticket.expires || 'N/A'}</td>
                         <td>${unmarkedDisplay}</td>
                         <td style="${scrapedStyle}">${lastScraped}</td>
