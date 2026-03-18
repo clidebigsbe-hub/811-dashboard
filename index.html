@@ -11,23 +11,16 @@
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
             background: linear-gradient(135deg, #1e1e2e 0%, #2a2a3e 100%);
-            color: #e0e0e0;
-            padding: 20px;
-            min-height: 100vh;
+            color: #e0e0e0; padding: 20px; min-height: 100vh;
         }
         .container { max-width: 1400px; margin: 0 auto; }
         header {
             text-align: center; margin-bottom: 30px; padding: 20px;
-            background: rgba(255,255,255,0.05); border-radius: 12px;
-            backdrop-filter: blur(10px);
+            background: rgba(255,255,255,0.05); border-radius: 12px; backdrop-filter: blur(10px);
         }
         h1 { color: #fff; font-size: 2.5em; margin-bottom: 10px; text-shadow: 0 2px 10px rgba(0,0,0,0.3); }
         .updated { color: #aaa; font-size: 0.9em; }
-
-        .stats {
-            display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px; margin-bottom: 30px;
-        }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 30px; }
         .stat-card {
             background: rgba(255,255,255,0.08); padding: 20px; border-radius: 12px;
             text-align: center; border: 1px solid rgba(255,255,255,0.1);
@@ -40,31 +33,33 @@
         .stat-card.attention .stat-value { color: #ff9800; }
         .stat-card.total .stat-value { color: #2196f3; }
 
-        /* MAP */
-        .map-section {
-            margin-bottom: 30px; border-radius: 12px; overflow: hidden;
-            border: 1px solid rgba(255,255,255,0.1);
-        }
+        .map-section { margin-bottom: 30px; border-radius: 12px; overflow: hidden; border: 1px solid rgba(255,255,255,0.1); }
         .map-header {
             background: rgba(255,255,255,0.08); padding: 12px 20px;
-            display: flex; justify-content: space-between; align-items: center;
+            display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;
         }
         .map-header h2 { font-size: 1.2em; color: #fff; }
         .map-legend { display: flex; gap: 16px; font-size: 0.85em; }
         .map-legend span { display: flex; align-items: center; gap: 5px; }
-        .legend-box { width: 14px; height: 14px; border-radius: 3px; border: 2px solid; }
-        .legend-clear { background: rgba(76,175,80,0.3); border-color: #4caf50; }
-        .legend-attention { background: rgba(244,67,54,0.3); border-color: #f44336; }
-        .legend-unknown { background: rgba(158,158,158,0.3); border-color: #9e9e9e; }
-        #ticketMap { height: 500px; width: 100%; background: #1a1a2e; }
+        .legend-dot { width: 12px; height: 12px; border-radius: 50%; border: 2px solid; }
+        .legend-clear { background: #4caf50; border-color: #4caf50; }
+        .legend-attention { background: #f44336; border-color: #f44336; }
+        .legend-unknown { background: #9e9e9e; border-color: #9e9e9e; }
+        #ticketMap { height: 550px; width: 100%; background: #1a1a2e; }
         .map-toggle-btn {
             padding: 6px 14px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.2);
-            background: rgba(255,255,255,0.1); color: #fff; cursor: pointer; font-size: 0.85em;
-            transition: all 0.2s;
+            background: rgba(255,255,255,0.1); color: #fff; cursor: pointer; font-size: 0.85em; transition: all 0.2s;
         }
         .map-toggle-btn:hover { background: rgba(255,255,255,0.2); }
         .map-toggle-btn.active { background: #2196f3; border-color: #2196f3; }
-        /* Custom popup styling */
+        .map-deselect-btn {
+            padding: 6px 14px; border-radius: 6px; border: 1px solid rgba(255,152,0,0.5);
+            background: rgba(255,152,0,0.15); color: #ff9800; cursor: pointer; font-size: 0.85em;
+            transition: all 0.2s; display: none;
+        }
+        .map-deselect-btn:hover { background: rgba(255,152,0,0.3); }
+        .map-deselect-btn.show { display: inline-block; }
+
         .leaflet-popup-content-wrapper {
             background: #2a2a3e; color: #e0e0e0; border-radius: 10px;
             border: 1px solid rgba(255,255,255,0.15);
@@ -76,9 +71,7 @@
         .popup-clear { background: rgba(76,175,80,0.25); color: #4caf50; }
         .popup-attention { background: rgba(244,67,54,0.25); color: #f44336; }
 
-        .controls {
-            margin-bottom: 20px; display: flex; gap: 15px; flex-wrap: wrap; align-items: center;
-        }
+        .controls { margin-bottom: 20px; display: flex; gap: 15px; flex-wrap: wrap; align-items: center; }
         .search-box {
             flex: 1; min-width: 250px; padding: 12px 20px;
             background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2);
@@ -98,10 +91,7 @@
         }
         .download-button:hover { background: #45a049; transform: scale(1.05); }
 
-        table {
-            width: 100%; background: rgba(255,255,255,0.05); border-radius: 12px;
-            overflow: hidden; border-collapse: collapse;
-        }
+        table { width: 100%; background: rgba(255,255,255,0.05); border-radius: 12px; overflow: hidden; border-collapse: collapse; }
         thead { background: rgba(255,255,255,0.1); }
         th {
             padding: 15px; text-align: left; font-weight: 600; text-transform: uppercase;
@@ -114,11 +104,9 @@
         td { padding: 15px; border-top: 1px solid rgba(255,255,255,0.05); }
         tr { transition: background 0.2s; }
         tbody tr:hover { background: rgba(255,255,255,0.08); cursor: pointer; }
+        tbody tr.highlighted { background: rgba(33,150,243,0.15); }
 
-        .badge {
-            display: inline-block; padding: 5px 12px; border-radius: 20px;
-            font-size: 0.85em; font-weight: 600; text-transform: uppercase;
-        }
+        .badge { display: inline-block; padding: 5px 12px; border-radius: 20px; font-size: 0.85em; font-weight: 600; text-transform: uppercase; }
         .badge.clear { background: rgba(76,175,80,0.2); color: #4caf50; border: 1px solid #4caf50; }
         .badge.attention { background: rgba(255,152,0,0.2); color: #ff9800; border: 1px solid #ff9800; }
         .badge.unmarked { background: rgba(244,67,54,0.2); color: #f44336; border: 1px solid #f44336; }
@@ -129,10 +117,7 @@
         .detail-content { padding: 20px; border-top: 1px solid rgba(255,255,255,0.1); }
         .detail-section { margin-bottom: 15px; }
         .detail-section h4 { color: #2196f3; margin-bottom: 10px; font-size: 1.1em; }
-        .utility-response {
-            background: rgba(255,255,255,0.05); padding: 10px 15px; margin-bottom: 10px;
-            border-radius: 6px; border-left: 3px solid #666;
-        }
+        .utility-response { background: rgba(255,255,255,0.05); padding: 10px 15px; margin-bottom: 10px; border-radius: 6px; border-left: 3px solid #666; }
         .utility-response.clear { border-left-color: #4caf50; }
         .utility-response.marked { border-left-color: #4caf50; }
         .utility-response.unmarked { border-left-color: #f44336; }
@@ -161,32 +146,23 @@
         </header>
 
         <div class="stats" id="stats">
-            <div class="stat-card total">
-                <div class="stat-value" id="totalCount">-</div>
-                <div class="stat-label">Total Tickets</div>
-            </div>
-            <div class="stat-card clear">
-                <div class="stat-value" id="clearCount">-</div>
-                <div class="stat-label">Clear to Dig</div>
-            </div>
-            <div class="stat-card attention">
-                <div class="stat-value" id="attentionCount">-</div>
-                <div class="stat-label">Need Attention</div>
-            </div>
+            <div class="stat-card total"><div class="stat-value" id="totalCount">-</div><div class="stat-label">Total Tickets</div></div>
+            <div class="stat-card clear"><div class="stat-value" id="clearCount">-</div><div class="stat-label">Clear to Dig</div></div>
+            <div class="stat-card attention"><div class="stat-value" id="attentionCount">-</div><div class="stat-label">Need Attention</div></div>
         </div>
 
-        <!-- MAP SECTION -->
         <div class="map-section">
             <div class="map-header">
                 <h2>📍 Ticket Locations</h2>
                 <div style="display:flex;gap:8px;align-items:center;">
-                    <button class="map-toggle-btn active" id="btnSatellite" onclick="setMapLayer('satellite')">Satellite</button>
-                    <button class="map-toggle-btn" id="btnStreet" onclick="setMapLayer('street')">Street</button>
+                    <button class="map-toggle-btn" id="btnSatellite" onclick="setMapLayer('satellite')">Satellite</button>
+                    <button class="map-toggle-btn active" id="btnStreet" onclick="setMapLayer('street')">Street</button>
+                    <button class="map-deselect-btn" id="btnDeselect" onclick="deselectTicket()">✕ Deselect</button>
                 </div>
                 <div class="map-legend">
-                    <span><div class="legend-box legend-clear"></div> Clear to Dig</span>
-                    <span><div class="legend-box legend-attention"></div> Needs Attention</span>
-                    <span><div class="legend-box legend-unknown"></div> No Data</span>
+                    <span><div class="legend-dot legend-clear"></div> Clear to Dig</span>
+                    <span><div class="legend-dot legend-attention"></div> Needs Attention</span>
+                    <span><div class="legend-dot legend-unknown"></div> No Data</span>
                 </div>
             </div>
             <div id="ticketMap"></div>
@@ -197,24 +173,23 @@
             <button class="filter-button active" data-filter="all">All</button>
             <button class="filter-button" data-filter="clear">Clear to Dig</button>
             <button class="filter-button" data-filter="attention">Needs Attention</button>
-            <a href="811-Ticket-Report.xlsx" download>
-                <button class="download-button">📥 Download Excel Report</button>
-            </a>
+            <a href="811-Ticket-Report.xlsx" download><button class="download-button">📥 Download Excel Report</button></a>
         </div>
 
-        <div id="tableContainer">
-            <div class="loading">Loading ticket data...</div>
-        </div>
+        <div id="tableContainer"><div class="loading">Loading ticket data...</div></div>
     </div>
 
     <script>
-        let allTickets = [];
-        let currentFilter = 'all';
-        let currentSort = { column: null, direction: 'asc' };
-        let map, satelliteLayer, streetLayer, rectanglesLayer;
+        var allTickets = [];
+        var currentFilter = 'all';
+        var currentSort = { column: null, direction: 'asc' };
+        var map, satelliteLayer, streetLayer, labelsLayer;
+        var markersLayer, ghostRectsLayer, highlightLayer;
+        var mapTicketData = {}; // ticket# -> { marker, ghostRect, ticket }
+        var selectedTicket = null;
 
         // ============================================================
-        // MAP INITIALIZATION
+        // MAP
         // ============================================================
         function initMap() {
             map = L.map('ticketMap', { zoomControl: true });
@@ -223,43 +198,81 @@
                 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
                 { attribution: 'Esri, Maxar, Earthstar Geographics', maxZoom: 19 }
             );
-
             streetLayer = L.tileLayer(
                 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-                { attribution: '© OpenStreetMap contributors', maxZoom: 19 }
+                { attribution: '&copy; OpenStreetMap contributors', maxZoom: 19 }
             );
-
-            // Default to satellite
-            satelliteLayer.addTo(map);
-
-            // Labels overlay on satellite
-            L.tileLayer(
+            labelsLayer = L.tileLayer(
                 'https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Transportation/MapServer/tile/{z}/{y}/{x}',
                 { maxZoom: 19, opacity: 0.7 }
-            ).addTo(map);
+            );
 
-            rectanglesLayer = L.layerGroup().addTo(map);
+            satelliteLayer.addTo(map);
+            labelsLayer.addTo(map);
 
-            // Default view (Indiana) until data loads
-            map.setView([38.5, -87.4], 10);
+            ghostRectsLayer = L.layerGroup().addTo(map);
+            markersLayer = L.layerGroup().addTo(map);
+            highlightLayer = L.layerGroup().addTo(map);
+
+            map.setView([38.0, -87.4], 10);
+
+            // Switch to street by default
+            setMapLayer('street');
+
+            // Click on map background to deselect
+            map.on('click', function(e) {
+                if (selectedTicket && !e.originalEvent._fromMarker) {
+                    deselectTicket();
+                }
+            });
         }
 
         function setMapLayer(type) {
             if (type === 'satellite') {
                 map.removeLayer(streetLayer);
-                satelliteLayer.addTo(map);
+                if (!map.hasLayer(satelliteLayer)) satelliteLayer.addTo(map);
+                if (!map.hasLayer(labelsLayer)) labelsLayer.addTo(map);
                 document.getElementById('btnSatellite').classList.add('active');
                 document.getElementById('btnStreet').classList.remove('active');
             } else {
                 map.removeLayer(satelliteLayer);
-                streetLayer.addTo(map);
+                map.removeLayer(labelsLayer);
+                if (!map.hasLayer(streetLayer)) streetLayer.addTo(map);
                 document.getElementById('btnStreet').classList.add('active');
                 document.getElementById('btnSatellite').classList.remove('active');
             }
         }
 
+        function getTicketColor(t) {
+            if (t.allClear) return '#4caf50';
+            if (t.overallStatus === 'UNKNOWN' || t.type === 'MISSING') return '#9e9e9e';
+            return '#f44336';
+        }
+
+        function buildPopupHtml(t) {
+            var statusText = t.allClear ? 'CLEAR TO DIG' : (t.overallStatus || 'UNKNOWN');
+            var statusClass = t.allClear ? 'popup-clear' : 'popup-attention';
+            var summary = t.responseSummary || {};
+            return '<div class="popup-ticket">' + t.ticket + '</div>' +
+                '<span class="popup-status ' + statusClass + '">' + statusText + '</span><br><br>' +
+                '<strong>Location:</strong> ' + (t.fullAddress || t.street || 'N/A') + (t.cross1 ? ' / ' + t.cross1 : '') + '<br>' +
+                '<strong>City:</strong> ' + (t.city || 'N/A') + '<br>' +
+                '<strong>Work:</strong> ' + (t.workType || 'N/A') + '<br>' +
+                '<strong>Done For:</strong> ' + (t.doneFor || 'N/A') + '<br>' +
+                '<strong>Expires:</strong> ' + (t.expiresClean || t.expires || 'N/A') + '<br>' +
+                '<strong>Responses:</strong> ' + (summary.marked || 0) + ' marked, ' +
+                (summary.clear || 0) + ' clear, ' + (summary.unmarked || 0) + ' unmarked<br>' +
+                '<strong>Last Scraped:</strong> ' + (t.lastScrapedDisplay || 'never');
+        }
+
         function renderMap(tickets) {
-            rectanglesLayer.clearLayers();
+            ghostRectsLayer.clearLayers();
+            markersLayer.clearLayers();
+            highlightLayer.clearLayers();
+            mapTicketData = {};
+            selectedTicket = null;
+            document.getElementById('btnDeselect').classList.remove('show');
+
             var bounds = [];
 
             tickets.forEach(function(t) {
@@ -267,55 +280,120 @@
                 var b = t.boundary;
                 var sw = [b.s, b.w];
                 var ne = [b.n, b.e];
-                var rectBounds = [sw, ne];
+                var center = [(b.n + b.s) / 2, (b.w + b.e) / 2];
+                var color = getTicketColor(t);
                 bounds.push(sw, ne);
 
-                // Color by status
-                var color, fillColor, fillOpacity;
-                if (t.allClear) {
-                    color = '#4caf50'; fillColor = '#4caf50'; fillOpacity = 0.25;
-                } else if (t.overallStatus === 'UNKNOWN' || t.type === 'MISSING') {
-                    color = '#9e9e9e'; fillColor = '#9e9e9e'; fillOpacity = 0.15;
-                } else {
-                    color = '#f44336'; fillColor = '#f44336'; fillOpacity = 0.25;
-                }
+                // Ghost rectangle — super light, always visible
+                var ghostRect = L.rectangle([sw, ne], {
+                    color: color, weight: 1, opacity: 0.25,
+                    fillColor: color, fillOpacity: 0.06,
+                    interactive: false
+                });
+                ghostRectsLayer.addLayer(ghostRect);
 
-                var rect = L.rectangle(rectBounds, {
-                    color: color, fillColor: fillColor, fillOpacity: fillOpacity,
-                    weight: 2, opacity: 0.8
+                // Center marker — solid dot
+                var marker = L.circleMarker(center, {
+                    radius: 7, color: '#fff', weight: 2, opacity: 0.9,
+                    fillColor: color, fillOpacity: 0.9
                 });
 
-                // Popup content
-                var statusText = t.allClear ? 'CLEAR TO DIG' : (t.overallStatus || 'UNKNOWN');
-                var statusClass = t.allClear ? 'popup-clear' : 'popup-attention';
-                var summary = t.responseSummary || {};
-                var popupHtml = '<div class="popup-ticket">' + t.ticket + '</div>' +
-                    '<span class="popup-status ' + statusClass + '">' + statusText + '</span><br><br>' +
-                    '<strong>Location:</strong> ' + (t.fullAddress || t.street || 'N/A') +
-                    (t.cross1 ? ' / ' + t.cross1 : '') + '<br>' +
-                    '<strong>City:</strong> ' + (t.city || 'N/A') + '<br>' +
-                    '<strong>Work:</strong> ' + (t.workType || 'N/A') + '<br>' +
-                    '<strong>Done For:</strong> ' + (t.doneFor || 'N/A') + '<br>' +
-                    '<strong>Expires:</strong> ' + (t.expiresClean || t.expires || 'N/A') + '<br>' +
-                    '<strong>Responses:</strong> ' + (summary.marked || 0) + ' marked, ' +
-                    (summary.clear || 0) + ' clear, ' + (summary.unmarked || 0) + ' unmarked<br>' +
-                    '<strong>Last Scraped:</strong> ' + (t.lastScrapedDisplay || 'never');
+                marker.bindPopup(buildPopupHtml(t), { maxWidth: 320 });
+                marker.bindTooltip(t.ticket, { direction: 'top', offset: [0, -8] });
 
-                rect.bindPopup(popupHtml, { maxWidth: 320 });
-
-                // Tooltip with ticket number (always visible when zoomed in)
-                rect.bindTooltip(t.ticket, {
-                    permanent: false, direction: 'center',
-                    className: 'ticket-label'
+                marker.on('click', function(e) {
+                    e.originalEvent._fromMarker = true;
+                    selectTicket(t.ticket);
                 });
 
-                rectanglesLayer.addLayer(rect);
+                markersLayer.addLayer(marker);
+
+                mapTicketData[t.ticket] = {
+                    marker: marker,
+                    ghostRect: ghostRect,
+                    bounds: [sw, ne],
+                    color: color,
+                    ticket: t
+                };
             });
 
-            // Fit map to all boundaries
             if (bounds.length > 0) {
                 map.fitBounds(bounds, { padding: [30, 30], maxZoom: 15 });
             }
+        }
+
+        function selectTicket(ticketNum) {
+            highlightLayer.clearLayers();
+
+            // Dim all ghost rects and markers
+            ghostRectsLayer.eachLayer(function(layer) {
+                layer.setStyle({ opacity: 0.08, fillOpacity: 0.02 });
+            });
+            markersLayer.eachLayer(function(layer) {
+                layer.setStyle({ opacity: 0.3, fillOpacity: 0.3 });
+            });
+
+            var data = mapTicketData[ticketNum];
+            if (!data) return;
+
+            selectedTicket = ticketNum;
+
+            // Bright highlight rectangle
+            var brightRect = L.rectangle(data.bounds, {
+                color: data.color, weight: 4, opacity: 1,
+                fillColor: data.color, fillOpacity: 0.35,
+                interactive: false
+            });
+            highlightLayer.addLayer(brightRect);
+
+            // Restore this marker to full brightness
+            data.marker.setStyle({ opacity: 1, fillOpacity: 1 });
+            data.marker.setRadius(10);
+            data.marker.openPopup();
+
+            // Zoom to the selected boundary with padding
+            map.fitBounds(data.bounds, { padding: [80, 80], maxZoom: 17 });
+
+            // Show deselect button
+            document.getElementById('btnDeselect').classList.add('show');
+
+            // Highlight table row
+            document.querySelectorAll('tbody tr').forEach(function(row) { row.classList.remove('highlighted'); });
+            var tableRow = document.querySelector('tr[data-ticket="' + ticketNum + '"]');
+            if (tableRow) {
+                tableRow.classList.add('highlighted');
+                tableRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+        }
+
+        function deselectTicket() {
+            selectedTicket = null;
+            highlightLayer.clearLayers();
+
+            // Restore all ghost rects and markers
+            ghostRectsLayer.eachLayer(function(layer) {
+                layer.setStyle({ opacity: 0.25, fillOpacity: 0.06 });
+            });
+            markersLayer.eachLayer(function(layer) {
+                layer.setStyle({ opacity: 0.9, fillOpacity: 0.9 });
+                layer.setRadius(7);
+            });
+
+            // Re-fit all bounds
+            var bounds = [];
+            Object.keys(mapTicketData).forEach(function(k) {
+                bounds.push(mapTicketData[k].bounds[0], mapTicketData[k].bounds[1]);
+            });
+            if (bounds.length > 0) map.fitBounds(bounds, { padding: [30, 30], maxZoom: 15 });
+
+            document.getElementById('btnDeselect').classList.remove('show');
+            document.querySelectorAll('tbody tr').forEach(function(row) { row.classList.remove('highlighted'); });
+        }
+
+        // Called from table row click
+        function selectTicketFromTable(ticketNum) {
+            selectTicket(ticketNum);
+            document.getElementById('ticketMap').scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
 
         // ============================================================
@@ -323,26 +401,24 @@
         // ============================================================
         async function loadData() {
             try {
-                const response = await fetch('SUMMARY-DATA.json');
-                const data = await response.json();
-
+                var response = await fetch('SUMMARY-DATA.json');
+                var data = await response.json();
                 document.getElementById('lastUpdated').textContent = 'Last updated: ' + (data.generated || 'Unknown');
                 document.getElementById('totalCount').textContent = data.totalTickets || 0;
                 document.getElementById('clearCount').textContent = data.allClearCount || 0;
                 document.getElementById('attentionCount').textContent = data.attentionCount || 0;
-
                 allTickets = data.tickets || [];
                 renderTable();
                 renderMap(allTickets);
             } catch (error) {
                 document.getElementById('tableContainer').innerHTML =
-                    '<div class="no-results">❌ Error loading ticket data. Please try again later.</div>';
+                    '<div class="no-results">❌ Error loading ticket data.</div>';
                 console.error('Error loading data:', error);
             }
         }
 
         // ============================================================
-        // TABLE RENDERING
+        // TABLE
         // ============================================================
         function getStatusBadge(ticket) {
             if (ticket.allClear) return '<span class="badge clear">Clear to Dig</span>';
@@ -353,29 +429,23 @@
         }
 
         function renderTable() {
-            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
-
-            let filtered = allTickets.filter(ticket => {
+            var searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            var filtered = allTickets.filter(function(ticket) {
                 if (currentFilter === 'clear' && !ticket.allClear) return false;
                 if (currentFilter === 'attention' && ticket.allClear) return false;
                 if (searchTerm) {
-                    const searchable = (ticket.ticket + ' ' + ticket.city + ' ' + ticket.street + ' ' + ticket.cross1 + ' ' + ticket.location + ' ' + ticket.doneFor).toLowerCase();
-                    if (!searchable.includes(searchTerm)) return false;
+                    var s = (ticket.ticket + ' ' + ticket.city + ' ' + ticket.street + ' ' + ticket.cross1 + ' ' + ticket.location + ' ' + ticket.doneFor).toLowerCase();
+                    if (!s.includes(searchTerm)) return false;
                 }
                 return true;
             });
 
             if (currentSort.column) {
-                filtered.sort((a, b) => {
-                    let valA = a[currentSort.column] || '';
-                    let valB = b[currentSort.column] || '';
-                    if (currentSort.column === 'summary') {
-                        valA = a.responseSummary?.unmarked || 0;
-                        valB = b.responseSummary?.unmarked || 0;
-                    } else if (currentSort.column === 'lastScrapedDisplay') {
-                        valA = a.lastScraped || '1970-01-01T00:00:00Z';
-                        valB = b.lastScraped || '1970-01-01T00:00:00Z';
-                    }
+                filtered.sort(function(a, b) {
+                    var valA = a[currentSort.column] || '';
+                    var valB = b[currentSort.column] || '';
+                    if (currentSort.column === 'summary') { valA = (a.responseSummary || {}).unmarked || 0; valB = (b.responseSummary || {}).unmarked || 0; }
+                    else if (currentSort.column === 'lastScrapedDisplay') { valA = a.lastScraped || '1970'; valB = b.lastScraped || '1970'; }
                     if (valA < valB) return currentSort.direction === 'asc' ? -1 : 1;
                     if (valA > valB) return currentSort.direction === 'asc' ? 1 : -1;
                     return 0;
@@ -383,44 +453,45 @@
             }
 
             if (filtered.length === 0) {
-                document.getElementById('tableContainer').innerHTML =
-                    '<div class="no-results">No tickets match your search/filter.</div>';
+                document.getElementById('tableContainer').innerHTML = '<div class="no-results">No tickets match your search/filter.</div>';
                 return;
             }
 
-            let html = '<table><thead><tr>' +
+            var html = '<table><thead><tr>' +
                 '<th class="sortable" data-column="ticket">Ticket #</th>' +
                 '<th class="sortable" data-column="city">City</th>' +
                 '<th class="sortable" data-column="cross1">Cross Street</th>' +
-                '<th>Status</th>' +
-                '<th>Pending Utilities</th>' +
+                '<th>Status</th><th>Pending Utilities</th>' +
                 '<th class="sortable" data-column="expiresClean">Expires</th>' +
                 '<th class="sortable" data-column="summary">Unmarked</th>' +
                 '<th class="sortable" data-column="lastScrapedDisplay">Last Scraped</th>' +
+                '<th style="width:40px;"></th>' +
                 '</tr></thead><tbody>';
 
-            filtered.forEach(ticket => {
-                const summary = ticket.responseSummary || {};
-                const unmarkedDisplay = ticket.allClear ? '-' : (summary.unmarked || 0) + ' / ' + (summary.total || 0);
-                const lastScraped = ticket.lastScrapedDisplay || 'never';
-                const scrapedStyle = (lastScraped === 'never' || !ticket.lastScrapedDisplay) ? 'color: #f44336; font-weight: bold;' : '';
+            filtered.forEach(function(ticket) {
+                var summary = ticket.responseSummary || {};
+                var unmarkedDisplay = ticket.allClear ? '-' : (summary.unmarked || 0) + ' / ' + (summary.total || 0);
+                var lastScraped = ticket.lastScrapedDisplay || 'never';
+                var scrapedStyle = (lastScraped === 'never') ? 'color:#f44336;font-weight:bold;' : '';
 
-                const pendingUtilities = (ticket.responses || [])
-                    .filter(r => r.status === 'UNMARKED' || r.status === 'NO RESPONSE')
-                    .map(r => (r.company || '')
-                        .replace('INSIGHT COMMUNICATIONS (NEW ALBANY)', 'Insight')
-                        .replace('AT&T - DISTRIBUTION', 'AT&T')
-                        .replace('CENTERPOINT ENERGY (SOUTH)', 'CenterPoint Gas')
-                        .replace('CENTERPOINT ENERGY (SOUTH ELECTRIC)', 'CenterPoint Elec')
-                        .replace('MAINSTREAM FIBER NETWORKS, LLC', 'Mainstream')
-                        .replace('RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND', 'RCN/Astound')
-                        .replace('IN AMERICAN WATER', 'American Water')
-                        .replace('CHANDLER UTILITIES', 'Chandler')
-                        .replace('NEWBURGH, TOWN OF', 'Newburgh')
-                    ).filter(n => n);
-                const pendingDisplay = pendingUtilities.length > 0 ? pendingUtilities.join(', ') : '-';
+                var pendingUtilities = (ticket.responses || [])
+                    .filter(function(r) { return r.status === 'UNMARKED' || r.status === 'NO RESPONSE'; })
+                    .map(function(r) {
+                        return (r.company || '')
+                            .replace('INSIGHT COMMUNICATIONS (NEW ALBANY)', 'Insight')
+                            .replace('AT&T - DISTRIBUTION', 'AT&T')
+                            .replace('CENTERPOINT ENERGY (SOUTH)', 'CenterPoint Gas')
+                            .replace('CENTERPOINT ENERGY (SOUTH ELECTRIC)', 'CenterPoint Elec')
+                            .replace('MAINSTREAM FIBER NETWORKS, LLC', 'Mainstream')
+                            .replace('RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND', 'RCN/Astound')
+                            .replace('IN AMERICAN WATER', 'American Water')
+                            .replace('CHANDLER UTILITIES', 'Chandler')
+                            .replace('NEWBURGH, TOWN OF', 'Newburgh');
+                    }).filter(function(n) { return n; });
+                var pendingDisplay = pendingUtilities.length > 0 ? pendingUtilities.join(', ') : '-';
+                var hasMap = ticket.boundary ? '📍' : '';
 
-                html += '<tr onclick="toggleDetail(\'' + ticket.ticket + '\')">' +
+                html += '<tr data-ticket="' + ticket.ticket + '" onclick="onRowClick(\'' + ticket.ticket + '\')">' +
                     '<td><strong>' + ticket.ticket + '</strong></td>' +
                     '<td>' + (ticket.city || 'N/A') + '</td>' +
                     '<td>' + (ticket.cross1 || 'N/A') + '</td>' +
@@ -429,65 +500,54 @@
                     '<td>' + (ticket.expiresClean || ticket.expires || 'N/A') + '</td>' +
                     '<td>' + unmarkedDisplay + '</td>' +
                     '<td style="' + scrapedStyle + '">' + lastScraped + '</td>' +
+                    '<td style="text-align:center;">' + (hasMap ? '<span style="cursor:pointer;font-size:1.2em;" onclick="event.stopPropagation();selectTicketFromTable(\'' + ticket.ticket + '\')" title="Show on map">' + hasMap + '</span>' : '') + '</td>' +
                     '</tr>' +
                     '<tr class="detail-row" id="detail-' + ticket.ticket + '">' +
-                    '<td colspan="8"><div class="detail-content">' + renderDetail(ticket) + '</div></td></tr>';
+                    '<td colspan="9"><div class="detail-content">' + renderDetail(ticket) + '</div></td></tr>';
             });
 
             html += '</tbody></table>';
             document.getElementById('tableContainer').innerHTML = html;
 
-            document.querySelectorAll('th').forEach(th => {
+            document.querySelectorAll('th').forEach(function(th) {
                 th.classList.remove('sort-asc', 'sort-desc');
-                if (th.dataset.column === currentSort.column) {
-                    th.classList.add(currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
-                }
+                if (th.dataset.column === currentSort.column) th.classList.add(currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc');
             });
-
-            document.querySelectorAll('th.sortable').forEach(th => {
-                th.addEventListener('click', () => {
-                    const column = th.dataset.column;
-                    if (currentSort.column === column) {
-                        currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
-                    } else {
-                        currentSort.column = column;
-                        currentSort.direction = 'asc';
-                    }
+            document.querySelectorAll('th.sortable').forEach(function(th) {
+                th.addEventListener('click', function() {
+                    var col = th.dataset.column;
+                    if (currentSort.column === col) currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+                    else { currentSort.column = col; currentSort.direction = 'asc'; }
                     renderTable();
                 });
             });
         }
 
         function renderDetail(ticket) {
-            const summary = ticket.responseSummary || {};
-            let html = '<div class="detail-section"><h4>📍 Location Details</h4>' +
+            var summary = ticket.responseSummary || {};
+            var html = '<div class="detail-section"><h4>📍 Location Details</h4>' +
                 '<p><strong>Location:</strong> ' + (ticket.location || 'N/A') + '</p>' +
                 '<p><strong>Done For:</strong> ' + (ticket.doneFor || 'N/A') + '</p>' +
                 '<p><strong>Work Type:</strong> ' + (ticket.workType || 'N/A') + '</p>' +
-                '<p><strong>Depth:</strong> ' + (ticket.depth || 'N/A') + '</p>' +
-                '</div>' +
+                '<p><strong>Depth:</strong> ' + (ticket.depth || 'N/A') + '</p></div>' +
                 '<div class="detail-section"><h4>📊 Summary</h4>' +
                 '<p>Total: ' + (summary.total || 0) + ' | Marked: ' + (summary.marked || 0) +
                 ' | Clear: ' + (summary.clear || 0) + ' | Unmarked: ' + (summary.unmarked || 0) +
-                ' | Exceptions: ' + (summary.markedExceptions || 0) +
-                ' | No Response: ' + (summary.noResponse || 0) + '</p></div>' +
+                ' | Exceptions: ' + (summary.markedExceptions || 0) + ' | No Response: ' + (summary.noResponse || 0) + '</p></div>' +
                 '<div class="detail-section"><h4>🏢 Utility Responses</h4>';
 
             if (ticket.responses && ticket.responses.length > 0) {
-                ticket.responses.forEach(resp => {
-                    let sc = 'clear';
+                ticket.responses.forEach(function(resp) {
+                    var sc = 'clear';
                     if (resp.status === 'UNMARKED') sc = 'unmarked';
                     else if (resp.status === 'MARKED WITH EXCEPTIONS') sc = 'exception';
                     html += '<div class="utility-response ' + sc + '">' +
                         '<div class="utility-company">' + resp.company + '</div>' +
                         '<div class="utility-type">' + resp.utilityTypes + '</div>' +
                         '<div class="utility-status">' + resp.status + '</div>' +
-                        (resp.details ? '<div class="utility-details">' + resp.details + '</div>' : '') +
-                        '</div>';
+                        (resp.details ? '<div class="utility-details">' + resp.details + '</div>' : '') + '</div>';
                 });
-            } else {
-                html += '<p>No utility responses recorded.</p>';
-            }
+            } else { html += '<p>No utility responses recorded.</p>'; }
             return html + '</div>';
         }
 
@@ -496,18 +556,25 @@
             if (el) el.classList.toggle('show');
         }
 
+        function onRowClick(ticketId) {
+            toggleDetail(ticketId);
+            if (mapTicketData[ticketId]) {
+                selectTicket(ticketId);
+                document.getElementById('ticketMap').scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+        }
+
         // Event listeners
         document.getElementById('searchBox').addEventListener('input', renderTable);
-        document.querySelectorAll('.filter-button').forEach(button => {
-            button.addEventListener('click', () => {
-                document.querySelectorAll('.filter-button').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.filter-button').forEach(function(button) {
+            button.addEventListener('click', function() {
+                document.querySelectorAll('.filter-button').forEach(function(b) { b.classList.remove('active'); });
                 button.classList.add('active');
                 currentFilter = button.dataset.filter;
                 renderTable();
             });
         });
 
-        // Init
         initMap();
         loadData();
     </script>
