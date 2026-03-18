@@ -362,7 +362,6 @@
             var tableRow = document.querySelector('tr[data-ticket="' + ticketNum + '"]');
             if (tableRow) {
                 tableRow.classList.add('highlighted');
-                tableRow.scrollIntoView({ behavior: 'smooth', block: 'center' });
             }
         }
 
@@ -393,7 +392,6 @@
         // Called from table row click
         function selectTicketFromTable(ticketNum) {
             selectTicket(ticketNum);
-            document.getElementById('ticketMap').scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
 
         // ============================================================
@@ -560,7 +558,6 @@
             toggleDetail(ticketId);
             if (mapTicketData[ticketId]) {
                 selectTicket(ticketId);
-                document.getElementById('ticketMap').scrollIntoView({ behavior: 'smooth', block: 'center' });
             }
         }
 
