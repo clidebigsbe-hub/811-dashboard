@@ -432,6 +432,7 @@
                             <th>Status</th>
                             <th class="sortable" data-column="expiresClean">Expires</th>
                             <th class="sortable" data-column="summary">Unmarked</th>
+                            <th class="sortable" data-column="lastScrapedDisplay">Last Scraped</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -440,6 +441,8 @@
             filtered.forEach(ticket => {
                 const summary = ticket.responseSummary || {};
                 const unmarkedDisplay = ticket.allClear ? '-' : `${summary.unmarked || 0} / ${summary.total || 0}`;
+                const lastScraped = ticket.lastScrapedDisplay || 'never';
+                const scrapedStyle = (lastScraped === 'never' || !ticket.lastScrapedDisplay) ? 'color: #f44336; font-weight: bold;' : '';
                 html += `
                     <tr onclick="toggleDetail('${ticket.ticket}')">
                         <td><strong>${ticket.ticket}</strong></td>
@@ -448,9 +451,10 @@
                         <td>${getStatusBadge(ticket)}</td>
                         <td>${ticket.expiresClean || ticket.expires || 'N/A'}</td>
                         <td>${unmarkedDisplay}</td>
+                        <td style="${scrapedStyle}">${lastScraped}</td>
                     </tr>
                     <tr class="detail-row" id="detail-${ticket.ticket}">
-                        <td colspan="6">
+                        <td colspan="7">
                             <div class="detail-content">
                                 ${renderDetail(ticket)}
                             </div>
