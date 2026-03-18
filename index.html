@@ -31,6 +31,7 @@
             background: rgba(255, 255, 255, 0.05);
             border-radius: 12px;
             backdrop-filter: blur(10px);
+            position: relative;
         }
 
         h1 {
@@ -43,6 +44,27 @@
         .updated {
             color: #aaa;
             font-size: 0.9em;
+        }
+
+        .nav-links {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+
+        .nav-links a {
+            color: #667eea;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-weight: 600;
+            background: rgba(255, 255, 255, 0.1);
+            transition: all 0.3s;
+        }
+
+        .nav-links a:hover {
+            background: #667eea;
+            color: white;
         }
 
         .stats {
@@ -316,6 +338,9 @@
 <body>
     <div class="container">
         <header>
+            <div class="nav-links">
+                <a href="map.html">🗺️ Map View</a>
+            </div>
             <h1>🚧 811 Ticket Dashboard</h1>
             <div class="updated" id="lastUpdated">Loading...</div>
         </header>
