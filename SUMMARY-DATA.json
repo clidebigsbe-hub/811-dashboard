@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-19T19:04:46.670Z",
+  "generated": "2026-03-19T22:04:47.213Z",
   "totalTickets": 127,
   "attentionCount": 55,
   "allClearCount": 72,
@@ -2417,8 +2417,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T22:00:56.609Z",
-      "lastScrapedDisplay": "Mar 18, 6:00 PM",
+      "lastScraped": "2026-03-19T22:03:05.076Z",
+      "lastScrapedDisplay": "Mar 19, 6:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
@@ -2543,8 +2543,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T22:01:23.048Z",
-      "lastScrapedDisplay": "Mar 18, 6:01 PM",
+      "lastScraped": "2026-03-19T22:03:30.519Z",
+      "lastScrapedDisplay": "Mar 19, 6:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 4,
@@ -2669,8 +2669,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T22:01:48.967Z",
-      "lastScrapedDisplay": "Mar 18, 6:01 PM",
+      "lastScraped": "2026-03-19T22:03:56.028Z",
+      "lastScrapedDisplay": "Mar 19, 6:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
@@ -2795,8 +2795,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T22:02:14.384Z",
-      "lastScrapedDisplay": "Mar 18, 6:02 PM",
+      "lastScraped": "2026-03-19T22:04:21.495Z",
+      "lastScrapedDisplay": "Mar 19, 6:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
@@ -2921,8 +2921,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T22:02:39.742Z",
-      "lastScrapedDisplay": "Mar 18, 6:02 PM",
+      "lastScraped": "2026-03-19T22:04:46.894Z",
+      "lastScrapedDisplay": "Mar 19, 6:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
@@ -4037,8 +4037,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T16:03:57.569Z",
-      "lastScrapedDisplay": "Mar 18, 12:03 PM",
+      "lastScraped": "2026-03-19T22:00:56.429Z",
+      "lastScrapedDisplay": "Mar 19, 6:00 PM",
       "responseSummary": {
         "total": 8,
         "clear": 2,
@@ -4154,8 +4154,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T16:04:22.976Z",
-      "lastScrapedDisplay": "Mar 18, 12:04 PM",
+      "lastScraped": "2026-03-19T22:01:22.917Z",
+      "lastScrapedDisplay": "Mar 19, 6:01 PM",
       "responseSummary": {
         "total": 7,
         "clear": 2,
@@ -4262,8 +4262,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T16:04:48.399Z",
-      "lastScrapedDisplay": "Mar 18, 12:04 PM",
+      "lastScraped": "2026-03-19T22:01:48.807Z",
+      "lastScrapedDisplay": "Mar 19, 6:01 PM",
       "responseSummary": {
         "total": 8,
         "clear": 2,
@@ -12038,14 +12038,14 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T19:03:30.232Z",
-      "lastScrapedDisplay": "Mar 18, 3:03 PM",
+      "lastScraped": "2026-03-19T22:02:14.235Z",
+      "lastScrapedDisplay": "Mar 19, 6:02 PM",
       "responseSummary": {
-        "total": 4,
+        "total": 5,
         "clear": 2,
         "marked": 1,
         "markedExceptions": 0,
-        "unmarked": 1,
+        "unmarked": 2,
         "noResponse": 0
       },
       "hasUnmarked": true,
@@ -12053,6 +12053,15 @@
       "hasNoResponse": false,
       "allClear": false,
       "responses": [
+        {
+          "company": "DUKE ENERGY",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/18/2026 02:27 PM Attempted to contact: ELI DUQUE via Phone 8654388731 on 03/18/2026 at 04:26 PM, Locator Name: JONATHON COLUMBIA, Locator phone/email: JONATHONCOLUMBIA@USICLLC.COM, Proposed Date/Time of Completion: 03/22/2026 at 04:26 PM, Comments : ONGOING PROJECT MIDWEST NATURAL GAS CORPORATION GAS"
+        },
         {
           "company": "MIDWEST NATURAL GAS CORPORATION",
           "utilityTypes": "GAS",
@@ -12119,14 +12128,14 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-18T19:03:55.086Z",
-      "lastScrapedDisplay": "Mar 18, 3:03 PM",
+      "lastScraped": "2026-03-19T22:02:39.647Z",
+      "lastScrapedDisplay": "Mar 19, 6:02 PM",
       "responseSummary": {
-        "total": 4,
+        "total": 5,
         "clear": 2,
         "marked": 1,
         "markedExceptions": 0,
-        "unmarked": 1,
+        "unmarked": 2,
         "noResponse": 0
       },
       "hasUnmarked": true,
@@ -12134,6 +12143,15 @@
       "hasNoResponse": false,
       "allClear": false,
       "responses": [
+        {
+          "company": "DUKE ENERGY",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/18/2026 02:27 PM Attempted to contact: ELI DUQUE via Phone 8654388731 on 03/18/2026 at 04:26 PM, Locator Name: JONATHON COLUMBIA, Locator phone/email: JONATHONCOLUMBIA@USICLLC.COM, Proposed Date/Time of Completion: 03/22/2026 at 04:26 PM, Comments : ONGOING PROJECT MIDWEST NATURAL GAS CORPORATION GAS"
+        },
         {
           "company": "MIDWEST NATURAL GAS CORPORATION",
           "utilityTypes": "GAS",
