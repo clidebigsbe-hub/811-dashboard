@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-21T13:04:47.469Z",
-  "totalTickets": 76,
+  "generated": "2026-03-21T16:04:47.465Z",
+  "totalTickets": 77,
   "attentionCount": 55,
   "allClearCount": 21,
   "archivedThisRun": 0,
@@ -3804,14 +3804,14 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T13:03:04.878Z",
-      "lastScrapedDisplay": "Mar 20, 9:03 AM",
+      "lastScraped": "2026-03-21T16:00:56.505Z",
+      "lastScrapedDisplay": "Mar 21, 12:00 PM",
       "responseSummary": {
         "total": 9,
         "clear": 0,
-        "marked": 3,
+        "marked": 4,
         "markedExceptions": 0,
-        "unmarked": 6,
+        "unmarked": 5,
         "noResponse": 0
       },
       "hasUnmarked": true,
@@ -3831,11 +3831,11 @@
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
           "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:03/16/2026 01:03 PM Attempted to contact: RAFAEL RIVAS, Comments : ONGOING PROJECT. LOCATOR IS IN CONTACT WITH THE CONTRACTOR. - CHANGED FROM: 3/17/2026 7:00:00 AM TO: 4/1/2026 7:00:00 PM IN AMERICAN WATER SEWER, WATER"
+          "details": "Date:03/20/2026 01:17 PM IN AMERICAN WATER SEWER, WATER"
         },
         {
           "company": "IN AMERICAN WATER",
@@ -3930,8 +3930,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T13:03:30.333Z",
-      "lastScrapedDisplay": "Mar 20, 9:03 AM",
+      "lastScraped": "2026-03-21T16:01:23.012Z",
+      "lastScrapedDisplay": "Mar 21, 12:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -4056,8 +4056,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T13:03:55.705Z",
-      "lastScrapedDisplay": "Mar 20, 9:03 AM",
+      "lastScraped": "2026-03-21T16:01:48.886Z",
+      "lastScrapedDisplay": "Mar 21, 12:01 PM",
       "responseSummary": {
         "total": 3,
         "clear": 0,
@@ -4128,8 +4128,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T13:04:21.168Z",
-      "lastScrapedDisplay": "Mar 20, 9:04 AM",
+      "lastScraped": "2026-03-21T16:02:14.371Z",
+      "lastScrapedDisplay": "Mar 21, 12:02 PM",
       "responseSummary": {
         "total": 3,
         "clear": 0,
@@ -4200,8 +4200,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T13:04:46.567Z",
-      "lastScrapedDisplay": "Mar 20, 9:04 AM",
+      "lastScraped": "2026-03-21T16:02:39.787Z",
+      "lastScrapedDisplay": "Mar 21, 12:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -4326,8 +4326,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T16:00:56.400Z",
-      "lastScrapedDisplay": "Mar 20, 12:00 PM",
+      "lastScraped": "2026-03-21T16:03:05.198Z",
+      "lastScrapedDisplay": "Mar 21, 12:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -4452,8 +4452,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T16:01:22.869Z",
-      "lastScrapedDisplay": "Mar 20, 12:01 PM",
+      "lastScraped": "2026-03-21T16:03:30.807Z",
+      "lastScrapedDisplay": "Mar 21, 12:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -4569,8 +4569,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T16:01:48.733Z",
-      "lastScrapedDisplay": "Mar 20, 12:01 PM",
+      "lastScraped": "2026-03-21T16:03:56.327Z",
+      "lastScrapedDisplay": "Mar 21, 12:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -4695,8 +4695,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T16:02:14.091Z",
-      "lastScrapedDisplay": "Mar 20, 12:02 PM",
+      "lastScraped": "2026-03-21T16:04:21.769Z",
+      "lastScrapedDisplay": "Mar 21, 12:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -4821,8 +4821,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T16:02:39.740Z",
-      "lastScrapedDisplay": "Mar 20, 12:02 PM",
+      "lastScraped": "2026-03-21T16:04:47.188Z",
+      "lastScrapedDisplay": "Mar 21, 12:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -8014,6 +8014,45 @@
           "details": "Date:03/16/2026 07:47 AM ATT-RESPONSE FOR THIS TICKET"
         }
       ]
+    },
+    {
+      "ticket": "26032002328",
+      "date": "",
+      "expires": "",
+      "expiresClean": "",
+      "street": "",
+      "cross1": "",
+      "fullAddress": "",
+      "city": "",
+      "county": "",
+      "township": "",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": null,
+      "location": "",
+      "company": "",
+      "caller": "",
+      "callerPhone": "",
+      "startDate": "",
+      "overallStatus": "UNKNOWN",
+      "lastScraped": "1970-01-01T00:00:00.000Z",
+      "lastScrapedDisplay": "never",
+      "responseSummary": {
+        "total": 0,
+        "clear": 0,
+        "marked": 0,
+        "markedExceptions": 0,
+        "unmarked": 0,
+        "noResponse": 0
+      },
+      "hasUnmarked": false,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": []
     }
   ]
 }
