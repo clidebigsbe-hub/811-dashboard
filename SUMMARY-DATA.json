@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-21T19:04:48.093Z",
+  "generated": "2026-03-21T22:04:47.449Z",
   "totalTickets": 77,
-  "attentionCount": 55,
-  "allClearCount": 21,
+  "attentionCount": 53,
+  "allClearCount": 23,
   "archivedThisRun": 0,
   "tickets": [
     {
@@ -2229,8 +2229,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T19:04:21.438Z",
-      "lastScrapedDisplay": "Mar 20, 3:04 PM",
+      "lastScraped": "2026-03-21T22:02:39.616Z",
+      "lastScrapedDisplay": "Mar 21, 6:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
@@ -2355,8 +2355,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T19:04:46.878Z",
-      "lastScrapedDisplay": "Mar 20, 3:04 PM",
+      "lastScraped": "2026-03-21T22:03:05.037Z",
+      "lastScrapedDisplay": "Mar 21, 6:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 2,
@@ -2472,8 +2472,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T22:00:56.481Z",
-      "lastScrapedDisplay": "Mar 20, 6:00 PM",
+      "lastScraped": "2026-03-21T22:03:30.485Z",
+      "lastScrapedDisplay": "Mar 21, 6:03 PM",
       "responseSummary": {
         "total": 10,
         "clear": 4,
@@ -2607,8 +2607,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T22:01:22.969Z",
-      "lastScrapedDisplay": "Mar 20, 6:01 PM",
+      "lastScraped": "2026-03-21T22:03:55.911Z",
+      "lastScrapedDisplay": "Mar 21, 6:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
@@ -2733,8 +2733,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T22:01:48.864Z",
-      "lastScrapedDisplay": "Mar 20, 6:01 PM",
+      "lastScraped": "2026-03-21T22:04:21.737Z",
+      "lastScrapedDisplay": "Mar 21, 6:04 PM",
       "responseSummary": {
         "total": 7,
         "clear": 2,
@@ -2841,8 +2841,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "02/13/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T22:02:14.277Z",
-      "lastScrapedDisplay": "Mar 20, 6:02 PM",
+      "lastScraped": "2026-03-21T22:04:47.175Z",
+      "lastScrapedDisplay": "Mar 21, 6:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
@@ -6072,8 +6072,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T19:02:39.263Z",
-      "lastScrapedDisplay": "Mar 20, 3:02 PM",
+      "lastScraped": "2026-03-21T22:00:56.366Z",
+      "lastScrapedDisplay": "Mar 21, 6:00 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -6189,8 +6189,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T19:03:04.689Z",
-      "lastScrapedDisplay": "Mar 20, 3:03 PM",
+      "lastScraped": "2026-03-21T22:01:22.872Z",
+      "lastScrapedDisplay": "Mar 21, 6:01 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -6305,21 +6305,21 @@
       "caller": "RAFAEL RIVAS",
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T19:03:30.117Z",
-      "lastScrapedDisplay": "Mar 20, 3:03 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-21T22:01:48.731Z",
+      "lastScrapedDisplay": "Mar 21, 6:01 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
-        "marked": 6,
+        "marked": 7,
         "markedExceptions": 0,
-        "unmarked": 1,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
@@ -6333,11 +6333,11 @@
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
           "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:03/16/2026 01:03 PM Attempted to contact: RAFAEL RIVAS, Comments : ONGOING PROJECT. LOCATOR IS IN CONTACT WITH THE CONTRACTOR. - CHANGED FROM: 3/17/2026 7:00:00 AM TO: 4/1/2026 7:00:00 PM IN AMERICAN WATER SEWER, WATER"
+          "details": "Date:03/20/2026 12:05 PM IN AMERICAN WATER SEWER, WATER"
         },
         {
           "company": "IN AMERICAN WATER",
@@ -6422,21 +6422,21 @@
       "caller": "RAFAEL RIVAS",
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-20T19:03:55.554Z",
-      "lastScrapedDisplay": "Mar 20, 3:03 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-21T22:02:14.153Z",
+      "lastScrapedDisplay": "Mar 21, 6:02 PM",
       "responseSummary": {
         "total": 7,
         "clear": 0,
-        "marked": 6,
+        "marked": 7,
         "markedExceptions": 0,
-        "unmarked": 1,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
@@ -6450,11 +6450,11 @@
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
           "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:03/16/2026 01:03 PM Attempted to contact: RAFAEL RIVAS, Comments : ONGOING PROJECT. LOCATOR IS IN CONTACT WITH THE CONTRACTOR. - CHANGED FROM: 3/17/2026 7:00:00 AM TO: 4/1/2026 7:00:00 PM IN AMERICAN WATER SEWER, WATER"
+          "details": "Date:03/20/2026 12:05 PM IN AMERICAN WATER SEWER, WATER"
         },
         {
           "company": "IN AMERICAN WATER",
