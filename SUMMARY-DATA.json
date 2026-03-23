@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-23T19:04:46.684Z",
+  "generated": "2026-03-23T22:04:46.765Z",
   "totalTickets": 77,
   "attentionCount": 53,
-  "allClearCount": 23,
+  "allClearCount": 24,
   "archivedThisRun": 0,
   "tickets": [
     {
@@ -4947,8 +4947,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-22T19:03:56.054Z",
-      "lastScrapedDisplay": "Mar 22, 3:03 PM",
+      "lastScraped": "2026-03-23T22:01:22.265Z",
+      "lastScrapedDisplay": "Mar 23, 6:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -5073,8 +5073,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-22T19:04:21.927Z",
-      "lastScrapedDisplay": "Mar 22, 3:04 PM",
+      "lastScraped": "2026-03-23T22:01:48.189Z",
+      "lastScrapedDisplay": "Mar 23, 6:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -5199,8 +5199,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-22T19:04:47.313Z",
-      "lastScrapedDisplay": "Mar 22, 3:04 PM",
+      "lastScraped": "2026-03-23T22:02:13.684Z",
+      "lastScrapedDisplay": "Mar 23, 6:02 PM",
       "responseSummary": {
         "total": 10,
         "clear": 3,
@@ -5334,8 +5334,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-22T22:00:56.028Z",
-      "lastScrapedDisplay": "Mar 22, 6:00 PM",
+      "lastScraped": "2026-03-23T22:02:39.268Z",
+      "lastScrapedDisplay": "Mar 23, 6:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -5460,8 +5460,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-22T22:01:22.550Z",
-      "lastScrapedDisplay": "Mar 22, 6:01 PM",
+      "lastScraped": "2026-03-23T22:03:04.756Z",
+      "lastScrapedDisplay": "Mar 23, 6:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -5577,8 +5577,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-22T22:01:48.457Z",
-      "lastScrapedDisplay": "Mar 22, 6:01 PM",
+      "lastScraped": "2026-03-23T22:03:30.231Z",
+      "lastScrapedDisplay": "Mar 23, 6:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -5694,8 +5694,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-22T22:02:13.820Z",
-      "lastScrapedDisplay": "Mar 22, 6:02 PM",
+      "lastScraped": "2026-03-23T22:03:55.673Z",
+      "lastScrapedDisplay": "Mar 23, 6:03 PM",
       "responseSummary": {
         "total": 10,
         "clear": 2,
@@ -5829,8 +5829,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-22T22:02:39.237Z",
-      "lastScrapedDisplay": "Mar 22, 6:02 PM",
+      "lastScraped": "2026-03-23T22:04:21.111Z",
+      "lastScrapedDisplay": "Mar 23, 6:04 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -5946,8 +5946,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-22T22:03:04.628Z",
-      "lastScrapedDisplay": "Mar 22, 6:03 PM",
+      "lastScraped": "2026-03-23T22:04:46.489Z",
+      "lastScrapedDisplay": "Mar 23, 6:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -8042,13 +8042,13 @@
       "caller": "JOSH FREY",
       "callerPhone": "(270)313-2506",
       "startDate": "03/25/2026",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "2026-03-22T19:03:30.635Z",
-      "lastScrapedDisplay": "Mar 22, 3:03 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-23T22:00:55.751Z",
+      "lastScrapedDisplay": "Mar 23, 6:00 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 9,
+        "clear": 3,
+        "marked": 6,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -8056,8 +8056,90 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 08:12 AM Respondent:CASTON MATLOCK ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 10:00 AM EVANSVILLE WATER & SEWER UTILITY SEWER, WATER Utility Type:SEWER:"
+        },
+        {
+          "company": "SEWER, WATER",
+          "utilityTypes": "Utility Type:SEWER:",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 10:00 AM Utility Type:WATER:"
+        },
+        {
+          "company": "Date:03/23/2026 10:00 AM",
+          "utilityTypes": "Utility Type:WATER:",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 10:00 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 07:18 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-23 10:15:28 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 07:18 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-23 10:15:28 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 12:37 PM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 10:31 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 08:09 AM"
+        }
+      ]
     }
   ]
 }
