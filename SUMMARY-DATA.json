@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-26T19:04:46.678Z",
+  "generated": "2026-03-26T22:04:45.776Z",
   "totalTickets": 64,
   "attentionCount": 23,
   "allClearCount": 36,
@@ -198,8 +198,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-26T13:04:46.294Z",
-      "lastScrapedDisplay": "Mar 26, 9:04 AM",
+      "lastScraped": "2026-03-26T22:04:45.524Z",
+      "lastScrapedDisplay": "Mar 26, 6:04 PM",
       "responseSummary": {
         "total": 8,
         "clear": 3,
@@ -1986,8 +1986,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-25T20:42:11.177Z",
-      "lastScrapedDisplay": "Mar 25, 4:42 PM",
+      "lastScraped": "2026-03-26T22:00:54.592Z",
+      "lastScrapedDisplay": "Mar 26, 6:00 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -2008,7 +2008,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/16/2026 02:37 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/16/2026 at 04:33 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/16/2026 at 04:33 PM, Comments : NO MESSAGE LEFT, ONGOING PROJECT - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTO"
+          "details": "Date:03/26/2026 11:19 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/26/2026 at 01:15 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/26/2026 at 01:15 PM, Comments : PROJECT. ONGOING,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 TRIED CONTACTING RAFAEL RIVAS BUT COULDN'T R"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -2104,8 +2104,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-25T20:42:37.113Z",
-      "lastScrapedDisplay": "Mar 25, 4:42 PM",
+      "lastScraped": "2026-03-26T22:01:21.110Z",
+      "lastScrapedDisplay": "Mar 26, 6:01 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -2126,7 +2126,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/16/2026 02:37 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/16/2026 at 04:33 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/16/2026 at 04:33 PM, Comments : NO MESSAGE LEFT, ONGOING PROJECT - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTO"
+          "details": "Date:03/26/2026 11:19 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/26/2026 at 01:15 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/26/2026 at 01:15 PM, Comments : PROJECT. ONGOING,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 TRIED CONTACTING RAFAEL RIVAS BUT COULDN'T R"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -2222,8 +2222,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-25T20:43:02.612Z",
-      "lastScrapedDisplay": "Mar 25, 4:43 PM",
+      "lastScraped": "2026-03-26T22:01:46.990Z",
+      "lastScrapedDisplay": "Mar 26, 6:01 PM",
       "responseSummary": {
         "total": 10,
         "clear": 2,
@@ -2244,7 +2244,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/16/2026 02:39 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/16/2026 at 04:33 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/16/2026 at 04:33 PM, Comments : NO MESSAGE LEFT, ONGOING PROJECT - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 MARATHON PETROLEUM COMPANY, LLC PIPELINE"
+          "details": "Date:03/26/2026 11:19 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/26/2026 at 01:15 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/26/2026 at 01:15 PM, Comments : PROJECT. ONGOING,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 TRIED CONTACTING RAFAEL RIVAS BUT COULDN'T R"
         },
         {
           "company": "MARATHON PETROLEUM COMPANY, LLC",
@@ -2358,8 +2358,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-25T20:43:28.107Z",
-      "lastScrapedDisplay": "Mar 25, 4:43 PM",
+      "lastScraped": "2026-03-26T22:02:12.509Z",
+      "lastScrapedDisplay": "Mar 26, 6:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -2380,7 +2380,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/16/2026 02:39 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/16/2026 at 04:33 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/16/2026 at 04:33 PM, Comments : NO MESSAGE LEFT, ONGOING PROJECT - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTO"
+          "details": "Date:03/26/2026 11:19 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/26/2026 at 01:15 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/26/2026 at 01:15 PM, Comments : PROJECT. ONGOING,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 TRIED CONTACTING RAFAEL RIVAS BUT COULDN'T R"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -2476,8 +2476,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-25T20:43:53.678Z",
-      "lastScrapedDisplay": "Mar 25, 4:43 PM",
+      "lastScraped": "2026-03-26T22:02:37.886Z",
+      "lastScrapedDisplay": "Mar 26, 6:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -2498,7 +2498,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/16/2026 02:39 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/16/2026 at 04:33 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/16/2026 at 04:33 PM, Comments : NO MESSAGE LEFT, ONGOING PROJECT - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTO"
+          "details": "Date:03/26/2026 11:19 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/26/2026 at 01:15 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/26/2026 at 01:15 PM, Comments : PROJECT. ONGOING,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 TRIED CONTACTING RAFAEL RIVAS BUT COULDN'T R"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -2603,8 +2603,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-25T20:44:19.238Z",
-      "lastScrapedDisplay": "Mar 25, 4:44 PM",
+      "lastScraped": "2026-03-26T22:03:03.514Z",
+      "lastScrapedDisplay": "Mar 26, 6:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -2625,7 +2625,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/16/2026 02:39 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/16/2026 at 04:33 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/16/2026 at 04:33 PM, Comments : NO MESSAGE LEFT, ONGOING PROJECT - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTO"
+          "details": "Date:03/26/2026 11:19 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/26/2026 at 01:15 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/26/2026 at 01:15 PM, Comments : PROJECT. ONGOING,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 TRIED CONTACTING RAFAEL RIVAS BUT COULDN'T R"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -2721,8 +2721,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-25T20:44:44.888Z",
-      "lastScrapedDisplay": "Mar 25, 4:44 PM",
+      "lastScraped": "2026-03-26T22:03:29.065Z",
+      "lastScrapedDisplay": "Mar 26, 6:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -2743,7 +2743,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/16/2026 02:39 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/16/2026 at 04:33 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/16/2026 at 04:33 PM, Comments : NO MESSAGE LEFT, ONGOING PROJECT - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTO"
+          "details": "Date:03/26/2026 11:19 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/26/2026 at 01:15 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/26/2026 at 01:15 PM, Comments : PROJECT. ONGOING,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 TRIED CONTACTING RAFAEL RIVAS BUT COULDN'T R"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -3815,8 +3815,8 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-25T22:04:22.082Z",
-      "lastScrapedDisplay": "Mar 25, 6:04 PM",
+      "lastScraped": "2026-03-26T22:03:54.551Z",
+      "lastScrapedDisplay": "Mar 26, 6:03 PM",
       "responseSummary": {
         "total": 5,
         "clear": 2,
@@ -3906,8 +3906,8 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-25T22:04:47.510Z",
-      "lastScrapedDisplay": "Mar 25, 6:04 PM",
+      "lastScraped": "2026-03-26T22:04:20.103Z",
+      "lastScrapedDisplay": "Mar 26, 6:04 PM",
       "responseSummary": {
         "total": 5,
         "clear": 2,
