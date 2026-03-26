@@ -141,7 +141,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>🚧 811 Ticket Dashboard</h1>
+            <h1>🚧 mStreet - 811 Ticket Dashboard</h1>
             <div class="updated" id="lastUpdated">Loading...</div>
         </header>
 
@@ -253,6 +253,33 @@
             var statusText = t.allClear ? 'CLEAR TO DIG' : (t.overallStatus || 'UNKNOWN');
             var statusClass = t.allClear ? 'popup-clear' : 'popup-attention';
             var summary = t.responseSummary || {};
+
+            // Build pending utilities list
+            var pendingList = '';
+            if (!t.allClear && t.responses && t.responses.length > 0) {
+                var pending = t.responses.filter(function(r) {
+                    return r.status === 'UNMARKED' || r.status === 'NO RESPONSE' || r.status === 'MARKED WITH EXCEPTIONS';
+                });
+                if (pending.length > 0) {
+                    pendingList = '<br><strong style="color:#f44336;">⚠ Pending:</strong><br>';
+                    pending.forEach(function(r) {
+                        var name = (r.company || 'Unknown')
+                            .replace('INSIGHT COMMUNICATIONS (NEW ALBANY)', 'Insight')
+                            .replace('AT&T - DISTRIBUTION', 'AT&T')
+                            .replace('CENTERPOINT ENERGY (SOUTH)', 'CenterPoint Gas')
+                            .replace('CENTERPOINT ENERGY (SOUTH ELECTRIC)', 'CenterPoint Elec')
+                            .replace('MAINSTREAM FIBER NETWORKS, LLC', 'Mainstream')
+                            .replace('RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND', 'RCN/Astound')
+                            .replace('IN AMERICAN WATER', 'American Water')
+                            .replace('CHANDLER UTILITIES', 'Chandler')
+                            .replace('NEWBURGH, TOWN OF', 'Newburgh')
+                            .replace('GERMAN TOWNSHIP WATER DISTRICT', 'German Twp Water');
+                        var statusLabel = r.status === 'MARKED WITH EXCEPTIONS' ? 'EXCEPTION' : r.status;
+                        pendingList += '&nbsp;&nbsp;• ' + name + ' <span style="color:#ff9800;font-size:0.85em;">(' + statusLabel + ')</span><br>';
+                    });
+                }
+            }
+
             return '<div class="popup-ticket">' + t.ticket + '</div>' +
                 '<span class="popup-status ' + statusClass + '">' + statusText + '</span><br><br>' +
                 '<strong>Location:</strong> ' + (t.fullAddress || t.street || 'N/A') + (t.cross1 ? ' / ' + t.cross1 : '') + '<br>' +
@@ -261,7 +288,8 @@
                 '<strong>Done For:</strong> ' + (t.doneFor || 'N/A') + '<br>' +
                 '<strong>Expires:</strong> ' + (t.expiresClean || t.expires || 'N/A') + '<br>' +
                 '<strong>Responses:</strong> ' + (summary.marked || 0) + ' marked, ' +
-                (summary.clear || 0) + ' clear, ' + (summary.unmarked || 0) + ' unmarked<br>' +
+                (summary.clear || 0) + ' clear, ' + (summary.unmarked || 0) + ' unmarked' +
+                pendingList + '<br>' +
                 '<strong>Last Scraped:</strong> ' + (t.lastScrapedDisplay || 'never');
         }
 
@@ -444,6 +472,7 @@
                     var valB = b[currentSort.column] || '';
                     if (currentSort.column === 'summary') { valA = (a.responseSummary || {}).unmarked || 0; valB = (b.responseSummary || {}).unmarked || 0; }
                     else if (currentSort.column === 'lastScrapedDisplay') { valA = a.lastScraped || '1970'; valB = b.lastScraped || '1970'; }
+                    else if (currentSort.column === 'footage') { valA = a.footage || 0; valB = b.footage || 0; }
                     if (valA < valB) return currentSort.direction === 'asc' ? -1 : 1;
                     if (valA > valB) return currentSort.direction === 'asc' ? 1 : -1;
                     return 0;
@@ -461,6 +490,7 @@
                 '<th class="sortable" data-column="cross1">Cross Street</th>' +
                 '<th>Status</th><th>Pending Utilities</th>' +
                 '<th class="sortable" data-column="expiresClean">Expires</th>' +
+                '<th class="sortable" data-column="footage">Footage</th>' +
                 '<th class="sortable" data-column="summary">Unmarked</th>' +
                 '<th class="sortable" data-column="lastScrapedDisplay">Last Scraped</th>' +
                 '<th style="width:40px;"></th>' +
@@ -496,12 +526,13 @@
                     '<td>' + getStatusBadge(ticket) + '</td>' +
                     '<td style="font-size:0.85em;color:#d97706;">' + pendingDisplay + '</td>' +
                     '<td>' + (ticket.expiresClean || ticket.expires || 'N/A') + '</td>' +
+                    '<td>' + (ticket.footage ? ticket.footage.toLocaleString() + ' ft' : '-') + '</td>' +
                     '<td>' + unmarkedDisplay + '</td>' +
                     '<td style="' + scrapedStyle + '">' + lastScraped + '</td>' +
                     '<td style="text-align:center;">' + (hasMap ? '<span style="cursor:pointer;font-size:1.2em;" onclick="event.stopPropagation();selectTicketFromTable(\'' + ticket.ticket + '\')" title="Show on map">' + hasMap + '</span>' : '') + '</td>' +
                     '</tr>' +
                     '<tr class="detail-row" id="detail-' + ticket.ticket + '">' +
-                    '<td colspan="9"><div class="detail-content">' + renderDetail(ticket) + '</div></td></tr>';
+                    '<td colspan="10"><div class="detail-content">' + renderDetail(ticket) + '</div></td></tr>';
             });
 
             html += '</tbody></table>';
