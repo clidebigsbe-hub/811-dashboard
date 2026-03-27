@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-26T22:04:45.776Z",
+  "generated": "2026-03-27T01:04:46.420Z",
   "totalTickets": 64,
-  "attentionCount": 23,
-  "allClearCount": 36,
+  "attentionCount": 22,
+  "allClearCount": 42,
   "archivedThisRun": 0,
   "tickets": [
     {
@@ -315,21 +315,21 @@
       "caller": "RAFAEL RIVAS",
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-26T16:03:29.594Z",
-      "lastScrapedDisplay": "Mar 26, 12:03 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-27T01:03:04.182Z",
+      "lastScrapedDisplay": "Mar 26, 9:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 0,
-        "marked": 8,
+        "marked": 9,
         "markedExceptions": 0,
-        "unmarked": 1,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
@@ -379,11 +379,11 @@
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
           "utilityTypes": "FIBER OPTIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:03/17/2026 07:25 AM Attempted to contact: RAFAEL, Comments : DELAYED DUE TO TICKET VOLUME CHANDLER UTILITIES SEWER, STORM, WATER"
+          "details": "Date:03/26/2026 09:56 AM CHANDLER UTILITIES SEWER, STORM, WATER"
         },
         {
           "company": "CHANDLER UTILITIES",
@@ -570,8 +570,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-26T16:04:20.378Z",
-      "lastScrapedDisplay": "Mar 26, 12:04 PM",
+      "lastScraped": "2026-03-27T01:03:29.634Z",
+      "lastScrapedDisplay": "Mar 26, 9:03 PM",
       "responseSummary": {
         "total": 3,
         "clear": 0,
@@ -643,8 +643,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-26T16:04:46.574Z",
-      "lastScrapedDisplay": "Mar 26, 12:04 PM",
+      "lastScraped": "2026-03-27T01:03:55.127Z",
+      "lastScrapedDisplay": "Mar 26, 9:03 PM",
       "responseSummary": {
         "total": 3,
         "clear": 0,
@@ -716,8 +716,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "EXCEPTIONS",
-      "lastScraped": "2026-03-26T19:00:55.694Z",
-      "lastScrapedDisplay": "Mar 26, 3:00 PM",
+      "lastScraped": "2026-03-27T01:04:20.619Z",
+      "lastScrapedDisplay": "Mar 26, 9:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -774,7 +774,7 @@
           "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:03/26/2026 07:08 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-26 10:06:23 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:03/26/2026 01:28 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-26 16:17:20 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -843,8 +843,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-26T19:01:22.160Z",
-      "lastScrapedDisplay": "Mar 26, 3:01 PM",
+      "lastScraped": "2026-03-27T01:04:46.171Z",
+      "lastScrapedDisplay": "Mar 26, 9:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -4890,13 +4890,13 @@
       "caller": "ROGER PEREZ",
       "callerPhone": "(618)803-5359",
       "startDate": "03/30/2026",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "2026-03-26T14:44:53.764Z",
-      "lastScrapedDisplay": "Mar 26, 10:44 AM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-27T01:00:55.400Z",
+      "lastScrapedDisplay": "Mar 26, 9:00 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 2,
+        "clear": 1,
+        "marked": 1,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -4904,8 +4904,27 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 07:55 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 12:54 PM NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
     },
     {
       "ticket": "26032504425",
@@ -4990,13 +5009,13 @@
       "caller": "ROGER PEREZ",
       "callerPhone": "(618)803-5359",
       "startDate": "03/30/2026",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "2026-03-26T14:45:44.616Z",
-      "lastScrapedDisplay": "Mar 26, 10:45 AM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-27T01:01:21.936Z",
+      "lastScrapedDisplay": "Mar 26, 9:01 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 2,
+        "clear": 1,
+        "marked": 1,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -5004,8 +5023,27 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 07:55 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 12:54 PM NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
     },
     {
       "ticket": "26032504876",
@@ -5035,13 +5073,13 @@
       "caller": "ROGER PEREZ",
       "callerPhone": "(618)803-5359",
       "startDate": "03/30/2026",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "2026-03-26T14:46:10.010Z",
-      "lastScrapedDisplay": "Mar 26, 10:46 AM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-27T01:01:47.821Z",
+      "lastScrapedDisplay": "Mar 26, 9:01 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 2,
+        "clear": 1,
+        "marked": 1,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -5049,8 +5087,27 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 07:55 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 12:54 PM NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
     },
     {
       "ticket": "26032504935",
@@ -5080,13 +5137,13 @@
       "caller": "ROGER PEREZ",
       "callerPhone": "(618)803-5359",
       "startDate": "03/30/2026",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "2026-03-26T14:46:35.329Z",
-      "lastScrapedDisplay": "Mar 26, 10:46 AM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-27T01:02:13.286Z",
+      "lastScrapedDisplay": "Mar 26, 9:02 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 2,
+        "clear": 1,
+        "marked": 1,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -5094,8 +5151,27 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 07:55 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 12:54 PM NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
     },
     {
       "ticket": "26032504984",
@@ -5125,13 +5201,13 @@
       "caller": "ROGER PEREZ",
       "callerPhone": "(618)803-5359",
       "startDate": "03/30/2026",
-      "overallStatus": "UNKNOWN",
-      "lastScraped": "2026-03-26T14:47:01.135Z",
-      "lastScrapedDisplay": "Mar 26, 10:47 AM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-27T01:02:38.730Z",
+      "lastScrapedDisplay": "Mar 26, 9:02 PM",
       "responseSummary": {
-        "total": 0,
-        "clear": 0,
-        "marked": 0,
+        "total": 2,
+        "clear": 1,
+        "marked": 1,
         "markedExceptions": 0,
         "unmarked": 0,
         "noResponse": 0
@@ -5139,8 +5215,27 @@
       "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
-      "responses": []
+      "allClear": true,
+      "responses": [
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 07:55 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/26/2026 12:54 PM NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
     },
     {
       "ticket": "26032505242",
