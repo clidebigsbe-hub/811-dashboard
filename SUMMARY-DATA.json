@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T19:04:46.154Z",
+  "generated": "2026-03-27T22:04:46.910Z",
   "totalTickets": 64,
-  "attentionCount": 22,
-  "allClearCount": 42,
+  "attentionCount": 21,
+  "allClearCount": 43,
   "archivedThisRun": 0,
   "tickets": [
     {
@@ -197,21 +197,21 @@
       "caller": "RAFAEL RIVAS",
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:03:55.062Z",
-      "lastScrapedDisplay": "Mar 27, 12:03 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-03-27T22:04:46.654Z",
+      "lastScrapedDisplay": "Mar 27, 6:04 PM",
       "responseSummary": {
         "total": 8,
         "clear": 3,
-        "marked": 4,
+        "marked": 5,
         "markedExceptions": 0,
-        "unmarked": 1,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
@@ -252,11 +252,11 @@
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
           "utilityTypes": "FIBER OPTIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:03/17/2026 07:24 AM Attempted to contact: RAFAEL, Comments : DELAYED DUE TO TICKET VOLUME CHANDLER UTILITIES SEWER, STORM, WATER"
+          "details": "Date:03/27/2026 11:19 AM CHANDLER UTILITIES SEWER, STORM, WATER"
         },
         {
           "company": "CHANDLER UTILITIES",
@@ -1986,8 +1986,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T13:04:20.981Z",
-      "lastScrapedDisplay": "Mar 27, 9:04 AM",
+      "lastScraped": "2026-03-27T22:00:55.910Z",
+      "lastScrapedDisplay": "Mar 27, 6:00 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -2104,8 +2104,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T13:04:46.422Z",
-      "lastScrapedDisplay": "Mar 27, 9:04 AM",
+      "lastScraped": "2026-03-27T22:01:22.430Z",
+      "lastScrapedDisplay": "Mar 27, 6:01 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -2222,8 +2222,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:00:55.270Z",
-      "lastScrapedDisplay": "Mar 27, 12:00 PM",
+      "lastScraped": "2026-03-27T22:01:48.305Z",
+      "lastScrapedDisplay": "Mar 27, 6:01 PM",
       "responseSummary": {
         "total": 10,
         "clear": 2,
@@ -2358,8 +2358,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:01:22.146Z",
-      "lastScrapedDisplay": "Mar 27, 12:01 PM",
+      "lastScraped": "2026-03-27T22:02:13.721Z",
+      "lastScrapedDisplay": "Mar 27, 6:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -2476,8 +2476,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:01:47.825Z",
-      "lastScrapedDisplay": "Mar 27, 12:01 PM",
+      "lastScraped": "2026-03-27T22:02:39.174Z",
+      "lastScrapedDisplay": "Mar 27, 6:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -2603,8 +2603,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:02:13.276Z",
-      "lastScrapedDisplay": "Mar 27, 12:02 PM",
+      "lastScraped": "2026-03-27T22:03:04.669Z",
+      "lastScrapedDisplay": "Mar 27, 6:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -2721,8 +2721,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:02:38.729Z",
-      "lastScrapedDisplay": "Mar 27, 12:02 PM",
+      "lastScraped": "2026-03-27T22:03:30.137Z",
+      "lastScrapedDisplay": "Mar 27, 6:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -3815,8 +3815,8 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:03:04.193Z",
-      "lastScrapedDisplay": "Mar 27, 12:03 PM",
+      "lastScraped": "2026-03-27T22:03:55.717Z",
+      "lastScrapedDisplay": "Mar 27, 6:03 PM",
       "responseSummary": {
         "total": 5,
         "clear": 2,
@@ -3906,14 +3906,14 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:03:29.667Z",
-      "lastScrapedDisplay": "Mar 27, 12:03 PM",
+      "lastScraped": "2026-03-27T22:04:21.282Z",
+      "lastScrapedDisplay": "Mar 27, 6:04 PM",
       "responseSummary": {
         "total": 5,
         "clear": 2,
-        "marked": 1,
+        "marked": 2,
         "markedExceptions": 0,
-        "unmarked": 2,
+        "unmarked": 1,
         "noResponse": 0
       },
       "hasUnmarked": true,
@@ -3924,11 +3924,11 @@
         {
           "company": "DUKE ENERGY",
           "utilityTypes": "ELECTRIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:03/18/2026 02:27 PM Attempted to contact: ELI DUQUE via Phone 8654388731 on 03/18/2026 at 04:26 PM, Locator Name: JONATHON COLUMBIA, Locator phone/email: JONATHONCOLUMBIA@USICLLC.COM, Proposed Date/Time of Completion: 03/22/2026 at 04:26 PM, Comments : ONGOING PROJECT MIDWEST NATURAL GAS CORPORATION GAS"
+          "details": "Date:03/27/2026 11:41 AM MIDWEST NATURAL GAS CORPORATION GAS"
         },
         {
           "company": "MIDWEST NATURAL GAS CORPORATION",
