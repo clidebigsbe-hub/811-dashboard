@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-28T01:04:47.125Z",
+  "generated": "2026-03-28T13:04:46.469Z",
   "totalTickets": 64,
   "attentionCount": 21,
   "allClearCount": 43,
@@ -1723,8 +1723,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "EXCEPTIONS",
-      "lastScraped": "2026-03-27T19:04:20.463Z",
-      "lastScrapedDisplay": "Mar 27, 3:04 PM",
+      "lastScraped": "2026-03-28T13:00:55.591Z",
+      "lastScrapedDisplay": "Mar 28, 9:00 AM",
       "responseSummary": {
         "total": 10,
         "clear": 3,
@@ -1859,8 +1859,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T19:04:45.905Z",
-      "lastScrapedDisplay": "Mar 27, 3:04 PM",
+      "lastScraped": "2026-03-28T13:01:22.097Z",
+      "lastScrapedDisplay": "Mar 28, 9:01 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1986,8 +1986,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T22:00:55.910Z",
-      "lastScrapedDisplay": "Mar 27, 6:00 PM",
+      "lastScraped": "2026-03-28T13:01:47.955Z",
+      "lastScrapedDisplay": "Mar 28, 9:01 AM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -2104,8 +2104,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T22:01:22.430Z",
-      "lastScrapedDisplay": "Mar 27, 6:01 PM",
+      "lastScraped": "2026-03-28T13:02:13.446Z",
+      "lastScrapedDisplay": "Mar 28, 9:02 AM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -2195,7 +2195,7 @@
     },
     {
       "ticket": "26031206615",
-      "date": "03/12/2026",
+      "date": "03/27/2026",
       "expires": "04/01/2026 23:59",
       "expiresClean": "04/01/2026",
       "street": "",
@@ -2222,8 +2222,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T22:01:48.305Z",
-      "lastScrapedDisplay": "Mar 27, 6:01 PM",
+      "lastScraped": "2026-03-28T13:02:38.866Z",
+      "lastScrapedDisplay": "Mar 28, 9:02 AM",
       "responseSummary": {
         "total": 10,
         "clear": 2,
@@ -2241,10 +2241,10 @@
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
           "utilityTypes": "CABLE TV",
           "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/26/2026 11:19 AM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/26/2026 at 01:15 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/26/2026 at 01:15 PM, Comments : PROJECT. ONGOING,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED - 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 TRIED CONTACTING RAFAEL RIVAS BUT COULDN'T R"
+          "details": "Date:03/27/2026 08:51 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) 2026/03/26 17:33 NO MESSAGE LEFT, ONGOING PROJECT 2026/03/26 17:33 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 2026/03/31 19:00 PROJECT. ONGOING,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED 2026/03/31 19:00 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 MARATHON PETROLEUM COMPANY, LLC PIPELINE"
         },
         {
           "company": "MARATHON PETROLEUM COMPANY, LLC",
@@ -2358,8 +2358,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T22:02:13.721Z",
-      "lastScrapedDisplay": "Mar 27, 6:02 PM",
+      "lastScraped": "2026-03-28T13:03:04.294Z",
+      "lastScrapedDisplay": "Mar 28, 9:03 AM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -2476,8 +2476,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T22:02:39.174Z",
-      "lastScrapedDisplay": "Mar 27, 6:02 PM",
+      "lastScraped": "2026-03-28T13:03:29.794Z",
+      "lastScrapedDisplay": "Mar 28, 9:03 AM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -2603,8 +2603,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T22:03:04.669Z",
-      "lastScrapedDisplay": "Mar 27, 6:03 PM",
+      "lastScraped": "2026-03-28T13:03:55.208Z",
+      "lastScrapedDisplay": "Mar 28, 9:03 AM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -2721,8 +2721,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T22:03:30.137Z",
-      "lastScrapedDisplay": "Mar 27, 6:03 PM",
+      "lastScraped": "2026-03-28T13:04:20.721Z",
+      "lastScrapedDisplay": "Mar 28, 9:04 AM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -3815,8 +3815,8 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T22:03:55.717Z",
-      "lastScrapedDisplay": "Mar 27, 6:03 PM",
+      "lastScraped": "2026-03-28T13:04:46.223Z",
+      "lastScrapedDisplay": "Mar 28, 9:04 AM",
       "responseSummary": {
         "total": 5,
         "clear": 2,
