@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-27T22:04:46.910Z",
+  "generated": "2026-03-28T01:04:47.125Z",
   "totalTickets": 64,
   "attentionCount": 21,
   "allClearCount": 43,
@@ -570,8 +570,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:04:20.514Z",
-      "lastScrapedDisplay": "Mar 27, 12:04 PM",
+      "lastScraped": "2026-03-28T01:00:55.529Z",
+      "lastScrapedDisplay": "Mar 27, 9:00 PM",
       "responseSummary": {
         "total": 3,
         "clear": 0,
@@ -643,8 +643,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T16:04:45.934Z",
-      "lastScrapedDisplay": "Mar 27, 12:04 PM",
+      "lastScraped": "2026-03-28T01:01:22.238Z",
+      "lastScrapedDisplay": "Mar 27, 9:01 PM",
       "responseSummary": {
         "total": 3,
         "clear": 0,
@@ -716,8 +716,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "EXCEPTIONS",
-      "lastScraped": "2026-03-27T19:00:55.190Z",
-      "lastScrapedDisplay": "Mar 27, 3:00 PM",
+      "lastScraped": "2026-03-28T01:01:48.112Z",
+      "lastScrapedDisplay": "Mar 27, 9:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -843,8 +843,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T19:01:21.629Z",
-      "lastScrapedDisplay": "Mar 27, 3:01 PM",
+      "lastScraped": "2026-03-28T01:02:13.967Z",
+      "lastScrapedDisplay": "Mar 27, 9:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 1,
@@ -970,8 +970,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T19:01:47.480Z",
-      "lastScrapedDisplay": "Mar 27, 3:01 PM",
+      "lastScraped": "2026-03-28T01:02:39.464Z",
+      "lastScrapedDisplay": "Mar 27, 9:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -1088,8 +1088,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T19:02:12.887Z",
-      "lastScrapedDisplay": "Mar 27, 3:02 PM",
+      "lastScraped": "2026-03-28T01:03:04.863Z",
+      "lastScrapedDisplay": "Mar 27, 9:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1215,8 +1215,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T19:02:38.373Z",
-      "lastScrapedDisplay": "Mar 27, 3:02 PM",
+      "lastScraped": "2026-03-28T01:03:30.396Z",
+      "lastScrapedDisplay": "Mar 27, 9:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1342,8 +1342,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T19:03:03.845Z",
-      "lastScrapedDisplay": "Mar 27, 3:03 PM",
+      "lastScraped": "2026-03-28T01:03:55.834Z",
+      "lastScrapedDisplay": "Mar 27, 9:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1391,7 +1391,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/18/2026 01:34 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BEEN IN CONTACT WITH CONTRACTOR. WORKING AHEAD AS SCHEDULED - CHANGED FROM: 2026-03-17 06:00:00 TO 2026-03-31 06:00:27 - EXCAVATION DATE CHANGED FROM: 2026-03-17 07:00:00 TO: 2026-03-31 07:00:27 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+          "details": "Date:03/27/2026 01:55 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-03-31 06:00:50 TO 2026-04-03 06:00:19 - EXCAVATION DATE CHANGED FROM: 2026-03-31 07:00:50 TO: 2026-04-03 07:00:19 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
@@ -1400,7 +1400,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:03/18/2026 01:35 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BEEN IN CONTACT WITH CONTRACTOR. WORKING AHEAD AS SCHEDULED - CHANGED FROM: 2026-03-17 06:00:00 TO 2026-03-31 06:00:27 - EXCAVATION DATE CHANGED FROM: 2026-03-17 07:00:00 TO: 2026-03-31 07:00:27 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:03/27/2026 01:56 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-03-31 06:00:50 TO 2026-04-03 06:00:19 - EXCAVATION DATE CHANGED FROM: 2026-03-31 07:00:50 TO: 2026-04-03 07:00:19 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -1469,8 +1469,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T19:03:29.305Z",
-      "lastScrapedDisplay": "Mar 27, 3:03 PM",
+      "lastScraped": "2026-03-28T01:04:21.302Z",
+      "lastScrapedDisplay": "Mar 27, 9:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1596,8 +1596,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-27T19:03:54.883Z",
-      "lastScrapedDisplay": "Mar 27, 3:03 PM",
+      "lastScraped": "2026-03-28T01:04:46.870Z",
+      "lastScrapedDisplay": "Mar 27, 9:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
