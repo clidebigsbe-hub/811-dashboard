@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-31T13:04:46.774Z",
+  "generated": "2026-03-31T16:04:46.684Z",
   "totalTickets": 64,
   "attentionCount": 21,
   "allClearCount": 43,
@@ -570,8 +570,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-31T01:03:55.225Z",
-      "lastScrapedDisplay": "Mar 30, 9:03 PM",
+      "lastScraped": "2026-03-31T16:04:20.967Z",
+      "lastScrapedDisplay": "Mar 31, 12:04 PM",
       "responseSummary": {
         "total": 3,
         "clear": 0,
@@ -643,8 +643,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-31T01:04:20.704Z",
-      "lastScrapedDisplay": "Mar 30, 9:04 PM",
+      "lastScraped": "2026-03-31T16:04:46.446Z",
+      "lastScrapedDisplay": "Mar 31, 12:04 PM",
       "responseSummary": {
         "total": 3,
         "clear": 0,
@@ -2104,8 +2104,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-30T22:04:46.141Z",
-      "lastScrapedDisplay": "Mar 30, 6:04 PM",
+      "lastScraped": "2026-03-31T16:00:55.739Z",
+      "lastScrapedDisplay": "Mar 31, 12:00 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -2222,8 +2222,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-31T01:00:55.691Z",
-      "lastScrapedDisplay": "Mar 30, 9:00 PM",
+      "lastScraped": "2026-03-31T16:01:22.234Z",
+      "lastScrapedDisplay": "Mar 31, 12:01 PM",
       "responseSummary": {
         "total": 10,
         "clear": 2,
@@ -2358,8 +2358,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-31T01:01:22.147Z",
-      "lastScrapedDisplay": "Mar 30, 9:01 PM",
+      "lastScraped": "2026-03-31T16:01:48.114Z",
+      "lastScrapedDisplay": "Mar 31, 12:01 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -2476,14 +2476,14 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-31T01:01:48.046Z",
-      "lastScrapedDisplay": "Mar 30, 9:01 PM",
+      "lastScraped": "2026-03-31T16:02:13.609Z",
+      "lastScrapedDisplay": "Mar 31, 12:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
-        "marked": 3,
+        "marked": 4,
         "markedExceptions": 0,
-        "unmarked": 3,
+        "unmarked": 2,
         "noResponse": 0
       },
       "hasUnmarked": true,
@@ -2503,11 +2503,11 @@
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
           "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:03/16/2026 01:03 PM Attempted to contact: RAFAEL RIVAS, Comments : ONGOING PROJECT. LOCATOR IS IN CONTACT WITH THE CONTRACTOR. - CHANGED FROM: 3/17/2026 7:00:00 AM TO: 4/1/2026 7:00:00 PM IN AMERICAN WATER SEWER, WATER"
+          "details": "Date:03/31/2026 06:28 AM IN AMERICAN WATER SEWER, WATER"
         },
         {
           "company": "IN AMERICAN WATER",
@@ -2603,8 +2603,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-31T01:02:13.482Z",
-      "lastScrapedDisplay": "Mar 30, 9:02 PM",
+      "lastScraped": "2026-03-31T16:02:39.102Z",
+      "lastScrapedDisplay": "Mar 31, 12:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -2721,8 +2721,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "03/17/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-31T01:02:38.948Z",
-      "lastScrapedDisplay": "Mar 30, 9:02 PM",
+      "lastScraped": "2026-03-31T16:03:04.512Z",
+      "lastScrapedDisplay": "Mar 31, 12:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 0,
@@ -3815,8 +3815,8 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-31T01:03:04.402Z",
-      "lastScrapedDisplay": "Mar 30, 9:03 PM",
+      "lastScraped": "2026-03-31T16:03:30.053Z",
+      "lastScrapedDisplay": "Mar 31, 12:03 PM",
       "responseSummary": {
         "total": 5,
         "clear": 2,
@@ -3906,8 +3906,8 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-03-31T01:03:29.795Z",
-      "lastScrapedDisplay": "Mar 30, 9:03 PM",
+      "lastScraped": "2026-03-31T16:03:55.527Z",
+      "lastScrapedDisplay": "Mar 31, 12:03 PM",
       "responseSummary": {
         "total": 5,
         "clear": 2,
