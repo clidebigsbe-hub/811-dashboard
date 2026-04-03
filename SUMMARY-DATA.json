@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-03T13:01:23.635Z",
+  "generated": "2026-04-03T16:01:22.917Z",
   "totalTickets": 38,
   "attentionCount": 2,
   "allClearCount": 36,
@@ -783,8 +783,8 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-03T13:00:56.475Z",
-      "lastScrapedDisplay": "Apr 3, 9:00 AM",
+      "lastScraped": "2026-04-03T16:00:56.218Z",
+      "lastScrapedDisplay": "Apr 3, 12:00 PM",
       "responseSummary": {
         "total": 5,
         "clear": 2,
@@ -874,8 +874,8 @@
       "callerPhone": "(865)438-8731",
       "startDate": "03/19/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-03T13:01:23.433Z",
-      "lastScrapedDisplay": "Apr 3, 9:01 AM",
+      "lastScraped": "2026-04-03T16:01:22.719Z",
+      "lastScrapedDisplay": "Apr 3, 12:01 PM",
       "responseSummary": {
         "total": 5,
         "clear": 2,
