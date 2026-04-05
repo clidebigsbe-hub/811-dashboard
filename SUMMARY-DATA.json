@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-05T13:04:45.912Z",
-  "totalTickets": 52,
-  "attentionCount": 11,
+  "generated": "2026-04-05T16:04:46.921Z",
+  "totalTickets": 63,
+  "attentionCount": 21,
   "allClearCount": 41,
   "archivedThisRun": 0,
   "tickets": [
@@ -1664,6 +1664,1244 @@
           "details": "Date:03/23/2026 08:09 AM"
         }
       ]
+    },
+    {
+      "ticket": "26032004315",
+      "date": "03/24/2026",
+      "expires": "04/09/2026 23:59",
+      "expiresClean": "04/09/2026",
+      "street": "",
+      "cross1": "FRAME RD",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.976101,
+        "s": 37.972021,
+        "w": -87.413322,
+        "e": -87.410988
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/25/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:00:56.189Z",
+      "lastScrapedDisplay": "Apr 5, 12:00 PM",
+      "responseSummary": {
+        "total": 9,
+        "clear": 4,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 3,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:10 PM AUTO PROCESSED PER TICKET UPDATING RULE RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 07:07 AM Attempted to contact: ROGER PEREZ, Comments : . - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-14 06:00:44 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-14 07:00:44 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/20/2026 12:11 PM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-08 18:00:43 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-08 19:00:43 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-08 18:00:43 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-08 19:00:43 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:47 PM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:20 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:42 AM INCORRECT INFORMATION AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:32 PM 2026/03/24 15:21 BAD TICKET THESE ARE BAD TICKETS 2026/03/24 15:30 THESE ARE BAD TICKETS"
+        }
+      ]
+    },
+    {
+      "ticket": "26032004398",
+      "date": "03/24/2026",
+      "expires": "04/09/2026 23:59",
+      "expiresClean": "04/09/2026",
+      "street": "",
+      "cross1": "COUNT FLEET DR",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.976209,
+        "s": 37.973953,
+        "w": -87.41163,
+        "e": -87.408231
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/25/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:01:22.645Z",
+      "lastScrapedDisplay": "Apr 5, 12:01 PM",
+      "responseSummary": {
+        "total": 8,
+        "clear": 4,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 2,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:35 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 07:07 AM Attempted to contact: ROGER PEREZ, Comments : . - CHANGED FROM: 2026-04-14 06:00:29 TO 2026-05-09 06:00:38 - EXCAVATION DATE CHANGED FROM: 2026-04-14 07:00:29 TO: 2026-05-09 07:00:38 CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 07:02 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 09:56:52 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 07:02 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 09:56:52 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:47 PM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:20 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:43 AM INCORRECT INFORMATION AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:37 AM 2026/03/24 12:06 BAD TICKET THESE TICKETS ARE BAD 2026/03/24 12:28 THESE TICKETS ARE BAD"
+        }
+      ]
+    },
+    {
+      "ticket": "26032004587",
+      "date": "03/24/2026",
+      "expires": "04/09/2026 23:59",
+      "expiresClean": "04/09/2026",
+      "street": "",
+      "cross1": "SECRETARIAT DR",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.976065,
+        "s": 37.973938,
+        "w": -87.407865,
+        "e": -87.406452
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/25/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:01:48.508Z",
+      "lastScrapedDisplay": "Apr 5, 12:01 PM",
+      "responseSummary": {
+        "total": 8,
+        "clear": 2,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 4,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:38 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) MARATHON PETROLEUM COMPANY, LLC PIPELINE"
+        },
+        {
+          "company": "MARATHON PETROLEUM COMPANY, LLC",
+          "utilityTypes": "PIPELINE",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/20/2026 01:30 PM Respondent:HANNAH MCMILLEN RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 07:07 AM Attempted to contact: ROGER PEREZ, Comments : . - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 06:00:58 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 07:00:58 CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 18:00:08 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 19:00:08 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 18:00:08 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 19:00:08 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:20 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:43 AM INCORRECT INFORMATION AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:50 AM 2026/03/24 09:43 BAD TICKETS THESE ARE BAD TICKETS 2026/03/24 11:29 THESE ARE BAD TICKETS"
+        }
+      ]
+    },
+    {
+      "ticket": "26032004824",
+      "date": "03/24/2026",
+      "expires": "04/09/2026 23:59",
+      "expiresClean": "04/09/2026",
+      "street": "",
+      "cross1": "W WHIRLAWAY DR",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.974799,
+        "s": 37.97203,
+        "w": -87.414584,
+        "e": -87.40879
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/25/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:02:13.879Z",
+      "lastScrapedDisplay": "Apr 5, 12:02 PM",
+      "responseSummary": {
+        "total": 8,
+        "clear": 1,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:31 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 07:07 AM Attempted to contact: ROGER PEREZ, Comments : . - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 06:00:50 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 07:00:50 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 11:10 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 18:00:34 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 19:00:34 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 18:00:34 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 19:00:34 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:20 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:44 AM INCORRECT INFORMATION AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Incorrect Address Information - Do not excavate until resolved. Incorrect address information. Contact Indiana 811.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:35 PM 2026/03/24 15:31 BAD ADDRESS/ BAD TICKET THIS IS A BAD ADDRESS AND A BAD TICKET 2026/03/24 15:32 THIS IS A BAD ADDRESS AND A BAD TICKET"
+        }
+      ]
+    },
+    {
+      "ticket": "26032005426",
+      "date": "03/24/2026",
+      "expires": "04/09/2026 23:59",
+      "expiresClean": "04/09/2026",
+      "street": "",
+      "cross1": "WHIRLAWAY DR",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.975039,
+        "s": 37.971991,
+        "w": -87.414255,
+        "e": -87.40645
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/25/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:02:39.287Z",
+      "lastScrapedDisplay": "Apr 5, 12:02 PM",
+      "responseSummary": {
+        "total": 10,
+        "clear": 4,
+        "marked": 1,
+        "markedExceptions": 0,
+        "unmarked": 5,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:35 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) MARATHON PETROLEUM COMPANY, LLC PIPELINE"
+        },
+        {
+          "company": "MARATHON PETROLEUM COMPANY, LLC",
+          "utilityTypes": "PIPELINE",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 05:00 AM Respondent:BRAD HOFFMAN RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 07:07 AM Attempted to contact: ROGER PEREZ, Comments : . - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 06:00:39 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 07:00:39 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 09:00 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 18:00:56 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 19:00:56 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 18:00:56 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 19:00:56 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:14 PM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:20 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:38 AM INCORRECT INSTRUCTIONS AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Incorrect Address Information - Do not excavate until resolved. Incorrect address information. Contact Indiana 811.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:42 PM 2026/03/24 15:33 BAD ADDRESS/ BAD TICKET BAD ADDRESS AND A BAD TICKET 2026/03/24 15:35 BAD ADDRESS AND A BAD TICKET"
+        }
+      ]
+    },
+    {
+      "ticket": "26032005453",
+      "date": "03/24/2026",
+      "expires": "04/09/2026 23:59",
+      "expiresClean": "04/09/2026",
+      "street": "",
+      "cross1": "FRAME RD",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.973443,
+        "s": 37.970222,
+        "w": -87.414644,
+        "e": -87.409887
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/25/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:03:04.666Z",
+      "lastScrapedDisplay": "Apr 5, 12:03 PM",
+      "responseSummary": {
+        "total": 8,
+        "clear": 2,
+        "marked": 3,
+        "markedExceptions": 0,
+        "unmarked": 3,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 02:04 PM Respondent:RYAN BROWN4 ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 06:26 AM IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:13 PM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:00 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : BRADLY - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-03-27 06:00:15 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-03-27 07:00:15 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:00 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : BRADLY - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-03-27 06:00:15 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-03-27 07:00:15 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:14 PM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:20 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:39 AM INCORRECT INSTRUCTIONS AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
+    },
+    {
+      "ticket": "26032005478",
+      "date": "03/24/2026",
+      "expires": "04/09/2026 23:59",
+      "expiresClean": "04/09/2026",
+      "street": "",
+      "cross1": "FRAME RD",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.97302,
+        "s": 37.971112,
+        "w": -87.414833,
+        "e": -87.412143
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/25/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:03:30.493Z",
+      "lastScrapedDisplay": "Apr 5, 12:03 PM",
+      "responseSummary": {
+        "total": 8,
+        "clear": 2,
+        "marked": 3,
+        "markedExceptions": 0,
+        "unmarked": 3,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 02:04 PM Respondent:RYAN BROWN4 ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 06:26 AM IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 08:46 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:05 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : BRADLY - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-03-27 06:00:27 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-03-27 07:00:27 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:05 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : BRADLY - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-03-27 06:00:27 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-03-27 07:00:27 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:14 PM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:20 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:39 AM INCORRECT INFORMATION AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
+    },
+    {
+      "ticket": "26032005505",
+      "date": "03/24/2026",
+      "expires": "04/09/2026 23:59",
+      "expiresClean": "04/09/2026",
+      "street": "",
+      "cross1": "STONEGARDEN LN",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.971603,
+        "s": 37.969331,
+        "w": -87.412939,
+        "e": -87.408742
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/25/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:03:55.965Z",
+      "lastScrapedDisplay": "Apr 5, 12:03 PM",
+      "responseSummary": {
+        "total": 9,
+        "clear": 2,
+        "marked": 3,
+        "markedExceptions": 0,
+        "unmarked": 4,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:47 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 07:07 AM Attempted to contact: ROGER PEREZ, Comments : . - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 06:00:15 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 07:00:15 IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/23/2026 01:21 PM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 18:00:18 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 19:00:18 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 08:55 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : I AM IN CONTACT WITH CONTRACTOR - CHANGED FROM: 2026-03-25 06:00:00 TO 2026-04-09 18:00:18 - EXCAVATION DATE CHANGED FROM: 2026-03-25 07:00:00 TO: 2026-04-09 19:00:18 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:14 PM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:20 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:45 AM INCORRECT INFORMATION AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:25 PM"
+        }
+      ]
+    },
+    {
+      "ticket": "26032302755",
+      "date": "03/24/2026",
+      "expires": "04/12/2026 23:59",
+      "expiresClean": "04/12/2026",
+      "street": "",
+      "cross1": "",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.973408,
+        "s": 37.970966,
+        "w": -87.418613,
+        "e": -87.413361
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/26/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:04:21.322Z",
+      "lastScrapedDisplay": "Apr 5, 12:04 PM",
+      "responseSummary": {
+        "total": 6,
+        "clear": 2,
+        "marked": 2,
+        "markedExceptions": 0,
+        "unmarked": 2,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:28 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 07:12 AM Attempted to contact: ROGER PEREZ, Comments : . - CHANGED FROM: 2026-03-26 06:00:00 TO 2026-04-12 06:00:34 - EXCAVATION DATE CHANGED FROM: 2026-03-26 07:00:00 TO: 2026-04-12 07:00:34 IN AMERICAN WATER SEWER, WATER CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 06:32 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 09:26:50 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 06:32 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 09:26:50 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:22 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:55 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
+    },
+    {
+      "ticket": "26032303023",
+      "date": "03/24/2026",
+      "expires": "04/12/2026 23:59",
+      "expiresClean": "04/12/2026",
+      "street": "",
+      "cross1": "",
+      "fullAddress": "",
+      "city": "NEWBURGH",
+      "county": "WARRICK",
+      "township": "OHIO",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": {
+        "n": 37.973542,
+        "s": 37.969226,
+        "w": -87.410311,
+        "e": -87.408733
+      },
+      "footage": null,
+      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
+      "company": "ADVANCED SOLUTIONS LLC",
+      "caller": "ROGER PEREZ",
+      "callerPhone": "(618)803-5359",
+      "startDate": "03/26/2026",
+      "overallStatus": "AWAITING LOCATE",
+      "lastScraped": "2026-04-05T16:04:46.683Z",
+      "lastScrapedDisplay": "Apr 5, 12:04 PM",
+      "responseSummary": {
+        "total": 8,
+        "clear": 3,
+        "marked": 4,
+        "markedExceptions": 0,
+        "unmarked": 1,
+        "noResponse": 0
+      },
+      "hasUnmarked": true,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:44 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
+        },
+        {
+          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
+          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:43 PM IN AMERICAN WATER SEWER, WATER"
+        },
+        {
+          "company": "IN AMERICAN WATER",
+          "utilityTypes": "SEWER, WATER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 11:16 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:36 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 16:31:26 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 01:36 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 16:31:26 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+        },
+        {
+          "company": "MAINSTREAM FIBER NETWORKS, LLC",
+          "utilityTypes": "FIBER OPTIC",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 12:14 PM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:22 AM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:03/24/2026 09:46 AM INCORRECT INFORMATION AT&T - DISTRIBUTION COMMUNICATIONS"
+        }
+      ]
+    },
+    {
+      "ticket": "26032303102",
+      "date": "",
+      "expires": "",
+      "expiresClean": "",
+      "street": "",
+      "cross1": "",
+      "fullAddress": "",
+      "city": "",
+      "county": "",
+      "township": "",
+      "subdivision": "",
+      "workType": "",
+      "doneFor": "",
+      "depth": "",
+      "boringWhere": "",
+      "boundary": null,
+      "footage": null,
+      "location": "",
+      "company": "",
+      "caller": "",
+      "callerPhone": "",
+      "startDate": "",
+      "overallStatus": "UNKNOWN",
+      "lastScraped": "1970-01-01T00:00:00.000Z",
+      "lastScrapedDisplay": "never",
+      "responseSummary": {
+        "total": 0,
+        "clear": 0,
+        "marked": 0,
+        "markedExceptions": 0,
+        "unmarked": 0,
+        "noResponse": 0
+      },
+      "hasUnmarked": false,
+      "hasExceptions": false,
+      "hasNoResponse": false,
+      "allClear": false,
+      "responses": []
     },
     {
       "ticket": "26032503896",
