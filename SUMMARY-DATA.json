@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-06T19:04:46.903Z",
+  "generated": "2026-04-06T22:04:46.847Z",
   "totalTickets": 42,
-  "attentionCount": 20,
-  "allClearCount": 22,
+  "attentionCount": 19,
+  "allClearCount": 23,
   "archivedThisRun": 0,
   "tickets": [
     {
@@ -1141,8 +1141,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "03/26/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:00:56.353Z",
-      "lastScrapedDisplay": "Apr 6, 12:00 PM",
+      "lastScraped": "2026-04-06T22:00:56.563Z",
+      "lastScrapedDisplay": "Apr 6, 6:00 PM",
       "responseSummary": {
         "total": 6,
         "clear": 2,
@@ -1241,8 +1241,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "03/26/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:01:22.831Z",
-      "lastScrapedDisplay": "Apr 6, 12:01 PM",
+      "lastScraped": "2026-04-06T22:01:23.030Z",
+      "lastScrapedDisplay": "Apr 6, 6:01 PM",
       "responseSummary": {
         "total": 8,
         "clear": 3,
@@ -1359,8 +1359,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "03/26/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:01:48.672Z",
-      "lastScrapedDisplay": "Apr 6, 12:01 PM",
+      "lastScraped": "2026-04-06T22:01:48.889Z",
+      "lastScrapedDisplay": "Apr 6, 6:01 PM",
       "responseSummary": {
         "total": 6,
         "clear": 3,
@@ -3326,21 +3326,21 @@
       "caller": "RAFAEL RIVAS",
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:02:14.045Z",
-      "lastScrapedDisplay": "Apr 6, 12:02 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-04-06T22:02:14.272Z",
+      "lastScrapedDisplay": "Apr 6, 6:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
-        "marked": 6,
+        "marked": 7,
         "markedExceptions": 0,
-        "unmarked": 1,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
@@ -3372,11 +3372,11 @@
         {
           "company": "CENTERPOINT ENERGY (SOUTH)",
           "utilityTypes": "GAS",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Line is untonable - Do not excavate until resolved. The line is untonable and the utility has been notified to resolve the issue. Per Indiana Law, the operator shall notify the excavator re",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/03/2026 06:13 AM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : UNLOCATABLE VERIFIED EXPLANATION: UNABLE TO LOCATE 2IN PLASTIC GAS MAIN THAT CROSSES GLENNBROOKE DR. AT THE INTERTERSECTION OF GLENNBROOKE DR AND HAWTHORNE DR. STOP STICK HAS BEEN PLACED. ; UNLOCATABLE VERIFIED EXPLANATION: UNABLE TO LOCATE 2IN PLASTIC GAS MAIN THAT CROSSES GLENNBROOKE DR. AT THE INTERTERSECTION OF GLENNBROOKE DR AND HAWTHORNE DR. STOP STICK HAS BEEN PLACED. DATECOMPLETED: 2026-04-03 "
+          "details": "Date:04/06/2026 10:50 AM Respondent:CENTERPOINT MDI ALL_GAS GAS HAS BEEN MARKED , CONTRACTOR HAS BEEN NOTIFIED CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
@@ -3445,12 +3445,12 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:02:39.444Z",
-      "lastScrapedDisplay": "Apr 6, 12:02 PM",
+      "lastScraped": "2026-04-06T22:02:39.679Z",
+      "lastScrapedDisplay": "Apr 6, 6:02 PM",
       "responseSummary": {
-        "total": 7,
+        "total": 8,
         "clear": 1,
-        "marked": 2,
+        "marked": 3,
         "markedExceptions": 0,
         "unmarked": 4,
         "noResponse": 0
@@ -3522,6 +3522,15 @@
           "hasDelay": false,
           "hasException": false,
           "details": "Date:04/01/2026 06:34 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/06/2026 10:29 AM"
         }
       ]
     },
@@ -3554,8 +3563,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:03:04.820Z",
-      "lastScrapedDisplay": "Apr 6, 12:03 PM",
+      "lastScraped": "2026-04-06T22:03:05.050Z",
+      "lastScrapedDisplay": "Apr 6, 6:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -3681,14 +3690,14 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:03:30.613Z",
-      "lastScrapedDisplay": "Apr 6, 12:03 PM",
+      "lastScraped": "2026-04-06T22:03:30.468Z",
+      "lastScrapedDisplay": "Apr 6, 6:03 PM",
       "responseSummary": {
-        "total": 8,
+        "total": 9,
         "clear": 2,
-        "marked": 2,
+        "marked": 4,
         "markedExceptions": 0,
-        "unmarked": 4,
+        "unmarked": 3,
         "noResponse": 0
       },
       "hasUnmarked": true,
@@ -3699,11 +3708,11 @@
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
           "utilityTypes": "CABLE TV",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:03/31/2026 02:43 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) Attempted to contact: RAFAEL RIVAS via Phone 4702622280 on 03/31/2026 at 04:39 PM, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Proposed Date/Time of Completion: 03/31/2026 at 04:39 PM, Comments : ONGOING PROJECT ,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED - 2026/04/09 17:39 ONGOING PROJECT ,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED 2026/04/09 "
+          "details": "Date:04/06/2026 02:30 PM Respondent:BRENT SPRADLEY ( IN (USIC) ) 2026/04/06 17:02 PICTURES ATTACHED TO ANOTHER TICKET INVOLVING PROJECT 2026/04/06 17:03 ATTACHED TO ANOTHER TICKET INVOLVING PROJECT 2026/04/09 17:39 ONGOING PROJECT ,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED 2026/04/09 17:39 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -3767,6 +3776,15 @@
           "hasDelay": false,
           "hasException": false,
           "details": "Date:04/01/2026 06:34 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/06/2026 02:24 PM 2026/04/06 17:02 PICTURES ATTACHED TO ANOTHER TICKET INVOLVING PROJECT 2026/04/06 17:03 ATTACHED TO ANOTHER TICKET INVOLVING PROJECT"
         }
       ]
     },
@@ -3799,8 +3817,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:03:55.992Z",
-      "lastScrapedDisplay": "Apr 6, 12:03 PM",
+      "lastScraped": "2026-04-06T22:03:55.850Z",
+      "lastScrapedDisplay": "Apr 6, 6:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -3821,7 +3839,7 @@
           "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/06/2026 09:01 AM MARATHON PETROLEUM COMPANY, LLC PIPELINE"
+          "details": "Date:04/06/2026 09:09 AM Respondent:BRENT SPRADLEY ( IN (USIC) ) 2026/04/09 17:39 ONGOING PROJECT ,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED 2026/04/09 17:39 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 MARATHON PETROLEUM COMPANY, LLC PIPELINE"
         },
         {
           "company": "MARATHON PETROLEUM COMPANY, LLC",
@@ -3926,8 +3944,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:04:21.374Z",
-      "lastScrapedDisplay": "Apr 6, 12:04 PM",
+      "lastScraped": "2026-04-06T22:04:21.248Z",
+      "lastScrapedDisplay": "Apr 6, 6:04 PM",
       "responseSummary": {
         "total": 8,
         "clear": 3,
@@ -4044,8 +4062,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-06T16:04:46.739Z",
-      "lastScrapedDisplay": "Apr 6, 12:04 PM",
+      "lastScraped": "2026-04-06T22:04:46.611Z",
+      "lastScrapedDisplay": "Apr 6, 6:04 PM",
       "responseSummary": {
         "total": 8,
         "clear": 2,
