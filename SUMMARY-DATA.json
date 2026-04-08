@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-07T22:04:46.024Z",
+  "generated": "2026-04-08T01:04:46.743Z",
   "totalTickets": 42,
   "attentionCount": 19,
   "allClearCount": 23,
@@ -161,8 +161,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "03/25/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-07T22:00:55.792Z",
-      "lastScrapedDisplay": "Apr 7, 6:00 PM",
+      "lastScraped": "2026-04-08T01:04:46.493Z",
+      "lastScrapedDisplay": "Apr 7, 9:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 4,
@@ -1359,8 +1359,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "03/26/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-07T19:01:22.505Z",
-      "lastScrapedDisplay": "Apr 7, 3:01 PM",
+      "lastScraped": "2026-04-08T01:00:56.037Z",
+      "lastScrapedDisplay": "Apr 7, 9:00 PM",
       "responseSummary": {
         "total": 6,
         "clear": 3,
@@ -2819,8 +2819,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "EXCEPTIONS",
-      "lastScraped": "2026-04-07T19:04:20.756Z",
-      "lastScrapedDisplay": "Apr 7, 3:04 PM",
+      "lastScraped": "2026-04-08T01:03:55.719Z",
+      "lastScrapedDisplay": "Apr 7, 9:03 PM",
       "responseSummary": {
         "total": 10,
         "clear": 0,
@@ -3200,8 +3200,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "EXCEPTIONS",
-      "lastScraped": "2026-04-07T19:04:46.185Z",
-      "lastScrapedDisplay": "Apr 7, 3:04 PM",
+      "lastScraped": "2026-04-08T01:04:21.134Z",
+      "lastScrapedDisplay": "Apr 7, 9:04 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -3445,8 +3445,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-07T19:01:48.360Z",
-      "lastScrapedDisplay": "Apr 7, 3:01 PM",
+      "lastScraped": "2026-04-08T01:01:22.474Z",
+      "lastScrapedDisplay": "Apr 7, 9:01 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -3563,8 +3563,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-07T19:02:13.754Z",
-      "lastScrapedDisplay": "Apr 7, 3:02 PM",
+      "lastScraped": "2026-04-08T01:01:48.347Z",
+      "lastScrapedDisplay": "Apr 7, 9:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -3690,8 +3690,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-07T19:02:39.167Z",
-      "lastScrapedDisplay": "Apr 7, 3:02 PM",
+      "lastScraped": "2026-04-08T01:02:13.717Z",
+      "lastScrapedDisplay": "Apr 7, 9:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -3817,8 +3817,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-07T19:03:04.546Z",
-      "lastScrapedDisplay": "Apr 7, 3:03 PM",
+      "lastScraped": "2026-04-08T01:02:39.109Z",
+      "lastScrapedDisplay": "Apr 7, 9:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -3944,8 +3944,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-07T19:03:29.994Z",
-      "lastScrapedDisplay": "Apr 7, 3:03 PM",
+      "lastScraped": "2026-04-08T01:03:04.515Z",
+      "lastScrapedDisplay": "Apr 7, 9:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
@@ -3966,7 +3966,7 @@
           "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/07/2026 11:55 AM MARATHON PETROLEUM COMPANY, LLC PIPELINE"
+          "details": "Date:04/07/2026 12:38 PM Respondent:BRENT SPRADLEY ( IN (USIC) ) 2026/04/09 17:39 ONGOING PROJECT ,HOW DID YOU ATTEMPT TO CONTACT THE EXCAVATOR;NO CONTACT ATTEMPTED 2026/04/09 17:39 RESCHEDULE APPROVED BY: RAFAEL RIVAS 4702622280 MARATHON PETROLEUM COMPANY, LLC PIPELINE"
         },
         {
           "company": "MARATHON PETROLEUM COMPANY, LLC",
@@ -4071,8 +4071,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-07T19:03:55.359Z",
-      "lastScrapedDisplay": "Apr 7, 3:03 PM",
+      "lastScraped": "2026-04-08T01:03:30.313Z",
+      "lastScrapedDisplay": "Apr 7, 9:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
