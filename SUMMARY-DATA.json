@@ -1,328 +1,10 @@
 {
-  "generated": "2026-04-13T01:04:46.107Z",
-  "totalTickets": 33,
-  "attentionCount": 10,
+  "generated": "2026-04-13T13:03:30.232Z",
+  "totalTickets": 30,
+  "attentionCount": 7,
   "allClearCount": 23,
   "archivedThisRun": 0,
   "tickets": [
-    {
-      "ticket": "26032302755",
-      "date": "03/24/2026",
-      "expires": "04/12/2026 23:59",
-      "expiresClean": "04/12/2026",
-      "street": "",
-      "cross1": "",
-      "fullAddress": "",
-      "city": "NEWBURGH",
-      "county": "WARRICK",
-      "township": "OHIO",
-      "subdivision": "",
-      "workType": "",
-      "doneFor": "",
-      "depth": "",
-      "boringWhere": "",
-      "boundary": {
-        "n": 37.973408,
-        "s": 37.970966,
-        "w": -87.418613,
-        "e": -87.413361
-      },
-      "footage": null,
-      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
-      "company": "ADVANCED SOLUTIONS LLC",
-      "caller": "ROGER PEREZ",
-      "callerPhone": "(618)803-5359",
-      "startDate": "03/26/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T01:04:20.463Z",
-      "lastScrapedDisplay": "Apr 12, 9:04 PM",
-      "responseSummary": {
-        "total": 6,
-        "clear": 2,
-        "marked": 2,
-        "markedExceptions": 0,
-        "unmarked": 2,
-        "noResponse": 0
-      },
-      "hasUnmarked": true,
-      "hasExceptions": false,
-      "hasNoResponse": false,
-      "allClear": false,
-      "responses": [
-        {
-          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
-          "utilityTypes": "CABLE TV",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
-          "hasDelay": true,
-          "hasException": false,
-          "details": "Date:03/24/2026 01:28 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
-        },
-        {
-          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
-          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
-          "hasException": false,
-          "details": "Date:03/24/2026 07:12 AM Attempted to contact: ROGER PEREZ, Comments : . - CHANGED FROM: 2026-03-26 06:00:00 TO 2026-04-12 06:00:34 - EXCAVATION DATE CHANGED FROM: 2026-03-26 07:00:00 TO: 2026-04-12 07:00:34 IN AMERICAN WATER SEWER, WATER CENTERPOINT ENERGY (SOUTH) GAS"
-        },
-        {
-          "company": "CENTERPOINT ENERGY (SOUTH)",
-          "utilityTypes": "GAS",
-          "status": "CLEAR",
-          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 06:32 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 09:26:50 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
-        },
-        {
-          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
-          "utilityTypes": "ELECTRIC",
-          "status": "CLEAR",
-          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 06:32 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 09:26:50 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC CHANDLER UTILITIES SEWER, STORM, WATER"
-        },
-        {
-          "company": "CHANDLER UTILITIES",
-          "utilityTypes": "SEWER, STORM, WATER",
-          "status": "MARKED",
-          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 09:22 AM NEWBURGH, TOWN OF SEWER"
-        },
-        {
-          "company": "NEWBURGH, TOWN OF",
-          "utilityTypes": "SEWER",
-          "status": "MARKED",
-          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 09:55 AM AT&T - DISTRIBUTION COMMUNICATIONS"
-        }
-      ]
-    },
-    {
-      "ticket": "26032303023",
-      "date": "03/24/2026",
-      "expires": "04/12/2026 23:59",
-      "expiresClean": "04/12/2026",
-      "street": "",
-      "cross1": "",
-      "fullAddress": "",
-      "city": "NEWBURGH",
-      "county": "WARRICK",
-      "township": "OHIO",
-      "subdivision": "",
-      "workType": "",
-      "doneFor": "",
-      "depth": "",
-      "boringWhere": "",
-      "boundary": {
-        "n": 37.973542,
-        "s": 37.969226,
-        "w": -87.410311,
-        "e": -87.408733
-      },
-      "footage": null,
-      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
-      "company": "ADVANCED SOLUTIONS LLC",
-      "caller": "ROGER PEREZ",
-      "callerPhone": "(618)803-5359",
-      "startDate": "03/26/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T01:04:45.886Z",
-      "lastScrapedDisplay": "Apr 12, 9:04 PM",
-      "responseSummary": {
-        "total": 8,
-        "clear": 3,
-        "marked": 4,
-        "markedExceptions": 0,
-        "unmarked": 1,
-        "noResponse": 0
-      },
-      "hasUnmarked": true,
-      "hasExceptions": false,
-      "hasNoResponse": false,
-      "allClear": false,
-      "responses": [
-        {
-          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
-          "utilityTypes": "CABLE TV",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
-          "hasDelay": true,
-          "hasException": false,
-          "details": "Date:03/24/2026 01:44 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
-        },
-        {
-          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
-          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
-          "status": "MARKED",
-          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 01:43 PM IN AMERICAN WATER SEWER, WATER"
-        },
-        {
-          "company": "IN AMERICAN WATER",
-          "utilityTypes": "SEWER, WATER",
-          "status": "MARKED",
-          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 11:16 AM CENTERPOINT ENERGY (SOUTH) GAS"
-        },
-        {
-          "company": "CENTERPOINT ENERGY (SOUTH)",
-          "utilityTypes": "GAS",
-          "status": "MARKED",
-          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 01:36 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 16:31:26 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
-        },
-        {
-          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
-          "utilityTypes": "ELECTRIC",
-          "status": "MARKED",
-          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 01:36 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-03-24 16:31:26 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
-        },
-        {
-          "company": "MAINSTREAM FIBER NETWORKS, LLC",
-          "utilityTypes": "FIBER OPTIC",
-          "status": "CLEAR",
-          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 12:14 PM CHANDLER UTILITIES SEWER, STORM, WATER"
-        },
-        {
-          "company": "CHANDLER UTILITIES",
-          "utilityTypes": "SEWER, STORM, WATER",
-          "status": "CLEAR",
-          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 09:22 AM NEWBURGH, TOWN OF SEWER"
-        },
-        {
-          "company": "NEWBURGH, TOWN OF",
-          "utilityTypes": "SEWER",
-          "status": "CLEAR",
-          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 09:46 AM INCORRECT INFORMATION AT&T - DISTRIBUTION COMMUNICATIONS"
-        }
-      ]
-    },
-    {
-      "ticket": "26032303102",
-      "date": "03/24/2026",
-      "expires": "04/12/2026 23:59",
-      "expiresClean": "04/12/2026",
-      "street": "",
-      "cross1": "",
-      "fullAddress": "",
-      "city": "NEWBURGH",
-      "county": "WARRICK",
-      "township": "OHIO",
-      "subdivision": "",
-      "workType": "",
-      "doneFor": "",
-      "depth": "",
-      "boringWhere": "",
-      "boundary": {
-        "n": 37.973511,
-        "s": 37.970295,
-        "w": -87.409484,
-        "e": -87.406442
-      },
-      "footage": null,
-      "location": "LOCATE FRONT OF PROPERTY AND BOTH SIDES OF THE STREET",
-      "company": "ADVANCED SOLUTIONS LLC",
-      "caller": "ROGER PEREZ",
-      "callerPhone": "(618)803-5359",
-      "startDate": "03/26/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T01:00:55.500Z",
-      "lastScrapedDisplay": "Apr 12, 9:00 PM",
-      "responseSummary": {
-        "total": 6,
-        "clear": 3,
-        "marked": 2,
-        "markedExceptions": 0,
-        "unmarked": 1,
-        "noResponse": 0
-      },
-      "hasUnmarked": true,
-      "hasExceptions": false,
-      "hasNoResponse": false,
-      "allClear": false,
-      "responses": [
-        {
-          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
-          "utilityTypes": "CABLE TV",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Excavation Already Performed or Canceled - The excavator has performed or canceled the excavation prior to the locators' arrival.",
-          "hasDelay": true,
-          "hasException": false,
-          "details": "Date:03/24/2026 01:38 PM Respondent:BENJAMIN GROSSMAN ( IN (USIC) ) MARATHON PETROLEUM COMPANY, LLC PIPELINE"
-        },
-        {
-          "company": "MARATHON PETROLEUM COMPANY, LLC",
-          "utilityTypes": "PIPELINE",
-          "status": "CLEAR",
-          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/23/2026 10:19 AM Respondent:BRAD HOFFMAN RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
-        },
-        {
-          "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
-          "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
-          "status": "MARKED",
-          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 01:43 PM IN AMERICAN WATER SEWER, WATER"
-        },
-        {
-          "company": "IN AMERICAN WATER",
-          "utilityTypes": "SEWER, WATER",
-          "status": "MARKED",
-          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 09:20 AM CENTERPOINT ENERGY (SOUTH) GAS CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC CHANDLER UTILITIES SEWER, STORM, WATER"
-        },
-        {
-          "company": "CHANDLER UTILITIES",
-          "utilityTypes": "SEWER, STORM, WATER",
-          "status": "CLEAR",
-          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 09:22 AM NEWBURGH, TOWN OF SEWER"
-        },
-        {
-          "company": "NEWBURGH, TOWN OF",
-          "utilityTypes": "SEWER",
-          "status": "CLEAR",
-          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
-          "hasDelay": false,
-          "hasException": false,
-          "details": "Date:03/24/2026 09:46 AM INCORRECT INFORMATION AT&T - DISTRIBUTION COMMUNICATIONS"
-        }
-      ]
-    },
     {
       "ticket": "26032503896",
       "date": "03/25/2026",
@@ -1712,8 +1394,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "EXCEPTIONS",
-      "lastScraped": "2026-04-13T01:03:29.613Z",
-      "lastScrapedDisplay": "Apr 12, 9:03 PM",
+      "lastScraped": "2026-04-13T13:03:04.585Z",
+      "lastScrapedDisplay": "Apr 13, 9:03 AM",
       "responseSummary": {
         "total": 10,
         "clear": 0,
@@ -2093,8 +1775,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "EXCEPTIONS",
-      "lastScraped": "2026-04-13T01:03:55.024Z",
-      "lastScrapedDisplay": "Apr 12, 9:03 PM",
+      "lastScraped": "2026-04-13T13:03:30.001Z",
+      "lastScrapedDisplay": "Apr 13, 9:03 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -2456,8 +2138,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T01:01:21.966Z",
-      "lastScrapedDisplay": "Apr 12, 9:01 PM",
+      "lastScraped": "2026-04-13T13:00:55.906Z",
+      "lastScrapedDisplay": "Apr 13, 9:00 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -2583,8 +2265,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T01:01:47.865Z",
-      "lastScrapedDisplay": "Apr 12, 9:01 PM",
+      "lastScraped": "2026-04-13T13:01:22.383Z",
+      "lastScrapedDisplay": "Apr 13, 9:01 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -2710,8 +2392,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T01:02:13.277Z",
-      "lastScrapedDisplay": "Apr 12, 9:02 PM",
+      "lastScraped": "2026-04-13T13:01:48.223Z",
+      "lastScrapedDisplay": "Apr 13, 9:01 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -2837,8 +2519,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T01:02:38.711Z",
-      "lastScrapedDisplay": "Apr 12, 9:02 PM",
+      "lastScraped": "2026-04-13T13:02:13.723Z",
+      "lastScrapedDisplay": "Apr 13, 9:02 AM",
       "responseSummary": {
         "total": 9,
         "clear": 3,
@@ -2964,8 +2646,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T01:03:04.104Z",
-      "lastScrapedDisplay": "Apr 12, 9:03 PM",
+      "lastScraped": "2026-04-13T13:02:39.153Z",
+      "lastScrapedDisplay": "Apr 13, 9:02 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
