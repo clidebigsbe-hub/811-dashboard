@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-14T01:04:46.900Z",
+  "generated": "2026-04-14T13:04:47.136Z",
   "totalTickets": 57,
   "attentionCount": 22,
   "allClearCount": 35,
@@ -2138,8 +2138,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T22:03:55.571Z",
-      "lastScrapedDisplay": "Apr 13, 6:03 PM",
+      "lastScraped": "2026-04-14T13:04:46.897Z",
+      "lastScrapedDisplay": "Apr 14, 9:04 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -3490,7 +3490,7 @@
     },
     {
       "ticket": "26040204319",
-      "date": "04/02/2026",
+      "date": "04/13/2026",
       "expires": "04/22/2026 23:59",
       "expiresClean": "04/22/2026",
       "street": "",
@@ -3517,8 +3517,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/08/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T16:03:29.663Z",
-      "lastScrapedDisplay": "Apr 13, 12:03 PM",
+      "lastScraped": "2026-04-14T13:00:56.417Z",
+      "lastScrapedDisplay": "Apr 14, 9:00 AM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -3539,7 +3539,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:04/07/2026 01:10 PM Respondent:JAKOB PUTNAM ( OTS (IN) ) Attempted to contact: BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 20, Comments : BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 2026-04-08 07:00:00 TO: 2026-04-17 07:00:48 - BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 2026-04-08 07:00:00 TO: 2026-04-17 07:00:48 RCN TELECOM SERVI"
+          "details": "Date:04/07/2026 01:10 PM Respondent:JAKOB PUTNAM ( OTS (IN) ) Attempted to contact: BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 20, Comments : BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 2026-04-08 07:00:00 TO: 2026-04-17 07:00:48 - BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 2026-04-08 07:00:00 TO: 2026-04-17 07:00:48 Yes RCN TELECOM S"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -3548,7 +3548,7 @@
           "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/07/2026 07:32 AM IN AMERICAN WATER SEWER, WATER"
+          "details": "Date:04/07/2026 07:32 AM Yes IN AMERICAN WATER SEWER, WATER"
         },
         {
           "company": "IN AMERICAN WATER",
@@ -3557,7 +3557,7 @@
           "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/07/2026 07:17 AM CENTERPOINT ENERGY (SOUTH) GAS"
+          "details": "Date:04/07/2026 07:17 AM No CENTERPOINT ENERGY (SOUTH) GAS"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH)",
@@ -3566,7 +3566,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:04/07/2026 01:08 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 2026-04-08 07:00:00 TO: 2026-04-17 07:00:48 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+          "details": "Date:04/07/2026 01:08 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 2026-04-08 07:00:00 TO: 2026-04-17 07:00:48 No CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
@@ -3575,7 +3575,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:04/07/2026 01:11 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 2026-04-08 07:00:00 TO: 2026-04-17 07:00:48 CHANDLER UTILITIES SEWER, STORM, WATER"
+          "details": "Date:04/07/2026 01:11 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-08 06:00:00 TO 2026-04-17 06:00:48 - EXCAVATION DATE CHANGED FROM: 2026-04-08 07:00:00 TO: 2026-04-17 07:00:48 Yes CHANDLER UTILITIES SEWER, STORM, WATER"
         },
         {
           "company": "CHANDLER UTILITIES",
@@ -3584,7 +3584,7 @@
           "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/06/2026 12:38 PM NEWBURGH, TOWN OF SEWER"
+          "details": "Date:04/06/2026 12:38 PM Yes NEWBURGH, TOWN OF SEWER"
         },
         {
           "company": "NEWBURGH, TOWN OF",
@@ -3593,7 +3593,7 @@
           "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/08/2026 05:41 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+          "details": "Date:04/08/2026 05:41 AM Yes AT&T - DISTRIBUTION COMMUNICATIONS"
         },
         {
           "company": "AT&T - DISTRIBUTION",
@@ -3635,14 +3635,14 @@
       "callerPhone": "(270)316-1699",
       "startDate": "04/14/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T16:03:55.108Z",
-      "lastScrapedDisplay": "Apr 13, 12:03 PM",
+      "lastScraped": "2026-04-14T13:01:22.877Z",
+      "lastScrapedDisplay": "Apr 14, 9:01 AM",
       "responseSummary": {
-        "total": 6,
+        "total": 10,
         "clear": 3,
-        "marked": 2,
+        "marked": 4,
         "markedExceptions": 0,
-        "unmarked": 1,
+        "unmarked": 3,
         "noResponse": 0
       },
       "hasUnmarked": true,
@@ -3650,6 +3650,15 @@
       "hasNoResponse": false,
       "allClear": false,
       "responses": [
+        {
+          "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
+          "utilityTypes": "CABLE TV",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:55 PM Respondent:JAKOB PUTNAM ( OTS (IN) ) Attempted to contact: WORKING ON PRIORITY LIST TOMORROW MORNING - CHANGED FROM: 2026-04-14 06:00:00 TO 2026-04-15 17:00:1, Comments : WORKING ON PRIORITY LIST TOMORROW MORNING - CHANGED FROM: 2026-04-14 06:00:00 TO 2026-04-15 17:00:19 - EXCAVATION DATE CHANGED FROM: 2026-04-14 07:00:00 TO: 2026-04-15 18:00:19 - WORKING ON PRIORITY LIST TOMORROW MORNING - CHANGED FROM: 2026-04-14 06:00:00 TO 2026-04-15 17:00:19 - EXCAVATION DATE CHANGE"
+        },
         {
           "company": "MARATHON PETROLEUM COMPANY, LLC",
           "utilityTypes": "PIPELINE",
@@ -3675,7 +3684,25 @@
           "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/10/2026 06:07 AM CENTERPOINT ENERGY (SOUTH) GAS CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/10/2026 06:07 AM CENTERPOINT ENERGY (SOUTH) GAS"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH)",
+          "utilityTypes": "GAS",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:54 PM Respondent:OTS LOCATING Attempted to contact: CHRISTOPHER SMITH, Comments : WORKING ON PRIORITY LIST TOMORROW MORNING - CHANGED FROM: 2026-04-14 06:00:00 TO 2026-04-15 17:00:19 - EXCAVATION DATE CHANGED FROM: 2026-04-14 07:00:00 TO: 2026-04-15 18:00:19 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+        },
+        {
+          "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
+          "utilityTypes": "ELECTRIC",
+          "status": "UNMARKED",
+          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
+          "hasDelay": true,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:54 PM Respondent:OTS LOCATING Attempted to contact: CHRISTOPHER SMITH, Comments : WORKING ON PRIORITY LIST TOMORROW MORNING - CHANGED FROM: 2026-04-14 06:00:00 TO 2026-04-15 17:00:19 - EXCAVATION DATE CHANGED FROM: 2026-04-14 07:00:00 TO: 2026-04-15 18:00:19 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -3693,16 +3720,25 @@
           "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/10/2026 12:19 PM NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+          "details": "Date:04/10/2026 12:19 PM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:17 PM AT&T - DISTRIBUTION COMMUNICATIONS"
         },
         {
           "company": "AT&T - DISTRIBUTION",
           "utilityTypes": "COMMUNICATIONS",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Ongoing - The locate technician has partially marked an area but cannot mark the entire proposed excavation area within two full working days or by the requested start date and time, whiche",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/13/2026 07:38 AM Attempted to contact: N/A, Locator Name: BENJAMIN GROSSMAN, Locator phone/email: BENJAMINGROSSMAN@USICLLC.COM, Description of Marked Area: N/A, Comments : N/A"
+          "details": "Date:04/13/2026 01:05 PM"
         }
       ]
     },
@@ -4045,8 +4081,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T19:01:47.953Z",
-      "lastScrapedDisplay": "Apr 13, 3:01 PM",
+      "lastScraped": "2026-04-14T13:01:48.799Z",
+      "lastScrapedDisplay": "Apr 14, 9:01 AM",
       "responseSummary": {
         "total": 3,
         "clear": 1,
@@ -4118,11 +4154,11 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T19:02:13.375Z",
-      "lastScrapedDisplay": "Apr 13, 3:02 PM",
+      "lastScraped": "2026-04-14T13:02:14.170Z",
+      "lastScrapedDisplay": "Apr 14, 9:02 AM",
       "responseSummary": {
-        "total": 2,
-        "clear": 1,
+        "total": 3,
+        "clear": 2,
         "marked": 0,
         "markedExceptions": 0,
         "unmarked": 1,
@@ -4149,7 +4185,16 @@
           "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/10/2026 09:37 AM CHANDLER UTILITIES SEWER, STORM, WATER NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+          "details": "Date:04/10/2026 09:37 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:39 PM NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
         }
       ]
     },
@@ -4264,12 +4309,12 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T19:03:04.182Z",
-      "lastScrapedDisplay": "Apr 13, 3:03 PM",
+      "lastScraped": "2026-04-14T13:02:39.634Z",
+      "lastScrapedDisplay": "Apr 14, 9:02 AM",
       "responseSummary": {
-        "total": 3,
-        "clear": 1,
-        "marked": 1,
+        "total": 5,
+        "clear": 2,
+        "marked": 2,
         "markedExceptions": 0,
         "unmarked": 1,
         "noResponse": 0
@@ -4304,7 +4349,25 @@
           "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/10/2026 09:37 AM CHANDLER UTILITIES SEWER, STORM, WATER NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+          "details": "Date:04/10/2026 09:37 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:39 PM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:17 PM AT&T - DISTRIBUTION COMMUNICATIONS"
         }
       ]
     },
@@ -4337,12 +4400,12 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T19:03:29.575Z",
-      "lastScrapedDisplay": "Apr 13, 3:03 PM",
+      "lastScraped": "2026-04-14T13:03:05.110Z",
+      "lastScrapedDisplay": "Apr 14, 9:03 AM",
       "responseSummary": {
-        "total": 3,
-        "clear": 1,
-        "marked": 1,
+        "total": 5,
+        "clear": 2,
+        "marked": 2,
         "markedExceptions": 0,
         "unmarked": 1,
         "noResponse": 0
@@ -4377,7 +4440,25 @@
           "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/10/2026 09:37 AM CHANDLER UTILITIES SEWER, STORM, WATER NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+          "details": "Date:04/10/2026 09:37 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:39 PM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:17 PM AT&T - DISTRIBUTION COMMUNICATIONS"
         }
       ]
     },
@@ -4474,12 +4555,12 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T19:04:20.864Z",
-      "lastScrapedDisplay": "Apr 13, 3:04 PM",
+      "lastScraped": "2026-04-14T13:03:30.550Z",
+      "lastScrapedDisplay": "Apr 14, 9:03 AM",
       "responseSummary": {
-        "total": 3,
-        "clear": 1,
-        "marked": 1,
+        "total": 5,
+        "clear": 2,
+        "marked": 2,
         "markedExceptions": 0,
         "unmarked": 1,
         "noResponse": 0
@@ -4514,7 +4595,25 @@
           "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
           "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/10/2026 09:37 AM CHANDLER UTILITIES SEWER, STORM, WATER NEWBURGH, TOWN OF SEWER AT&T - DISTRIBUTION COMMUNICATIONS"
+          "details": "Date:04/10/2026 09:37 AM CHANDLER UTILITIES SEWER, STORM, WATER"
+        },
+        {
+          "company": "CHANDLER UTILITIES",
+          "utilityTypes": "SEWER, STORM, WATER",
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:39 PM NEWBURGH, TOWN OF SEWER"
+        },
+        {
+          "company": "NEWBURGH, TOWN OF",
+          "utilityTypes": "SEWER",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/13/2026 12:17 PM AT&T - DISTRIBUTION COMMUNICATIONS"
         }
       ]
     },
@@ -4939,8 +5038,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T22:02:39.273Z",
-      "lastScrapedDisplay": "Apr 13, 6:02 PM",
+      "lastScraped": "2026-04-14T13:03:55.979Z",
+      "lastScrapedDisplay": "Apr 14, 9:03 AM",
       "responseSummary": {
         "total": 3,
         "clear": 2,
@@ -5012,8 +5111,8 @@
       "callerPhone": "(270)316-1699",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-13T22:03:04.700Z",
-      "lastScrapedDisplay": "Apr 13, 6:03 PM",
+      "lastScraped": "2026-04-14T13:04:21.411Z",
+      "lastScrapedDisplay": "Apr 14, 9:04 AM",
       "responseSummary": {
         "total": 4,
         "clear": 2,
