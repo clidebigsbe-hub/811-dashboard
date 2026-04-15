@@ -286,6 +286,8 @@
                 '<strong>City:</strong> ' + (t.city || 'N/A') + '<br>' +
                 '<strong>Work:</strong> ' + (t.workType || 'N/A') + '<br>' +
                 '<strong>Done For:</strong> ' + (t.doneFor || 'N/A') + '<br>' +
+                '<strong>Contact:</strong> ' + (t.caller || 'N/A') + ' | ' + (t.callerPhone || '') + '<br>' +
+                '<strong>Contact:</strong> ' + (t.caller || 'N/A') + ' | ' + (t.callerPhone || '') + '<br>' +
                 '<strong>Expires:</strong> ' + (t.expiresClean || t.expires || 'N/A') + '<br>' +
                 '<strong>Responses:</strong> ' + (summary.marked || 0) + ' marked, ' +
                 (summary.clear || 0) + ' clear, ' + (summary.unmarked || 0) + ' unmarked' +
@@ -558,7 +560,9 @@
                 '<p><strong>Location:</strong> ' + (ticket.location || 'N/A') + '</p>' +
                 '<p><strong>Done For:</strong> ' + (ticket.doneFor || 'N/A') + '</p>' +
                 '<p><strong>Work Type:</strong> ' + (ticket.workType || 'N/A') + '</p>' +
-                '<p><strong>Depth:</strong> ' + (ticket.depth || 'N/A') + '</p></div>' +
+                '<p><strong>Depth:</strong> ' + (ticket.depth || 'N/A') + '</p>' +
+                '<p><strong>Company:</strong> ' + (ticket.company || 'N/A') + '</p>' +
+                '<p><strong>Caller:</strong> ' + (ticket.caller || 'N/A') + ' &mdash; ' + (ticket.callerPhone || 'N/A') + '</p></div>' +
                 '<div class="detail-section"><h4>📊 Summary</h4>' +
                 '<p>Total: ' + (summary.total || 0) + ' | Marked: ' + (summary.marked || 0) +
                 ' | Clear: ' + (summary.clear || 0) + ' | Unmarked: ' + (summary.unmarked || 0) +
