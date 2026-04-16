@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-16T19:04:45.787Z",
+  "generated": "2026-04-16T22:04:44.731Z",
   "totalTickets": 41,
-  "attentionCount": 17,
-  "allClearCount": 24,
+  "attentionCount": 14,
+  "allClearCount": 27,
   "archivedThisRun": 0,
   "tickets": [
     {
@@ -1149,21 +1149,21 @@
       "caller": "RAFAEL RIVAS",
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T16:04:45.709Z",
-      "lastScrapedDisplay": "Apr 16, 12:04 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-04-16T22:03:53.967Z",
+      "lastScrapedDisplay": "Apr 16, 6:03 PM",
       "responseSummary": {
         "total": 9,
-        "clear": 2,
+        "clear": 4,
         "marked": 5,
         "markedExceptions": 0,
-        "unmarked": 2,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
@@ -1195,20 +1195,20 @@
         {
           "company": "CENTERPOINT ENERGY (SOUTH)",
           "utilityTypes": "GAS",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/09/2026 03:31 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-10 06:00:43 TO 2026-04-17 06:00:07 - EXCAVATION DATE CHANGED FROM: 2026-04-10 07:00:43 TO: 2026-04-17 07:00:07 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+          "details": "Date:04/16/2026 12:09 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-16 13:49:09 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
           "utilityTypes": "ELECTRIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/09/2026 03:35 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-10 06:00:43 TO 2026-04-17 06:00:07 - EXCAVATION DATE CHANGED FROM: 2026-04-10 07:00:43 TO: 2026-04-17 07:00:07 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/16/2026 12:12 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-16 13:49:09 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -1276,21 +1276,21 @@
       "caller": "RAFAEL RIVAS",
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T19:00:55.909Z",
-      "lastScrapedDisplay": "Apr 16, 3:00 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-04-16T22:04:19.266Z",
+      "lastScrapedDisplay": "Apr 16, 6:04 PM",
       "responseSummary": {
         "total": 9,
-        "clear": 2,
+        "clear": 4,
         "marked": 5,
         "markedExceptions": 0,
-        "unmarked": 2,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
@@ -1322,20 +1322,20 @@
         {
           "company": "CENTERPOINT ENERGY (SOUTH)",
           "utilityTypes": "GAS",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/09/2026 03:31 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-10 06:00:49 TO 2026-04-17 06:00:16 - EXCAVATION DATE CHANGED FROM: 2026-04-10 07:00:49 TO: 2026-04-17 07:00:16 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+          "details": "Date:04/16/2026 12:09 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-16 13:49:36 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
           "utilityTypes": "ELECTRIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/09/2026 03:35 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-10 06:00:49 TO 2026-04-17 06:00:16 - EXCAVATION DATE CHANGED FROM: 2026-04-10 07:00:49 TO: 2026-04-17 07:00:16 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/16/2026 12:12 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-16 13:49:36 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -1403,21 +1403,21 @@
       "caller": "RAFAEL RIVAS",
       "callerPhone": "(470)262-2280",
       "startDate": "04/01/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T19:01:22.367Z",
-      "lastScrapedDisplay": "Apr 16, 3:01 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-04-16T22:04:44.508Z",
+      "lastScrapedDisplay": "Apr 16, 6:04 PM",
       "responseSummary": {
         "total": 9,
-        "clear": 2,
+        "clear": 5,
         "marked": 4,
         "markedExceptions": 0,
-        "unmarked": 3,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
@@ -1440,11 +1440,11 @@
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
           "utilityTypes": "CABLE TV, COMMUNICATIONS, FIBER OPTIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/15/2026 02:37 PM Attempted to contact: RAFAEL RIVAS, Comments : WE ARE STAYING AHEAD OF CONTRACTOR - CHANGED FROM: 2026-04-16 06:00:01 TO 2026-04-16 18:00:00 - EXCAVATION DATE CHANGED FROM: 2026-04-16 07:00:01 TO: 2026-04-16 19:00:00 IN AMERICAN WATER SEWER, WATER"
+          "details": "Date:04/16/2026 12:08 PM IN AMERICAN WATER SEWER, WATER"
         },
         {
           "company": "IN AMERICAN WATER",
@@ -1458,20 +1458,20 @@
         {
           "company": "CENTERPOINT ENERGY (SOUTH)",
           "utilityTypes": "GAS",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/09/2026 03:31 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-10 06:00:01 TO 2026-04-17 06:00:04 - EXCAVATION DATE CHANGED FROM: 2026-04-10 07:00:01 TO: 2026-04-17 07:00:04 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+          "details": "Date:04/16/2026 12:09 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-16 13:49:59 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
           "utilityTypes": "ELECTRIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/09/2026 03:35 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : BRADLY - CHANGED FROM: 2026-04-10 06:00:01 TO 2026-04-17 06:00:04 - EXCAVATION DATE CHANGED FROM: 2026-04-10 07:00:01 TO: 2026-04-17 07:00:04 CHANDLER UTILITIES SEWER, STORM, WATER"
+          "details": "Date:04/16/2026 12:12 PM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-16 13:49:59 CHANDLER UTILITIES SEWER, STORM, WATER"
         },
         {
           "company": "CHANDLER UTILITIES",
@@ -2647,8 +2647,8 @@
       "callerPhone": "(270)316-1699",
       "startDate": "04/14/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T16:01:48.356Z",
-      "lastScrapedDisplay": "Apr 16, 12:01 PM",
+      "lastScraped": "2026-04-16T22:00:55.699Z",
+      "lastScrapedDisplay": "Apr 16, 6:00 PM",
       "responseSummary": {
         "total": 10,
         "clear": 3,
@@ -3093,8 +3093,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T16:02:13.743Z",
-      "lastScrapedDisplay": "Apr 16, 12:02 PM",
+      "lastScraped": "2026-04-16T22:01:22.191Z",
+      "lastScrapedDisplay": "Apr 16, 6:01 PM",
       "responseSummary": {
         "total": 7,
         "clear": 1,
@@ -3202,8 +3202,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T16:02:39.083Z",
-      "lastScrapedDisplay": "Apr 16, 12:02 PM",
+      "lastScraped": "2026-04-16T22:01:47.522Z",
+      "lastScrapedDisplay": "Apr 16, 6:01 PM",
       "responseSummary": {
         "total": 7,
         "clear": 2,
@@ -3393,8 +3393,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T16:03:04.432Z",
-      "lastScrapedDisplay": "Apr 16, 12:03 PM",
+      "lastScraped": "2026-04-16T22:02:12.789Z",
+      "lastScrapedDisplay": "Apr 16, 6:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -3520,8 +3520,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T16:03:29.725Z",
-      "lastScrapedDisplay": "Apr 16, 12:03 PM",
+      "lastScraped": "2026-04-16T22:02:38.058Z",
+      "lastScrapedDisplay": "Apr 16, 6:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -3711,8 +3711,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T16:03:55.008Z",
-      "lastScrapedDisplay": "Apr 16, 12:03 PM",
+      "lastScraped": "2026-04-16T22:03:03.280Z",
+      "lastScrapedDisplay": "Apr 16, 6:03 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -4230,8 +4230,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-16T16:04:20.393Z",
-      "lastScrapedDisplay": "Apr 16, 12:04 PM",
+      "lastScraped": "2026-04-16T22:03:28.632Z",
+      "lastScrapedDisplay": "Apr 16, 6:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 2,
@@ -4252,7 +4252,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:04/14/2026 09:10 AM Respondent:JAKOB PUTNAM ( OTS (IN) ) Attempted to contact: WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 06:00:00 TO 2026-04-16 13:00:19 - EXCAVATION DA, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 06:00:00 TO 2026-04-16 13:00:19 - EXCAVATION DATE CHANGED FROM: 2026-04-15 07:00:00 TO: 2026-04-16 14:00:19 - WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 06:00:00 TO 2026-04-16 13:00:19 - EXCAVATION DATE CHANGED FROM: 2026-04-15 07:00:00 TO: 20"
+          "details": "Date:04/16/2026 12:13 PM Respondent:JAKOB PUTNAM ( OTS (IN) ) Attempted to contact: WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-16 13:00:19 TO 2026-04-22 13:00:09 - EXCAVATION DAT, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-16 13:00:19 TO 2026-04-22 13:00:09 - EXCAVATION DATE CHANGED FROM: 2026-04-16 14:00:19 TO: 2026-04-22 14:00:09 - WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-16 13:00:19 TO 2026-04-22 13:00:09 - EXCAVATION DATE CHANGED FROM: 2026-04-16 14:00:19 TO: 2"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -4270,7 +4270,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:04/14/2026 09:07 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 06:00:00 TO 2026-04-16 13:00:19 - EXCAVATION DATE CHANGED FROM: 2026-04-15 07:00:00 TO: 2026-04-16 14:00:19 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+          "details": "Date:04/16/2026 12:09 PM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-16 13:00:19 TO 2026-04-22 13:00:09 - EXCAVATION DATE CHANGED FROM: 2026-04-16 14:00:19 TO: 2026-04-22 14:00:09 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
@@ -4279,7 +4279,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:04/14/2026 09:08 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 06:00:00 TO 2026-04-16 13:00:19 - EXCAVATION DATE CHANGED FROM: 2026-04-15 07:00:00 TO: 2026-04-16 14:00:19 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/16/2026 12:13 PM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-16 13:00:19 TO 2026-04-22 13:00:09 - EXCAVATION DATE CHANGED FROM: 2026-04-16 14:00:19 TO: 2026-04-22 14:00:09 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
