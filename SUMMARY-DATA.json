@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-20T19:04:19.506Z",
+  "generated": "2026-04-20T22:03:54.347Z",
   "totalTickets": 27,
   "attentionCount": 8,
   "allClearCount": 19,
@@ -288,8 +288,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/08/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T19:02:38.208Z",
-      "lastScrapedDisplay": "Apr 20, 3:02 PM",
+      "lastScraped": "2026-04-20T22:02:38.217Z",
+      "lastScrapedDisplay": "Apr 20, 6:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -896,8 +896,8 @@
       "callerPhone": "(270)316-1699",
       "startDate": "04/14/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T19:03:28.723Z",
-      "lastScrapedDisplay": "Apr 20, 3:03 PM",
+      "lastScraped": "2026-04-20T22:03:03.469Z",
+      "lastScrapedDisplay": "Apr 20, 6:03 PM",
       "responseSummary": {
         "total": 10,
         "clear": 3,
@@ -918,7 +918,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:04/15/2026 11:32 AM Respondent:JAKOB PUTNAM ( OTS (IN) ) Attempted to contact: WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 17:00:19 TO 2026-04-20 16:00:02 - EXCAVATION DAT, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 17:00:19 TO 2026-04-20 16:00:02 - EXCAVATION DATE CHANGED FROM: 2026-04-15 18:00:19 TO: 2026-04-20 17:00:02 - WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 17:00:19 TO 2026-04-20 16:00:02 - EXCAVATION DATE CHANGED FROM: 2026-04-15 18:00:19 TO: 2"
+          "details": "Date:04/20/2026 12:32 PM Respondent:JAKOB PUTNAM ( OTS (IN) ) Attempted to contact: WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-20 16:00:02 TO 2026-04-24 16:00:49 - EXCAVATION DAT, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-20 16:00:02 TO 2026-04-24 16:00:49 - EXCAVATION DATE CHANGED FROM: 2026-04-20 17:00:02 TO: 2026-04-24 17:00:49 - WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-20 16:00:02 TO 2026-04-24 16:00:49 - EXCAVATION DATE CHANGED FROM: 2026-04-20 17:00:02 TO: 2"
         },
         {
           "company": "MARATHON PETROLEUM COMPANY, LLC",
@@ -954,7 +954,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:04/15/2026 11:28 AM Respondent:OTS LOCATING Attempted to contact: CHRISTOPHER SMITH, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 17:00:19 TO 2026-04-20 16:00:02 - EXCAVATION DATE CHANGED FROM: 2026-04-15 18:00:19 TO: 2026-04-20 17:00:02 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+          "details": "Date:04/20/2026 12:27 PM Respondent:OTS LOCATING Attempted to contact: CHRISTOPHER SMITH, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-20 16:00:02 TO 2026-04-24 16:00:49 - EXCAVATION DATE CHANGED FROM: 2026-04-20 17:00:02 TO: 2026-04-24 17:00:49 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
@@ -963,7 +963,7 @@
           "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
           "hasDelay": true,
           "hasException": false,
-          "details": "Date:04/15/2026 11:29 AM Respondent:OTS LOCATING Attempted to contact: CHRISTOPHER SMITH, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-15 17:00:19 TO 2026-04-20 16:00:02 - EXCAVATION DATE CHANGED FROM: 2026-04-15 18:00:19 TO: 2026-04-20 17:00:02 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/20/2026 12:28 PM Respondent:OTS LOCATING Attempted to contact: CHRISTOPHER SMITH, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-20 16:00:02 TO 2026-04-24 16:00:49 - EXCAVATION DATE CHANGED FROM: 2026-04-20 17:00:02 TO: 2026-04-24 17:00:49 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -1342,8 +1342,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T19:03:53.990Z",
-      "lastScrapedDisplay": "Apr 20, 3:03 PM",
+      "lastScraped": "2026-04-20T22:03:28.798Z",
+      "lastScrapedDisplay": "Apr 20, 6:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -1460,8 +1460,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T19:04:19.269Z",
-      "lastScrapedDisplay": "Apr 20, 3:04 PM",
+      "lastScraped": "2026-04-20T22:03:54.133Z",
+      "lastScrapedDisplay": "Apr 20, 6:03 PM",
       "responseSummary": {
         "total": 7,
         "clear": 2,
@@ -1651,8 +1651,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T19:00:55.397Z",
-      "lastScrapedDisplay": "Apr 20, 3:00 PM",
+      "lastScraped": "2026-04-20T22:00:55.441Z",
+      "lastScrapedDisplay": "Apr 20, 6:00 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1778,8 +1778,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T19:01:21.816Z",
-      "lastScrapedDisplay": "Apr 20, 3:01 PM",
+      "lastScraped": "2026-04-20T22:01:21.910Z",
+      "lastScrapedDisplay": "Apr 20, 6:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1969,8 +1969,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T19:01:47.607Z",
-      "lastScrapedDisplay": "Apr 20, 3:01 PM",
+      "lastScraped": "2026-04-20T22:01:47.632Z",
+      "lastScrapedDisplay": "Apr 20, 6:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -2488,8 +2488,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T19:02:12.932Z",
-      "lastScrapedDisplay": "Apr 20, 3:02 PM",
+      "lastScraped": "2026-04-20T22:02:12.936Z",
+      "lastScrapedDisplay": "Apr 20, 6:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 3,
