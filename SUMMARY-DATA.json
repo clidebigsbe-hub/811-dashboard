@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-20T13:04:45.016Z",
+  "generated": "2026-04-20T16:04:18.606Z",
   "totalTickets": 27,
   "attentionCount": 9,
   "allClearCount": 18,
@@ -288,8 +288,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/08/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T13:02:38.336Z",
-      "lastScrapedDisplay": "Apr 20, 9:02 AM",
+      "lastScraped": "2026-04-20T16:02:37.336Z",
+      "lastScrapedDisplay": "Apr 20, 12:02 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -660,8 +660,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/08/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T13:03:03.590Z",
-      "lastScrapedDisplay": "Apr 20, 9:03 AM",
+      "lastScraped": "2026-04-20T16:03:02.562Z",
+      "lastScrapedDisplay": "Apr 20, 12:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -896,8 +896,8 @@
       "callerPhone": "(270)316-1699",
       "startDate": "04/14/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T13:03:54.165Z",
-      "lastScrapedDisplay": "Apr 20, 9:03 AM",
+      "lastScraped": "2026-04-20T16:03:27.860Z",
+      "lastScrapedDisplay": "Apr 20, 12:03 PM",
       "responseSummary": {
         "total": 10,
         "clear": 3,
@@ -1342,12 +1342,12 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T13:04:19.550Z",
-      "lastScrapedDisplay": "Apr 20, 9:04 AM",
+      "lastScraped": "2026-04-20T16:03:53.100Z",
+      "lastScrapedDisplay": "Apr 20, 12:03 PM",
       "responseSummary": {
-        "total": 7,
+        "total": 8,
         "clear": 1,
-        "marked": 2,
+        "marked": 3,
         "markedExceptions": 0,
         "unmarked": 4,
         "noResponse": 0
@@ -1419,6 +1419,15 @@
           "hasDelay": false,
           "hasException": false,
           "details": "Date:04/14/2026 11:07 AM AT&T - DISTRIBUTION COMMUNICATIONS"
+        },
+        {
+          "company": "AT&T - DISTRIBUTION",
+          "utilityTypes": "COMMUNICATIONS",
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
+          "hasException": false,
+          "details": "Date:04/20/2026 08:31 AM"
         }
       ]
     },
@@ -1451,8 +1460,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T13:04:44.789Z",
-      "lastScrapedDisplay": "Apr 20, 9:04 AM",
+      "lastScraped": "2026-04-20T16:04:18.387Z",
+      "lastScrapedDisplay": "Apr 20, 12:04 PM",
       "responseSummary": {
         "total": 7,
         "clear": 2,
@@ -1642,8 +1651,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T13:00:55.616Z",
-      "lastScrapedDisplay": "Apr 20, 9:00 AM",
+      "lastScraped": "2026-04-20T16:00:55.110Z",
+      "lastScrapedDisplay": "Apr 20, 12:00 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1769,8 +1778,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T13:01:22.004Z",
-      "lastScrapedDisplay": "Apr 20, 9:01 AM",
+      "lastScraped": "2026-04-20T16:01:21.467Z",
+      "lastScrapedDisplay": "Apr 20, 12:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1960,8 +1969,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T13:01:47.772Z",
-      "lastScrapedDisplay": "Apr 20, 9:01 AM",
+      "lastScraped": "2026-04-20T16:01:46.849Z",
+      "lastScrapedDisplay": "Apr 20, 12:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -2479,8 +2488,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T13:02:13.026Z",
-      "lastScrapedDisplay": "Apr 20, 9:02 AM",
+      "lastScraped": "2026-04-20T16:02:12.066Z",
+      "lastScrapedDisplay": "Apr 20, 12:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 3,
