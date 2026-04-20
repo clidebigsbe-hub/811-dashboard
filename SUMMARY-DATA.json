@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-20T01:04:44.028Z",
+  "generated": "2026-04-20T13:04:45.016Z",
   "totalTickets": 27,
-  "attentionCount": 10,
-  "allClearCount": 17,
+  "attentionCount": 9,
+  "allClearCount": 18,
   "archivedThisRun": 0,
   "tickets": [
     {
@@ -288,8 +288,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/08/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:02:37.383Z",
-      "lastScrapedDisplay": "Apr 19, 9:02 PM",
+      "lastScraped": "2026-04-20T13:02:38.336Z",
+      "lastScrapedDisplay": "Apr 20, 9:02 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -660,8 +660,8 @@
       "callerPhone": "(470)262-2280",
       "startDate": "04/08/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:03:02.657Z",
-      "lastScrapedDisplay": "Apr 19, 9:03 PM",
+      "lastScraped": "2026-04-20T13:03:03.590Z",
+      "lastScrapedDisplay": "Apr 20, 9:03 AM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -777,30 +777,30 @@
       "caller": "RAFAEL RIVAS",
       "callerPhone": "(470)262-2280",
       "startDate": "04/08/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:03:27.908Z",
-      "lastScrapedDisplay": "Apr 19, 9:03 PM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-04-20T13:03:28.909Z",
+      "lastScrapedDisplay": "Apr 20, 9:03 AM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
-        "marked": 4,
+        "marked": 7,
         "markedExceptions": 0,
-        "unmarked": 3,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "INSIGHT COMMUNICATIONS (NEW ALBANY)",
           "utilityTypes": "CABLE TV",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/16/2026 04:43 PM Respondent:JAKOB PUTNAM ( OTS (IN) ) Attempted to contact: WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-17 06:00:48 TO 2026-04-24 06:00:54 - EXCAVATION DAT, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-17 06:00:48 TO 2026-04-24 06:00:54 - EXCAVATION DATE CHANGED FROM: 2026-04-17 07:00:48 TO: 2026-04-24 07:00:54 - WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-17 06:00:48 TO 2026-04-24 06:00:54 - EXCAVATION DATE CHANGED FROM: 2026-04-17 07:00:48 TO: 2"
+          "details": "Date:04/20/2026 04:58 AM Respondent:JAKOB PUTNAM ( OTS (IN) ) Yes RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC"
         },
         {
           "company": "RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND",
@@ -823,20 +823,20 @@
         {
           "company": "CENTERPOINT ENERGY (SOUTH)",
           "utilityTypes": "GAS",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/16/2026 04:38 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-17 06:00:48 TO 2026-04-24 06:00:54 - EXCAVATION DATE CHANGED FROM: 2026-04-17 07:00:48 TO: 2026-04-24 07:00:54 No CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
+          "details": "Date:04/20/2026 04:58 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-20 07:54:07 No CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC"
         },
         {
           "company": "CENTERPOINT ENERGY (SOUTH ELECTRIC)",
           "utilityTypes": "ELECTRIC",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/16/2026 04:39 PM Respondent:OTS LOCATING Attempted to contact: RAFAEL RIVAS, Comments : WORKING ON PRIORITY LIST - CHANGED FROM: 2026-04-17 06:00:48 TO 2026-04-24 06:00:54 - EXCAVATION DATE CHANGED FROM: 2026-04-17 07:00:48 TO: 2026-04-24 07:00:54 Yes CHANDLER UTILITIES SEWER, STORM, WATER"
+          "details": "Date:04/20/2026 04:58 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-20 07:54:07 Yes CHANDLER UTILITIES SEWER, STORM, WATER"
         },
         {
           "company": "CHANDLER UTILITIES",
@@ -896,8 +896,8 @@
       "callerPhone": "(270)316-1699",
       "startDate": "04/14/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:03:53.265Z",
-      "lastScrapedDisplay": "Apr 19, 9:03 PM",
+      "lastScraped": "2026-04-20T13:03:54.165Z",
+      "lastScrapedDisplay": "Apr 20, 9:03 AM",
       "responseSummary": {
         "total": 10,
         "clear": 3,
@@ -1342,8 +1342,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:04:18.545Z",
-      "lastScrapedDisplay": "Apr 19, 9:04 PM",
+      "lastScraped": "2026-04-20T13:04:19.550Z",
+      "lastScrapedDisplay": "Apr 20, 9:04 AM",
       "responseSummary": {
         "total": 7,
         "clear": 1,
@@ -1451,8 +1451,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:04:43.797Z",
-      "lastScrapedDisplay": "Apr 19, 9:04 PM",
+      "lastScraped": "2026-04-20T13:04:44.789Z",
+      "lastScrapedDisplay": "Apr 20, 9:04 AM",
       "responseSummary": {
         "total": 7,
         "clear": 2,
@@ -1642,8 +1642,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:00:55.103Z",
-      "lastScrapedDisplay": "Apr 19, 9:00 PM",
+      "lastScraped": "2026-04-20T13:00:55.616Z",
+      "lastScrapedDisplay": "Apr 20, 9:00 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1769,8 +1769,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:01:21.461Z",
-      "lastScrapedDisplay": "Apr 19, 9:01 PM",
+      "lastScraped": "2026-04-20T13:01:22.004Z",
+      "lastScrapedDisplay": "Apr 20, 9:01 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1960,8 +1960,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:01:46.793Z",
-      "lastScrapedDisplay": "Apr 19, 9:01 PM",
+      "lastScraped": "2026-04-20T13:01:47.772Z",
+      "lastScrapedDisplay": "Apr 20, 9:01 AM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -2479,8 +2479,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-20T01:02:12.123Z",
-      "lastScrapedDisplay": "Apr 19, 9:02 PM",
+      "lastScraped": "2026-04-20T13:02:13.026Z",
+      "lastScrapedDisplay": "Apr 20, 9:02 AM",
       "responseSummary": {
         "total": 8,
         "clear": 3,
