@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-23T13:03:02.160Z",
+  "generated": "2026-04-23T16:03:03.958Z",
   "totalTickets": 21,
-  "attentionCount": 6,
-  "allClearCount": 14,
+  "attentionCount": 5,
+  "allClearCount": 15,
   "archivedThisRun": 0,
   "tickets": [
     {
@@ -520,8 +520,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-23T13:02:36.636Z",
-      "lastScrapedDisplay": "Apr 23, 9:02 AM",
+      "lastScraped": "2026-04-23T16:02:38.455Z",
+      "lastScrapedDisplay": "Apr 23, 12:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -638,8 +638,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-23T13:03:01.935Z",
-      "lastScrapedDisplay": "Apr 23, 9:03 AM",
+      "lastScraped": "2026-04-23T16:03:03.732Z",
+      "lastScrapedDisplay": "Apr 23, 12:03 PM",
       "responseSummary": {
         "total": 8,
         "clear": 2,
@@ -838,8 +838,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-23T13:00:53.960Z",
-      "lastScrapedDisplay": "Apr 23, 9:00 AM",
+      "lastScraped": "2026-04-23T16:00:56.219Z",
+      "lastScrapedDisplay": "Apr 23, 12:00 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -965,8 +965,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-23T13:01:20.303Z",
-      "lastScrapedDisplay": "Apr 23, 9:01 AM",
+      "lastScraped": "2026-04-23T16:01:22.613Z",
+      "lastScrapedDisplay": "Apr 23, 12:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1156,8 +1156,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-23T13:01:46.103Z",
-      "lastScrapedDisplay": "Apr 23, 9:01 AM",
+      "lastScraped": "2026-04-23T16:01:47.933Z",
+      "lastScrapedDisplay": "Apr 23, 12:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1674,21 +1674,21 @@
       "caller": "ROGER PEREZ",
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-23T13:02:11.373Z",
-      "lastScrapedDisplay": "Apr 23, 9:02 AM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-04-23T16:02:13.203Z",
+      "lastScrapedDisplay": "Apr 23, 12:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 3,
-        "marked": 4,
+        "marked": 5,
         "markedExceptions": 0,
-        "unmarked": 1,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
@@ -1702,11 +1702,11 @@
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "MARKED",
+          "statusDetail": "Marked - Underground facilities in the proposed excavation area have been marked.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/10/2026 11:12 AM Attempted to contact: ROGER PEREZ, Comments : . - CHANGED FROM: 2026-04-15 06:00:00 TO 2026-04-30 06:00:07 - EXCAVATION DATE CHANGED FROM: 2026-04-15 07:00:00 TO: 2026-04-30 07:00:07 CENTERPOINT ENERGY (SOUTH) GAS *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
+          "details": "Date:04/23/2026 07:59 AM CENTERPOINT ENERGY (SOUTH) GAS *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
