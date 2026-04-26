@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-26T13:02:38.183Z",
+  "generated": "2026-04-26T16:02:38.074Z",
   "totalTickets": 21,
   "attentionCount": 5,
   "allClearCount": 15,
@@ -520,8 +520,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-26T13:02:12.696Z",
-      "lastScrapedDisplay": "Apr 26, 9:02 AM",
+      "lastScraped": "2026-04-26T16:02:12.564Z",
+      "lastScrapedDisplay": "Apr 26, 12:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 1,
@@ -638,8 +638,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-26T13:02:37.954Z",
-      "lastScrapedDisplay": "Apr 26, 9:02 AM",
+      "lastScraped": "2026-04-26T16:02:37.856Z",
+      "lastScrapedDisplay": "Apr 26, 12:02 PM",
       "responseSummary": {
         "total": 8,
         "clear": 2,
@@ -838,8 +838,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-26T13:00:55.742Z",
-      "lastScrapedDisplay": "Apr 26, 9:00 AM",
+      "lastScraped": "2026-04-26T16:00:55.155Z",
+      "lastScrapedDisplay": "Apr 26, 12:00 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -965,8 +965,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-26T13:01:22.110Z",
-      "lastScrapedDisplay": "Apr 26, 9:01 AM",
+      "lastScraped": "2026-04-26T16:01:21.504Z",
+      "lastScrapedDisplay": "Apr 26, 12:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
@@ -1156,8 +1156,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-26T13:01:47.446Z",
-      "lastScrapedDisplay": "Apr 26, 9:01 AM",
+      "lastScraped": "2026-04-26T16:01:47.283Z",
+      "lastScrapedDisplay": "Apr 26, 12:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 2,
