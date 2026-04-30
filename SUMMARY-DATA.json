@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-30T19:01:22.017Z",
+  "generated": "2026-04-30T22:01:22.392Z",
   "totalTickets": 21,
   "attentionCount": 2,
   "allClearCount": 18,
@@ -838,8 +838,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-30T19:00:55.453Z",
-      "lastScrapedDisplay": "Apr 30, 3:00 PM",
+      "lastScraped": "2026-04-30T22:00:55.853Z",
+      "lastScrapedDisplay": "Apr 30, 6:00 PM",
       "responseSummary": {
         "total": 9,
         "clear": 6,
@@ -965,8 +965,8 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-30T19:01:21.843Z",
-      "lastScrapedDisplay": "Apr 30, 3:01 PM",
+      "lastScraped": "2026-04-30T22:01:22.214Z",
+      "lastScrapedDisplay": "Apr 30, 6:01 PM",
       "responseSummary": {
         "total": 9,
         "clear": 6,
