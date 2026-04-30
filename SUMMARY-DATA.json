@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-30T13:02:38.666Z",
+  "generated": "2026-04-30T16:02:37.694Z",
   "totalTickets": 21,
-  "attentionCount": 5,
-  "allClearCount": 15,
+  "attentionCount": 2,
+  "allClearCount": 18,
   "archivedThisRun": 0,
   "tickets": [
     {
@@ -519,57 +519,57 @@
       "caller": "ROGER PEREZ",
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-30T13:02:13.078Z",
-      "lastScrapedDisplay": "Apr 30, 9:02 AM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-04-30T16:02:12.205Z",
+      "lastScrapedDisplay": "Apr 30, 12:02 PM",
       "responseSummary": {
         "total": 8,
-        "clear": 1,
+        "clear": 5,
         "marked": 3,
         "markedExceptions": 0,
-        "unmarked": 4,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:11 AM Respondent:ELKE PFETTSCHER ( OTS (IN) ) Attempted to contact: ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM - ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER O"
+          "details": "Date:04/30/2026 06:39 AM Respondent:NATHAN HALE ( OTS (IN) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:06 AM Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/30/2026 7:00:39 AM TO: 4/30/2026 7:00:00 PM CENTERPOINT ENERGY (SOUTH) GAS *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
+          "details": "Date:04/30/2026 06:44 AM CENTERPOINT ENERGY (SOUTH) GAS *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:08 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:28:04 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:10 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:28:04 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -637,57 +637,57 @@
       "caller": "ROGER PEREZ",
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-30T13:02:38.438Z",
-      "lastScrapedDisplay": "Apr 30, 9:02 AM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-04-30T16:02:37.469Z",
+      "lastScrapedDisplay": "Apr 30, 12:02 PM",
       "responseSummary": {
         "total": 8,
-        "clear": 2,
+        "clear": 6,
         "marked": 2,
         "markedExceptions": 0,
-        "unmarked": 4,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:11 AM Respondent:ELKE PFETTSCHER ( OTS (IN) ) Attempted to contact: ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM - ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER O"
+          "details": "Date:04/30/2026 06:39 AM Respondent:NATHAN HALE ( OTS (IN) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:06 AM Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/30/2026 7:00:59 AM TO: 4/30/2026 7:00:00 PM CENTERPOINT ENERGY (SOUTH) GAS *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
+          "details": "Date:04/30/2026 06:51 AM CENTERPOINT ENERGY (SOUTH) GAS *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:08 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:28:30 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:10 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:28:30 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -838,14 +838,14 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-30T13:00:55.606Z",
-      "lastScrapedDisplay": "Apr 30, 9:00 AM",
+      "lastScraped": "2026-04-30T16:00:55.176Z",
+      "lastScrapedDisplay": "Apr 30, 12:00 PM",
       "responseSummary": {
         "total": 9,
-        "clear": 2,
+        "clear": 6,
         "marked": 2,
         "markedExceptions": 0,
-        "unmarked": 5,
+        "unmarked": 1,
         "noResponse": 0
       },
       "hasUnmarked": true,
@@ -856,20 +856,20 @@
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:11 AM Respondent:ELKE PFETTSCHER ( OTS (IN) ) Attempted to contact: ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM - ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER O"
+          "details": "Date:04/30/2026 06:39 AM Respondent:NATHAN HALE ( OTS (IN) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:06 AM Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/30/2026 7:00:30 AM TO: 4/30/2026 7:00:00 PM IN AMERICAN WATER SEWER, WATER *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT USIC (800) 778-9140"
+          "details": "Date:04/30/2026 06:44 AM IN AMERICAN WATER SEWER, WATER *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT USIC (800) 778-9140"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT USIC",
@@ -883,20 +883,20 @@
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:08 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:28:54 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:10 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:28:54 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -965,14 +965,14 @@
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
       "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-30T13:01:21.964Z",
-      "lastScrapedDisplay": "Apr 30, 9:01 AM",
+      "lastScraped": "2026-04-30T16:01:21.632Z",
+      "lastScrapedDisplay": "Apr 30, 12:01 PM",
       "responseSummary": {
         "total": 9,
-        "clear": 2,
+        "clear": 6,
         "marked": 2,
         "markedExceptions": 0,
-        "unmarked": 5,
+        "unmarked": 1,
         "noResponse": 0
       },
       "hasUnmarked": true,
@@ -983,20 +983,20 @@
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:11 AM Respondent:ELKE PFETTSCHER ( OTS (IN) ) Attempted to contact: ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM - ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER O"
+          "details": "Date:04/30/2026 06:39 AM Respondent:NATHAN HALE ( OTS (IN) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:06 AM Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/30/2026 7:00:50 AM TO: 4/30/2026 7:00:00 PM IN AMERICAN WATER SEWER, WATER *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT USIC (800) 778-9140"
+          "details": "Date:04/30/2026 06:51 AM IN AMERICAN WATER SEWER, WATER *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT USIC (800) 778-9140"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT USIC",
@@ -1010,20 +1010,20 @@
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:08 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:29:20 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:10 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:29:20 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
@@ -1155,39 +1155,39 @@
       "caller": "ROGER PEREZ",
       "callerPhone": "(618)803-5359",
       "startDate": "04/15/2026",
-      "overallStatus": "AWAITING LOCATE",
-      "lastScraped": "2026-04-30T13:01:47.739Z",
-      "lastScrapedDisplay": "Apr 30, 9:01 AM",
+      "overallStatus": "CLEAR TO DIG",
+      "lastScraped": "2026-04-30T16:01:46.951Z",
+      "lastScrapedDisplay": "Apr 30, 12:01 PM",
       "responseSummary": {
         "total": 9,
-        "clear": 2,
+        "clear": 6,
         "marked": 3,
         "markedExceptions": 0,
-        "unmarked": 4,
+        "unmarked": 0,
         "noResponse": 0
       },
-      "hasUnmarked": true,
+      "hasUnmarked": false,
       "hasExceptions": false,
       "hasNoResponse": false,
-      "allClear": false,
+      "allClear": true,
       "responses": [
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:11 AM Respondent:ELKE PFETTSCHER ( OTS (IN) ) Attempted to contact: ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM - ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER O"
+          "details": "Date:04/30/2026 06:39 AM Respondent:NATHAN HALE ( OTS (IN) ) RCN TELECOM SERVICES OF ILLINOIS, LLC DBA ASTOUND BROADBAND CABLE TV, COMMUNICATIONS, FIBER OPTIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:06 AM Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/30/2026 7:00:48 AM TO: 4/30/2026 7:00:00 PM IN AMERICAN WATER SEWER, WATER *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT USIC (800) 778-9140"
+          "details": "Date:04/30/2026 06:51 AM IN AMERICAN WATER SEWER, WATER *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT USIC (800) 778-9140"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT USIC",
@@ -1201,20 +1201,20 @@
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:08 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:32:57 CENTERPOINT ENERGY (SOUTH ELECTRIC) ELECTRIC *REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT (812) 530-4200"
         },
         {
           "company": "*REMINDER: ADDT NOTICE AND UPDATE TICKETS MUST BE SUBMITTED THROUGH INDIANA 811 *IF MORE QUESTIONS, CONTACT ON THE SPOT",
           "utilityTypes": "(812) 530-4200",
-          "status": "UNMARKED",
-          "statusDetail": "Unmarked - Marking Delay - Do not excavate until resolved. Excavation site is unmarked; markings are delayed. The locate technician cannot mark within two full working days or by the requested start d",
-          "hasDelay": true,
+          "status": "CLEAR",
+          "statusDetail": "Clear - No underground facilities are in the proposed excavation or design area.",
+          "hasDelay": false,
           "hasException": false,
-          "details": "Date:04/14/2026 11:10 AM Respondent:OTS LOCATING Attempted to contact: ROGER PEREZ, Comments : ONGOING PROJECT. WORKING AHEAD OF CREWS. - CHANGED FROM: 4/15/2026 7:00:00 AM TO: 4/30/2026 7:00:00 PM MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
+          "details": "Date:04/30/2026 06:34 AM Respondent:OTS LOCATING DATECOMPLETED: 2026-04-30 09:32:57 MAINSTREAM FIBER NETWORKS, LLC FIBER OPTIC"
         },
         {
           "company": "MAINSTREAM FIBER NETWORKS, LLC",
